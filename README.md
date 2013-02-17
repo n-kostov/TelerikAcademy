@@ -1,2 +1,2 @@
-Color-Picker
+Projects from Telerik Academy
 ============
