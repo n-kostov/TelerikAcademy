@@ -1,3 +1,5 @@
+
+
 #include <cstdlib>
 #include <math.h>
 #include <time.h>
@@ -251,3 +253,4 @@ int main()
     finit();
     return 0;
 }
+
