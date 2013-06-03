@@ -191,8 +191,6 @@ namespace Tree
 
         private static bool CheckPathAlreadyExist(List<int> possiblePath)
         {
-            bool exist = false;
-
             foreach (var path in paths)
             {
                 if (path.Count == possiblePath.Count)
@@ -203,13 +201,15 @@ namespace Tree
                         {
                             break;
                         }
+                        else if (i == path.Count - 1)
+                        {
+                            return true;
+                        }
                     }
-
-                    return true;
                 }
             }
 
-            return exist;
+            return false;
         }
 
         private static void PrintPaths()
