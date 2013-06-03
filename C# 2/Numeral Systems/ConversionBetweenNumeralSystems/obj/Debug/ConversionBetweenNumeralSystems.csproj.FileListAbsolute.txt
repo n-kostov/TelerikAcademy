@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\ConversionBetweenNumeralSystems\bin\Debug\ConversionBetweenNumeralSystems.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\ConversionBetweenNumeralSystems\bin\Debug\ConversionBetweenNumeralSystems.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\ConversionBetweenNumeralSystems\bin\Debug\ConversionBetweenNumeralSystems.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\ConversionBetweenNumeralSystems\obj\Debug\ConversionBetweenNumeralSystems.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\ConversionBetweenNumeralSystems\obj\Debug\ConversionBetweenNumeralSystems.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\ConversionBetweenNumeralSystems\obj\Debug\ConversionBetweenNumeralSystems.csprojResolveAssemblyReference.cache

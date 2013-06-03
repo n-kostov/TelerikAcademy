@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem1-MathExpressions\bin\Debug\Problem1-MathExpressions.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem1-MathExpressions\bin\Debug\Problem1-MathExpressions.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem1-MathExpressions\bin\Debug\Problem1-MathExpressions.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem1-MathExpressions\obj\Debug\Problem1-MathExpressions.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem1-MathExpressions\obj\Debug\Problem1-MathExpressions.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem1-MathExpressions\obj\Debug\Problem1-MathExpressions.pdb

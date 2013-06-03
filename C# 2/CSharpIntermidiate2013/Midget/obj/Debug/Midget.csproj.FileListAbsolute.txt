@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\Midget\bin\Debug\Midget.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\Midget\bin\Debug\Midget.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\Midget\bin\Debug\Midget.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\Midget\obj\Debug\Midget.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\Midget\obj\Debug\Midget.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\Midget\obj\Debug\Midget.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart2\2. Bank\bin\Debug\_2.Bank.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart2\2. Bank\bin\Debug\_2.Bank.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart2\2. Bank\bin\Debug\_2.Bank.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart2\2. Bank\obj\Debug\2. Bank.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart2\2. Bank\obj\Debug\_2.Bank.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart2\2. Bank\obj\Debug\_2.Bank.pdb

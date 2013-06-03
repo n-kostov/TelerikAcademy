@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\PHP Variables\bin\Debug\PHP Variables.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\PHP Variables\bin\Debug\PHP Variables.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\PHP Variables\bin\Debug\PHP Variables.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\PHP Variables\obj\Debug\PHP Variables.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\PHP Variables\obj\Debug\PHP Variables.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\PHP Variables\obj\Debug\PHP Variables.pdb

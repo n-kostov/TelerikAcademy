@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\3DStars\bin\Debug\3DStars.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\3DStars\obj\Debug\3DStars.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\3DStars\bin\Debug\3DStars.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\3DStars\bin\Debug\3DStars.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\3DStars\obj\Debug\3DStars.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\3DStars\obj\Debug\3DStars.pdb

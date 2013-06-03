@@ -1,0 +1,209 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Reverse string</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <label for="tb-first">String: </label>
+    <input type="text" id="tb-first" />
+    <br />
+    <a href="#" onclick="onReverseStringButtonClick()">Reverse string</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        //  1.Write a JavaScript function reverses string and returns itExample: "sample" => "elpmas".
+
+        function Solve(args) {
+            var commands = {};
+            var answer = 0;
+            for (var i = 0; i < args.length; i++) {
+                var line = args[i].replace(/\(/g, "").replace(/\)/g, "").split(" ");
+                line = line.filter(function (x) { return x });
+                if (line[0] == "def") {
+                    var result;
+                    switch (line[2]) {
+                        case "+":
+                            result = 0;
+                            for (var j = 3; j < line.length; j++) {
+                                if (isNaN(line[j])) {
+                                    result += commands[line[j]];
+                                }
+                                else {
+                                    result += parseInt(line[j]);
+                                }
+                            }
+                            break;
+                        case "-":
+                            if (isNaN(line[3])) {
+                                result = commands[line[3]];
+                            }
+                            else {
+                                result = parseInt(line[3]);
+                            }
+                            for (var j = 4; j < line.length; j++) {
+                                if (isNaN(line[j])) {
+                                    result -= commands[line[j]];
+                                }
+                                else {
+                                    result -= parseInt(line[j]);
+                                }
+                            }
+                            break;
+                        case "*":
+                            result = 1;
+                            for (var j = 3; j < line.length; j++) {
+                                if (isNaN(line[j])) {
+                                    result *= commands[line[j]];
+                                }
+                                else {
+                                    result *= parseInt(line[j]);
+                                }
+                            }
+                            break;
+                        case "/":
+                            if (isNaN(line[3])) {
+                                result = commands[line[3]];
+                            }
+                            else {
+                                result = parseInt(line[3]);
+                            }
+                            for (var j = 4; j < line.length; j++) {
+                                if (isNaN(line[j])) {
+                                    if(commands[line[j]] == 0) {
+                                        return "Division by zero! At Line:" + (i + 1);
+                                    }
+                                    result = Math.floor(result / commands[line[j]]);
+                                }
+                                else {
+                                    var number = parseInt(line[j]);
+                                    if (number == 0) {
+                                        return "Division by zero! At Line:" + (i + 1);
+                                    }
+                                    result = Math.floor(result / number);
+                                }
+                            }
+                            break;
+                        default:
+                            if (isNaN(line[2])) {
+                                result = commands[line[2]];
+                            }
+                            else {
+                                result = parseInt(line[2]);
+                            }
+                            break;
+
+                    }
+                    commands[line[1]] = result;
+                }
+                else {
+                    switch (line[0]) {
+                        case "+":
+                            answer = 0;
+                            for (var j = 1; j < line.length; j++) {
+                                if (isNaN(line[j])) {
+                                    answer += commands[line[j]];
+                                }
+                                else {
+                                    answer += parseInt(line[j]);
+                                }
+                            }
+                            break;
+                        case "-":
+                            if (isNaN(line[1])) {
+                                answer = commands[line[1]];
+                            }
+                            else {
+                                answer = parseInt(line[1]);
+                            }
+                            for (var j = 2; j < line.length; j++) {
+                                if (isNaN(line[j])) {
+                                    answer -= commands[line[j]];
+                                }
+                                else {
+                                    answer -= parseInt(line[j]);
+                                }
+                            }
+                            break;
+                        case "*":
+                            answer = 1;
+                            for (var j = 1; j < line.length; j++) {
+                                if (isNaN(line[j])) {
+                                    answer *= commands[line[j]];
+                                }
+                                else {
+                                    answer *= parseInt(line[j]);
+                                }
+                            }
+                            break;
+                        case "/":
+                            if (isNaN(line[1])) {
+                                answer = commands[line[1]];
+                            }
+                            else {
+                                answer = parseInt(line[1]);
+                            }
+                            for (var j = 2; j < line.length; j++) {
+                                if (isNaN(line[j])) {
+                                    if (commands[line[j]] == 0) {
+                                        return "Division by zero! At Line:" + (i + 1);
+                                    }
+                                    answer = Math.floor(answer / commands[line[j]]);
+                                }
+                                else {
+                                    var number = parseInt(line[j]);
+                                    if (number == 0) {
+                                        return "Division by zero! At Line:" + (i + 1);
+                                    }
+                                    answer = Math.floor(answer / number);
+                                }
+                            }
+                            break;
+
+                    }
+                }
+            }
+
+            return answer;
+        }
+
+        var args = [];
+        args[0] = "( +  4 1  )";
+        //args[0] = "(def myFunc 5)";
+        //args[1] = "(def myNewFunc (+ myFunc myFunc 2))";
+        //args[2] = "(def MyFunc (* 2 myNewFunc))";
+        //args[3] = "(/  MyFunc myFunc)";
+        //args[0] = "(def func 10)";
+        //args[1] = "(def newFunc (+  func 2))";
+        //args[2] = "(def sumFunc (+ func func newFunc 0 0 0))";
+        //args[3] = "(* sumFunc 2)";
+        console.log(Solve(args));
+    </script>
+</body>
+</html>

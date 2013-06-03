@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\4. Minesweeper\bin\Debug\_3.Minesweeper.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\4. Minesweeper\bin\Debug\_3.Minesweeper.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\4. Minesweeper\bin\Debug\_3.Minesweeper.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\4. Minesweeper\obj\Debug\4. Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\4. Minesweeper\obj\Debug\_3.Minesweeper.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\4. Minesweeper\obj\Debug\_3.Minesweeper.pdb

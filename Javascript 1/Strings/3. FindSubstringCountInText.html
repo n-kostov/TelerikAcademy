@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Find how many times a substring is contained in a given text</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <label for="tb-first">Word: </label>
+    <input type="text" id="tb-first" />
+    <br />
+    <a href="#" onclick="onFindSubstringCountButtonClick()">Get count</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        //  3.Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).
+        //    Example: The target substring is "in". The text is as follows:
+        //        The result is: 9.
+
+        var text = "We are living in an yellow submarine. We don't have anything else. " +
+            "Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.";
+
+        jsConsole.writeLine("Text: " + text);
+
+        function onFindSubstringCountButtonClick() {
+            var sub = jsConsole.read("#tb-first");
+
+            var count = getCount(sub, text);
+
+            jsConsole.writeLine('Target substring "' + sub + '" can be found ' + count + " times in the text");
+        }
+
+        function getCount(sub, text) {
+            text = text.toLowerCase();
+            sub = sub.toLowerCase();
+
+            var count = 0;
+            var index = text.indexOf(sub);
+
+            while (index != -1) {
+                count++;
+                index = text.indexOf(sub, index + 1);
+            }
+            return count;
+        }
+    </script>
+</body>
+</html>

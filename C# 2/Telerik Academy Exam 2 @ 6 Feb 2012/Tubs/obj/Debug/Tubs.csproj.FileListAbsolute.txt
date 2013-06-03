@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\Tubs\bin\Debug\Tubs.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\Tubs\bin\Debug\Tubs.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\Tubs\bin\Debug\Tubs.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\Tubs\obj\Debug\Tubs.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\Tubs\obj\Debug\Tubs.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 6 Feb 2012\Tubs\obj\Debug\Tubs.pdb

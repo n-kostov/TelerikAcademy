@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintMyName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintMyName\obj\x86\Debug\PrintMyName.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintMyName\obj\x86\Debug\PrintMyName.pdb

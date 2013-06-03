@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintAllCards\bin\Debug\PrintAllCards.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintAllCards\bin\Debug\PrintAllCards.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintAllCards\bin\Debug\PrintAllCards.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintAllCards\obj\Debug\PrintAllCards.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintAllCards\obj\Debug\PrintAllCards.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintAllCards\obj\Debug\PrintAllCards.pdb

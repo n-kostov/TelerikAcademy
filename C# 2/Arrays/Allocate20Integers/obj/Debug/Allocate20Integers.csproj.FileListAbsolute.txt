@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Allocate20Integers\bin\Debug\Allocate20Integers.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Allocate20Integers\bin\Debug\Allocate20Integers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Allocate20Integers\bin\Debug\Allocate20Integers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Allocate20Integers\obj\Debug\Allocate20Integers.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Allocate20Integers\obj\Debug\Allocate20Integers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Allocate20Integers\obj\Debug\Allocate20Integers.pdb

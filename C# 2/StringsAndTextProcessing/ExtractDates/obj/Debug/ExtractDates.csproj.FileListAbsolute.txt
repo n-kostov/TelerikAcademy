@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractDates\bin\Debug\ExtractDates.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractDates\bin\Debug\ExtractDates.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractDates\bin\Debug\ExtractDates.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractDates\obj\Debug\ExtractDates.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractDates\obj\Debug\ExtractDates.pdb

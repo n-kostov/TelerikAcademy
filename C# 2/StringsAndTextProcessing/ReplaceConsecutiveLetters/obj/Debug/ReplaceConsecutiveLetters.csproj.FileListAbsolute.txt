@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReplaceConsecutiveLetters\bin\Debug\ReplaceConsecutiveLetters.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReplaceConsecutiveLetters\bin\Debug\ReplaceConsecutiveLetters.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReplaceConsecutiveLetters\bin\Debug\ReplaceConsecutiveLetters.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReplaceConsecutiveLetters\obj\Debug\ReplaceConsecutiveLetters.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReplaceConsecutiveLetters\obj\Debug\ReplaceConsecutiveLetters.pdb

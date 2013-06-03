@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\Add2NumbersRepresentedAsArrays\bin\Debug\Add2NumbersRepresentedAsArrays.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\Add2NumbersRepresentedAsArrays\bin\Debug\Add2NumbersRepresentedAsArrays.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\Add2NumbersRepresentedAsArrays\bin\Debug\Add2NumbersRepresentedAsArrays.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\Add2NumbersRepresentedAsArrays\obj\Debug\Add2NumbersRepresentedAsArrays.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\Add2NumbersRepresentedAsArrays\obj\Debug\Add2NumbersRepresentedAsArrays.pdb

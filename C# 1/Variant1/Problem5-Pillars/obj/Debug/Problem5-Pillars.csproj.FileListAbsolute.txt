@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem5-Pillars\bin\Debug\Problem5-Pillars.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem5-Pillars\bin\Debug\Problem5-Pillars.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem5-Pillars\bin\Debug\Problem5-Pillars.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem5-Pillars\obj\Debug\Problem5-Pillars.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem5-Pillars\obj\Debug\Problem5-Pillars.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem5-Pillars\obj\Debug\Problem5-Pillars.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

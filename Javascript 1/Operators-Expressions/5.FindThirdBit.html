@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Third bit</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+</head>
+<body>
+	<label for="tb-first">Number: </label>
+	<input type="text" id="tb-first"/>
+	<br />							  
+	<a href="#" onclick="onThirdBitButtonClick()">Get third bit</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>														 
+
+		function onThirdBitButtonClick() {
+			var number = jsConsole.readInteger("#tb-first");
+			var thirdBit = ((number & (1 << 3)) >> 3) == 1 ? true : false;
+			jsConsole.writeLine("The third bit of " + number.toString(2) + " is -> " + (thirdBit ? 1 : 0));
+		}											
+	</script>			  
+</body>
+</html>

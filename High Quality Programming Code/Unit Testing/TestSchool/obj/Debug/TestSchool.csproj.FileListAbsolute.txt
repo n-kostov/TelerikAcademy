@@ -1,0 +1,14 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Team Project - Labyrinth\Unit Testing\TestSchool\obj\Debug\TestSchool.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Team Project - Labyrinth\Unit Testing\TestSchool\bin\Debug\TestSchool.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Team Project - Labyrinth\Unit Testing\TestSchool\bin\Debug\TestSchool.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Team Project - Labyrinth\Unit Testing\TestSchool\bin\Debug\School.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Team Project - Labyrinth\Unit Testing\TestSchool\bin\Debug\School.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Team Project - Labyrinth\Unit Testing\TestSchool\obj\Debug\TestSchool.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Team Project - Labyrinth\Unit Testing\TestSchool\obj\Debug\TestSchool.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Unit Testing\TestSchool\bin\Debug\TestSchool.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Unit Testing\TestSchool\bin\Debug\TestSchool.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Unit Testing\TestSchool\bin\Debug\School.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Unit Testing\TestSchool\bin\Debug\School.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Unit Testing\TestSchool\obj\Debug\TestSchool.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Unit Testing\TestSchool\obj\Debug\TestSchool.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Unit Testing\TestSchool\obj\Debug\TestSchool.pdb

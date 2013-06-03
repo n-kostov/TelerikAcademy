@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixC\bin\Debug\PrintMatrixC.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixC\bin\Debug\PrintMatrixC.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixC\bin\Debug\PrintMatrixC.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixC\obj\Debug\PrintMatrixC.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixC\obj\Debug\PrintMatrixC.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixC\obj\Debug\PrintMatrixC.pdb

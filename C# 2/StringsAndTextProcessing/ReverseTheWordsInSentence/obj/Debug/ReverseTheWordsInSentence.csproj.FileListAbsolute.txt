@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReverseTheWordsInSentence\bin\Debug\ReverseTheWordsInSentence.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReverseTheWordsInSentence\obj\Debug\ReverseTheWordsInSentence.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReverseTheWordsInSentence\bin\Debug\ReverseTheWordsInSentence.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReverseTheWordsInSentence\bin\Debug\ReverseTheWordsInSentence.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReverseTheWordsInSentence\obj\Debug\ReverseTheWordsInSentence.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ReverseTheWordsInSentence\obj\Debug\ReverseTheWordsInSentence.pdb

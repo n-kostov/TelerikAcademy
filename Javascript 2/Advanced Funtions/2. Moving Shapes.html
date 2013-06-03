@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>2. Moving Shapes</title>
+</head>
+<body>
+    <div id="header">
+        <button onclick="onRectangleDivClick()">Add rectangle</button>
+        <button onclick="onEllipseDivClick()">Add ellipse</button>
+    </div>
+    <div id="wrapper">
+    </div> 
+    <script>
+        function onRectangleDivClick() {
+            movingShapes.add("rectangle");
+        }
+
+        function onEllipseDivClick() {
+            movingShapes.add("ellipse");
+        }
+
+        var movingShapes = (function () {
+
+            var CenterX = window.innerWidth / 2;
+            var CenterY = window.innerHeight / 2;
+
+            function CreateDiv() {
+                var div = document.createElement("div");
+                div.style.width = "50px";
+                div.style.height = "50px";
+                div.style.color = generateRandomColor();
+                div.style.border = "1px" + " solid " + generateRandomColor();
+                div.style.backgroundColor = generateRandomColor();
+                div.style.position = "absolute";
+                var top = getRandomInt(200, screen.height - 200);
+                div.style.top = top + "px";
+                var left = getRandomInt(200, screen.width - 200);
+                div.style.left = left + "px";
+                div.innerText = "Div";
+                div.style.textAlign = "center";
+                div.style.borderRadius = "100%";
+
+                return div;
+            }
+
+            function getRandomInt(min, max) {
+                return Math.floor(Math.random() * (max - min + 1)) + min;
+            }
+
+            function generateRandomColor() {
+                var red = getRandomInt(0, 255);
+                var green = getRandomInt(0, 255);
+                var blue = getRandomInt(0, 255);
+
+                return "rgb(" + red + ", " + green + ", " + blue + ")";
+            }
+
+            function addRectangle() {
+                var div = CreateDiv();
+
+                document.body.appendChild(div);
+
+                moveRectangle(div);
+            }
+
+            function addEllipse() {
+                var div = CreateDiv();
+
+                document.body.appendChild(div);
+
+                moveEllipse(div);
+            }
+
+            function moveRectangle(element) {
+                var halfWidth = Math.abs(CenterX - parseInt(element.style.left));
+                var halfHeight = Math.abs(CenterY - parseInt(element.style.top));
+                var left = parseInt(element.style.left);
+                var top = parseInt(element.style.top);
+
+                setInterval(function () {
+                    
+                    if (left < CenterX + halfWidth && top === CenterY + halfHeight) {
+                        left++;
+                    } else if (left > CenterX && top > CenterY - halfHeight) {
+                        top--;
+                    } else if (top < CenterY && left > CenterX - halfWidth) {
+                        left--;
+                    } else {
+                        top++;
+                    }
+
+                    element.style.left = left + "px";
+                    element.style.top = top + "px";
+
+                }, 5);
+            }
+
+            function moveEllipse(element) {
+                element.setAttribute("angle", 0);
+
+                setInterval(function () {
+
+                    var theta = element.getAttribute("angle") * Math.PI / 180;
+                    var radius = Math.sqrt((parseInt(element.style.left) - CenterX) * (parseInt(element.style.left) - CenterX) 
+                        + (parseInt(element.style.top) - CenterY) * (parseInt(element.style.top) - CenterY));
+
+                    element.style.left = (CenterX + Math.cos(theta) * radius) + "px";
+                    element.style.top = (CenterY + Math.sin(theta) * radius) + "px";
+
+                    element.attributes.angle.nodeValue++;
+                    element.attributes.angle.nodeValue %= 360;
+
+                }, 5);
+            }
+
+            function add(string) {
+                if (string == "rectangle" || string == 1) {
+                    addRectangle();
+                }
+                if (string == "ellipse" || string == 2) {
+                    addEllipse();
+                }
+            }
+
+            return {
+                add: add
+            }
+        })();
+    </script>
+</body>
+</html>

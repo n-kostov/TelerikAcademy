@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Pwemutations\bin\Debug\Pwemutations.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Pwemutations\bin\Debug\Pwemutations.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Pwemutations\bin\Debug\Pwemutations.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Pwemutations\obj\Debug\Pwemutations.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Pwemutations\obj\Debug\Pwemutations.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\Pwemutations\obj\Debug\Pwemutations.pdb

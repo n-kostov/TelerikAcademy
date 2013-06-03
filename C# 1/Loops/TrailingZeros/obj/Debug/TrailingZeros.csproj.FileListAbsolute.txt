@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\TrailingZeros\bin\Debug\TrailingZeros.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\TrailingZeros\bin\Debug\TrailingZeros.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\TrailingZeros\bin\Debug\TrailingZeros.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\TrailingZeros\obj\Debug\TrailingZeros.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\TrailingZeros\obj\Debug\TrailingZeros.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\TrailingZeros\obj\Debug\TrailingZeros.pdb

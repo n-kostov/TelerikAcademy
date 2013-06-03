@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\2. Statistics\bin\Debug\_2.Statistics.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\2. Statistics\bin\Debug\_2.Statistics.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\2. Statistics\bin\Debug\_2.Statistics.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\2. Statistics\obj\Debug\_2.Statistics.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\2. Statistics\obj\Debug\_2.Statistics.pdb

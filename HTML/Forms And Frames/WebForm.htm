@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+    <link href="WebForm.css" rel="Stylesheet" type="text/css" />
+</head>
+<body>
+<form>
+    <table border="1" cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <label for="ln" class="label">Last Name</label>
+            </td>
+            <td colspan="3">
+                <input type="text" id="ln" pattern="[A-Za-z]+" placeholder="Nakov" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="fn" class="label">First Name</label>
+            </td>
+            <td colspan="3">
+                <input type="text" id="fn" pattern="[a-zA-Z]+" placeholder="Svetlin" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="address" class="label">Address</label>
+            </td>
+            <td colspan="3">
+                <textarea id="address" placeholder="17 Hristo Botev Str. floor 3, apt. 12"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="city" class="label">City</label>
+            </td>
+            <td>
+                <input type="text" id="city" pattern="[A-Za-z]+" placeholder="Kaspichan" />
+            </td>
+            <td>
+                <label for="state"  class="label">State</label>
+            </td>
+            <td >
+                <input type="text" pattern="[a-zA-Z]{2,3}" id="state"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="zip" class="label">Zip/Postal Code</label>
+            </td>
+            <td colspan="3">
+                <input type="text" id="zip" pattern="[0-9]{4}" placeholder="9325"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="country" class="label">Country</label>
+            </td>
+            <td colspan="3">
+                <select id="country">
+                    <option value="value1">Bulgaria</option>
+                    <option value="value2">England</option>
+                    <option value="value3">France</option>
+                    <option value="value4">Germany</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="phone" class="label">Phone (country code,<br />
+                &nbsp;area code, number)</label>
+            </td>
+            <td colspan="3">
+                (+
+                <input type="text" id="phone" pattern="[0-9]{3}" placeholder="359"/>
+                )
+                <input type="text" id="phone2" pattern="[0-9]{2}" placeholder="88"/>
+                -
+                <input type="text" id="phone3" pattern="[0-9]{7}" placeholder="8334343"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="mail" class="label">E-mail</label>
+            </td>
+            <td colspan="3">
+                <input type="mail" id="mail" pattern="^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$" placeholder="nakov@kaspichan.org"/>
+            </td>
+        </tr>
+         <tr>
+            <td>
+                <label class="label">Birth date</label>
+            </td>
+            <td colspan="3">
+                <label for="month">Month</label>
+                <input type="text" id="month" pattern="[0-9]{1,2}" placeholder="06"/>
+                <label for="day">Day</label>
+                <input type="text" id="day" pattern="[0-9]{1,2}" placeholder="14"/>
+                <label for="year">Year (4 digits)</label>
+                <input type="text" id="year" pattern="[0-9]{4}" placeholder="1980"/>
+            </td>
+        </tr>
+         <tr>
+            <td>
+                <label for="gender" class="label">Gender</label>
+            </td>
+            <td colspan="3">
+                <select id="gender">
+                    <option value="value1">Male</option>
+                    <option value="valu2">Female</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label class="label">Starting date</label>
+            </td>
+            <td colspan="3">               
+                <input type="radio" name="starting" id="spring" checked/>
+                <label for="spring"> Spring 2006</label>
+                <input type="radio" name="starting" id="summer"/>
+                <label for="summer"> Summer 2006</label>
+            </td>
+        </tr>
+         <tr>
+            <td>
+                <label for="comment" class="label">Comments/Questions</label>
+            </td>
+            <td colspan="3">
+                <textarea id="comment" placeholder="Please send me mor information about the lodging."></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+            <div>
+                <input type="submit" value="Submit"/>
+                <input type="reset" value="Clear This Form" />
+            </div>
+            </td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>

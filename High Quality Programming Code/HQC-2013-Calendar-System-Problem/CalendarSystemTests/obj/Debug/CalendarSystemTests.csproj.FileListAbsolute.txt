@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\HQC-2013-Calendar-System-Problem\CalendarSystemTests\bin\Debug\CalendarSystemTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\HQC-2013-Calendar-System-Problem\CalendarSystemTests\bin\Debug\CalendarSystemTests.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\HQC-2013-Calendar-System-Problem\CalendarSystemTests\obj\Debug\CalendarSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\HQC-2013-Calendar-System-Problem\CalendarSystemTests\obj\Debug\CalendarSystemTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\HQC-2013-Calendar-System-Problem\CalendarSystemTests\obj\Debug\CalendarSystemTests.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\HQC-2013-Calendar-System-Problem\CalendarSystemTests\bin\Debug\CalendarSystem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\HQC-2013-Calendar-System-Problem\CalendarSystemTests\bin\Debug\PowerCollections.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\HQC-2013-Calendar-System-Problem\CalendarSystemTests\bin\Debug\CalendarSystem.pdb

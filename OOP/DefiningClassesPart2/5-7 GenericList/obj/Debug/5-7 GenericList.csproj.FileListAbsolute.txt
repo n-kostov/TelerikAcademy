@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\5-7 GenericList\bin\Debug\5-7 GenericList.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\5-7 GenericList\bin\Debug\5-7 GenericList.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\5-7 GenericList\bin\Debug\5-7 GenericList.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\5-7 GenericList\obj\Debug\5-7 GenericList.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\5-7 GenericList\obj\Debug\5-7 GenericList.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\5-7 GenericList\obj\Debug\5-7 GenericList.pdb

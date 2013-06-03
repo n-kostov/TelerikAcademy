@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\2.Human\bin\Debug\2.Human.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\2.Human\bin\Debug\2.Human.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\2.Human\bin\Debug\2.Human.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\2.Human\obj\Debug\2.Human.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\2.Human\obj\Debug\2.Human.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\2.Human\obj\Debug\2.Human.csprojResolveAssemblyReference.cache

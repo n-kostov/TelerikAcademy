@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem1-CartesianCoordinateSystem\bin\Debug\Problem1-CartesianCoordinateSystem.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem1-CartesianCoordinateSystem\bin\Debug\Problem1-CartesianCoordinateSystem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem1-CartesianCoordinateSystem\bin\Debug\Problem1-CartesianCoordinateSystem.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem1-CartesianCoordinateSystem\obj\Debug\Problem1-CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem1-CartesianCoordinateSystem\obj\Debug\Problem1-CartesianCoordinateSystem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem1-CartesianCoordinateSystem\obj\Debug\Problem1-CartesianCoordinateSystem.pdb

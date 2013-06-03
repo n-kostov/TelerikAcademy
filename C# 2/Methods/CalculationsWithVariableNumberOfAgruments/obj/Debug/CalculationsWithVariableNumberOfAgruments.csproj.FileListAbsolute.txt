@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\CalculationsWithVariableNumberOfAgruments\bin\Debug\CalculationsWithVariableNumberOfAgruments.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\CalculationsWithVariableNumberOfAgruments\bin\Debug\CalculationsWithVariableNumberOfAgruments.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\CalculationsWithVariableNumberOfAgruments\bin\Debug\CalculationsWithVariableNumberOfAgruments.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\CalculationsWithVariableNumberOfAgruments\obj\Debug\CalculationsWithVariableNumberOfAgruments.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\CalculationsWithVariableNumberOfAgruments\obj\Debug\CalculationsWithVariableNumberOfAgruments.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\CalculationsWithVariableNumberOfAgruments\obj\Debug\CalculationsWithVariableNumberOfAgruments.csprojResolveAssemblyReference.cache

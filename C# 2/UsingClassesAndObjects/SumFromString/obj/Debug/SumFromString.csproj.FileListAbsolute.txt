@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\SumFromString\bin\Debug\SumFromString.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\SumFromString\bin\Debug\SumFromString.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\SumFromString\bin\Debug\SumFromString.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\SumFromString\obj\Debug\SumFromString.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\SumFromString\obj\Debug\SumFromString.pdb

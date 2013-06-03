@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\ExchangeTwoVariables\bin\Debug\ExchangeTwoVariables.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\ExchangeTwoVariables\bin\Debug\ExchangeTwoVariables.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\ExchangeTwoVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\ExchangeTwoVariables\obj\x86\Debug\ExchangeTwoVariables.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\ExchangeTwoVariables\obj\x86\Debug\ExchangeTwoVariables.pdb

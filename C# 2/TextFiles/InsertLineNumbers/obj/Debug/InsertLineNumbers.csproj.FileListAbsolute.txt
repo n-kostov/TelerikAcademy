@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\InsertLineNumbers\bin\Debug\InsertLineNumbers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\InsertLineNumbers\obj\Debug\InsertLineNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\InsertLineNumbers\obj\Debug\InsertLineNumbers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\InsertLineNumbers\obj\Debug\InsertLineNumbers.csprojResolveAssemblyReference.cache

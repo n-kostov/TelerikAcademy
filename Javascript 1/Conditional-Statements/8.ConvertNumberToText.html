@@ -1,0 +1,211 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Name of number</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+</head>
+<body>
+	<label for="tb-first">Number: </label>
+	<input type="text" id="tb-first"/>
+	<br />							  
+	<a href="#" onclick="onFindNameButtonClick()">Name the number</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>														 
+
+		function GetDigits(digit)
+		{
+			switch (digit)
+			{
+				case 0:
+					jsConsole.write("Zero");
+					break;
+				case 1:
+					jsConsole.write("One");
+					break;
+				case 2:
+					jsConsole.write("Two");
+					break;
+				case 3:
+					jsConsole.write("Three");
+					break;
+				case 4:
+					jsConsole.write("Four");
+					break;
+				case 5:
+					jsConsole.write("Five");
+					break;
+				case 6:
+					jsConsole.write("Six");
+					break;
+				case 7:
+					jsConsole.write("Seven");
+					break;
+				case 8:
+					jsConsole.write("Eight");
+					break;
+				case 9:
+					jsConsole.write("Nine");
+					break;
+				case 10:
+					jsConsole.write("Ten");
+					break;
+				case 11:
+					jsConsole.write("Eleven");
+					break;
+				case 12:
+					jsConsole.write("Twelve");
+					break;
+				case 13:
+					jsConsole.write("Thirteen");
+					break;
+				case 14:
+					jsConsole.write("Fourteen");
+					break;
+				case 15:
+					jsConsole.write("Fifteen");
+					break;
+				case 16:
+					jsConsole.write("Sixteen");
+					break;
+				case 17:
+					jsConsole.write("Seventeen");
+					break;
+				case 18:
+					jsConsole.write("Eighteen");
+					break;
+				case 19:
+					jsConsole.write("Nineteen");
+					break;
+			}
+		}
+
+		function GetDecimals(digit)
+		{
+			switch (digit)
+			{
+				case 2:
+					jsConsole.write("Twenty");
+					break;
+				case 3:
+					jsConsole.write("Thirty");
+					break;
+				case 4:
+					jsConsole.write("Fourty");
+					break;
+				case 5:
+					jsConsole.write("Fifty");
+					break;
+				case 6:
+					jsConsole.write("Sixty");
+					break;
+				case 7:
+					jsConsole.write("Seventy");
+					break;
+				case 8:
+					jsConsole.write("Eighty");
+					break;
+				case 9:
+					jsConsole.write("Ninety");
+					break;
+			}
+		}
+	
+	
+		function onFindNameButtonClick() {
+			var number = jsConsole.readFloat("#tb-first");
+			if(number >= 0 && number <= 999)
+			{
+				if (number > 99)
+				{
+					GetDigits(Math.floor(number / 100));
+					jsConsole.write(" hundred");
+					number %= 100;
+					var secondDigit = Math.floor(number / 10);
+					if (secondDigit > 1)
+					{
+						jsConsole.write(" ");
+						GetDecimals(secondDigit);
+						if (number % 10 != 0)
+						{
+							jsConsole.write(" ");
+							GetDigits(number % 10);
+						}
+					} 
+					else
+					{
+						if (number != 0)
+						{
+							jsConsole.write(" and ");
+							GetDigits(number);
+						}
+					}
+				}
+				else
+				{
+					if (number > 9)
+					{
+
+						var secondDigit = Math.floor(number / 10);
+						if (secondDigit > 1)
+						{
+							GetDecimals(secondDigit);
+							if (number % 10 != 0)
+							{
+								jsConsole.write(" ");
+								GetDigits(number % 10);
+							}
+						}
+						else
+						{
+							if (number > 9)
+							{
+								GetDigits(number);
+							}
+							else
+							{
+								jsConsole.write(" and ");
+								GetDigits(number);
+							}
+						}
+					}
+					else
+					{
+						GetDigits(number);
+					}
+				}
+				jsConsole.writeLine("");
+			}
+			else
+			{
+				alert("Cannot find the text representation of number outside of [0, 999]!");
+			}
+		}											
+	</script>			  
+</body>
+</html>

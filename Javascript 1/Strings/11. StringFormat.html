@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Format a string using placeholders</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <script src="scripts/string-extensions.js"></script>
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        //  11.Write a function that formats a string using placeholders:
+
+        var format = "{0}, {1}, {0} text {2}";
+        var str = stringFormat(format, 1, "Pesho", "Gosho");
+
+        jsConsole.writeLine('Format: stringFormat("' + format + '", ' + 1 + ", " + "Pesho" + ", " + "Gosho" + ")");
+        jsConsole.writeLine(str);
+
+        function stringFormat(text) {
+            var result = "";
+            var indexLeft = text.indexOf("{");
+            var indexRight = text.indexOf("}");
+            var index = 0;
+
+            while (indexLeft != -1 && indexRight != -1) {
+                var number = parseInt(text.substr(indexLeft + 1, indexRight - 1));
+                result += text.substring(index, indexLeft);
+                result += arguments[number + 1];
+
+                index = indexRight + 1;
+                indexLeft = text.indexOf("{", indexLeft + 1);
+                indexRight = text.indexOf("}", indexRight + 1);
+            }
+            return result;
+        }
+    </script>
+</body>
+</html>

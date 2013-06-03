@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\SumOfN-Numbers\bin\Debug\SumOfN-Numbers.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\SumOfN-Numbers\bin\Debug\SumOfN-Numbers.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\SumOfN-Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\SumOfN-Numbers\obj\x86\Debug\SumOfN-Numbers.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\SumOfN-Numbers\obj\x86\Debug\SumOfN-Numbers.pdb

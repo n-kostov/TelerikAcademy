@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteWordsWithPrefix\bin\Debug\DeleteWordsWithPrefix.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteWordsWithPrefix\bin\Debug\DeleteWordsWithPrefix.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteWordsWithPrefix\bin\Debug\DeleteWordsWithPrefix.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteWordsWithPrefix\obj\Debug\DeleteWordsWithPrefix.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteWordsWithPrefix\obj\Debug\DeleteWordsWithPrefix.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteWordsWithPrefix\obj\Debug\DeleteWordsWithPrefix.pdb

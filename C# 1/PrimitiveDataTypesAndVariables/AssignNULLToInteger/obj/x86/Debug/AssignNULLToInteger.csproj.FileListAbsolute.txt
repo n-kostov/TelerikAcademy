@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignNULLToInteger\bin\Debug\AssignNULLToInteger.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignNULLToInteger\bin\Debug\AssignNULLToInteger.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignNULLToInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignNULLToInteger\obj\x86\Debug\AssignNULLToInteger.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignNULLToInteger\obj\x86\Debug\AssignNULLToInteger.pdb

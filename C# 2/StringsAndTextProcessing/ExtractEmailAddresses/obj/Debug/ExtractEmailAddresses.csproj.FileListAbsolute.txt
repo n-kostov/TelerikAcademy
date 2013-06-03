@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractEmailAddresses\bin\Debug\ExtractEmailAddresses.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractEmailAddresses\bin\Debug\ExtractEmailAddresses.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractEmailAddresses\bin\Debug\ExtractEmailAddresses.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractEmailAddresses\obj\Debug\ExtractEmailAddresses.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractEmailAddresses\obj\Debug\ExtractEmailAddresses.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractEmailAddresses\obj\Debug\ExtractEmailAddresses.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\FirstElementBiggerThanHisNeighbors\bin\Debug\FirstElementBiggerThanHisNeighbors.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\FirstElementBiggerThanHisNeighbors\bin\Debug\FirstElementBiggerThanHisNeighbors.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\FirstElementBiggerThanHisNeighbors\bin\Debug\FirstElementBiggerThanHisNeighbors.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\FirstElementBiggerThanHisNeighbors\obj\Debug\FirstElementBiggerThanHisNeighbors.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\FirstElementBiggerThanHisNeighbors\obj\Debug\FirstElementBiggerThanHisNeighbors.pdb

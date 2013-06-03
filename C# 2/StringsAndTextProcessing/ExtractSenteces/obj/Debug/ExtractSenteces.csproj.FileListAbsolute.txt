@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractSenteces\bin\Debug\ExtractSenteces.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractSenteces\bin\Debug\ExtractSenteces.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractSenteces\bin\Debug\ExtractSenteces.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractSenteces\obj\Debug\ExtractSenteces.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractSenteces\obj\Debug\ExtractSenteces.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractSenteces\obj\Debug\ExtractSenteces.pdb

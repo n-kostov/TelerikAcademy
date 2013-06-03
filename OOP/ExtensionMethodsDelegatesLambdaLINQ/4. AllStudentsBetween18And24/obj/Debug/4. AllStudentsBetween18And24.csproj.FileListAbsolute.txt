@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\4. AllStudentsBetween18And24\bin\Debug\_4.AllStudentsBetween18And24.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\4. AllStudentsBetween18And24\bin\Debug\_4.AllStudentsBetween18And24.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\4. AllStudentsBetween18And24\bin\Debug\_4.AllStudentsBetween18And24.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\4. AllStudentsBetween18And24\obj\Debug\_4.AllStudentsBetween18And24.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\4. AllStudentsBetween18And24\obj\Debug\_4.AllStudentsBetween18And24.pdb

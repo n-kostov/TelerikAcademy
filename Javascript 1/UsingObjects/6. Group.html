@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Group an array of persons by age, first or last name</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        //  6.Write a function that groups an array of persons by age, first or last name. 
+        //  The function must return an associative array, with keys - the groups, and values -arrays with persons in this groups
+
+        var persons = [
+            { firstname: "Gosho", lastname: "Petrov", age: 32 },
+            { firstname: "Bay", lastname: "Ivan", age: 81 },
+            { firstname: "Pesho", lastname: "Geshev", age: 152 },
+            { firstname: "Gosho", lastname: "Geshev", age: 31 },
+            { firstname: "Ivan", lastname: "Arabadjiev", age: 32 }];
+
+        var groupedByFirstName = group(persons, "firstname");
+
+        for (var property in groupedByFirstName) {
+
+            jsConsole.write(property + ": ");
+
+            for (var i = 0; i < groupedByFirstName[property].length; i++) {
+
+                jsConsole.write(groupedByFirstName[property][i].firstname + " " + groupedByFirstName[property][i].lastname
+                    + " is " + groupedByFirstName[property][i].age + " years old");
+
+                if (i != groupedByFirstName[property].length - 1) {
+                    jsConsole.write(", ");
+                }
+            }
+            jsConsole.writeLine("");
+        }
+
+        function group(persons, property) {
+            var result = {};
+            for (var i = 0; i < persons.length; i++) {
+                if (!result[persons[i][property]]) {
+                    result[persons[i][property]] = new Array();
+                }
+                result[persons[i][property]].push(persons[i]);
+
+            }
+            return result;
+        }
+    </script>
+</body>
+</html>

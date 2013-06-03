@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\3DSlices\bin\Debug\3DSlices.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\3DSlices\obj\Debug\3DSlices.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\3DSlices\bin\Debug\3DSlices.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\3DSlices\bin\Debug\3DSlices.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\3DSlices\obj\Debug\3DSlices.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\3DSlices\obj\Debug\3DSlices.pdb

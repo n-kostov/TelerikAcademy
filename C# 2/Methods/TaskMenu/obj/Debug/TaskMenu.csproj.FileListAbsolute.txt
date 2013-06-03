@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\TaskMenu\bin\Debug\TaskMenu.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\TaskMenu\bin\Debug\TaskMenu.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\TaskMenu\bin\Debug\TaskMenu.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\TaskMenu\obj\Debug\TaskMenu.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\TaskMenu\obj\Debug\TaskMenu.pdb

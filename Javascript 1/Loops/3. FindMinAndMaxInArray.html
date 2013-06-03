@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Find the min and max numbers in array</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+</head>
+<body>
+	<label for="tb-first">Array of numbers (use space between the elements): </label>
+	<input type="text" id="tb-first"/>
+	<br />
+	<a href="#" onclick="onFindMinMaxButtonClick()">Find min and max elements</a>		
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>					
+	function onFindMinMaxButtonClick() {
+				var arr = jsConsole.read("#tb-first");
+				var array = arr.split(" ");									 
+
+				jsConsole.writeLine("The array is: " + array);
+
+				var min = arr[0];
+				var max = arr[0];
+				for(var i = 1; i < array.length;i++)
+				{
+					if (array[i] - max > 0) 
+					{
+						max = array[i];
+					}
+					if (array[i] - min < 0) 
+					{
+						min = array[i];
+					}
+				}
+				jsConsole.writeLine("Min: " + min);
+				jsConsole.writeLine("Max: " + max);	
+			}									
+	</script>			  
+</body>
+</html>

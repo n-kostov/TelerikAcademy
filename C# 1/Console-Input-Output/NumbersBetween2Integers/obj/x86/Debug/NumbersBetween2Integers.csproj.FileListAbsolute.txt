@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\NumbersBetween2Integers\bin\Debug\NumbersBetween2Integers.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\NumbersBetween2Integers\bin\Debug\NumbersBetween2Integers.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\NumbersBetween2Integers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\NumbersBetween2Integers\obj\x86\Debug\NumbersBetween2Integers.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\NumbersBetween2Integers\obj\x86\Debug\NumbersBetween2Integers.pdb

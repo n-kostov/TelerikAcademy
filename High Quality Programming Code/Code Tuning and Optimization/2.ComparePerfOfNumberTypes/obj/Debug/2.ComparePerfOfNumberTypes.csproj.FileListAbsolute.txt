@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\2.ComparePerfOfNumberTypes\bin\Debug\2.ComparePerfOfNumberTypes.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\2.ComparePerfOfNumberTypes\obj\Debug\2.ComparePerfOfNumberTypes.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\2.ComparePerfOfNumberTypes\bin\Debug\2.ComparePerfOfNumberTypes.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\2.ComparePerfOfNumberTypes\bin\Debug\2.ComparePerfOfNumberTypes.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\2.ComparePerfOfNumberTypes\obj\Debug\2.ComparePerfOfNumberTypes.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\2.ComparePerfOfNumberTypes\obj\Debug\2.ComparePerfOfNumberTypes.pdb

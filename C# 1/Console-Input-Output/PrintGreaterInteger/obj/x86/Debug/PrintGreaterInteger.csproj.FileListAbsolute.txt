@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\PrintGreaterInteger\bin\Debug\PrintGreaterInteger.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\PrintGreaterInteger\bin\Debug\PrintGreaterInteger.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\PrintGreaterInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\PrintGreaterInteger\obj\x86\Debug\PrintGreaterInteger.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\PrintGreaterInteger\obj\x86\Debug\PrintGreaterInteger.pdb

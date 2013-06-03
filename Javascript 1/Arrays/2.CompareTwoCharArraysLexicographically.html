@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Compare two char arrays lexicographically</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+</head>
+<body>
+	<label for="tb-first">First char array(as string): </label>
+	<input type="text" id="tb-first"/>
+	<br />						
+	<label for="tb-second">Second char array(as string): </label>
+	<input type="text" id="tb-second"/>
+	<br />						  
+	<a href="#" onclick="onCompareCharArraysButtonClick()">Print numbers from 1 to N</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>														 
+
+
+		function onCompareCharArraysButtonClick() {
+			var first = jsConsole.read("#tb-first");
+			var second = jsConsole.read('#tb-second');
+
+			var compared = true;
+			var n = first.length;
+			var k = second.length;
+			
+            for (var i = 0; i < n && i < k; i++)
+            {
+                if (first[i] > second[i])
+                {
+                    jsConsole.writeLine('"' + second + '" is lexicographically ahead than ' + '"' + first + '"');
+                    compared = false;
+                    break;
+                } 
+                else if(first[i] < second[i])
+                {
+                    jsConsole.writeLine('"' + first + '" is lexicographically ahead than ' + '"' + second + '"');
+                    compared = false;
+                    break;
+                }
+                else
+                {
+                    continue;
+                }
+            }
+            if (compared)
+            {
+                if (n < k)
+                {
+                    jsConsole.writeLine('"' + first + '" is lexicographically ahead than ' + '"' + second + '"');
+                } 
+                else if(n > k)
+                {
+                    jsConsole.writeLine('"' + second + '" is lexicographically ahead than ' + '"' + first + '"');
+                }
+                else
+                {
+                    jsConsole.writeLine('"' + first + '" is lexicographically equal to ' + '"' + second + '"');
+                }
+            }
+		}																
+	</script>			  
+</body>
+</html>

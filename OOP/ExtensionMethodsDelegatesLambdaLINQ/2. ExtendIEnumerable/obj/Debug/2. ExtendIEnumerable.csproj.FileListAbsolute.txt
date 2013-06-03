@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\2. ExtendIEnumerable\bin\Debug\_2.ExtendIEnumerable.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\2. ExtendIEnumerable\obj\Debug\2. ExtendIEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\2. ExtendIEnumerable\bin\Debug\_2.ExtendIEnumerable.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\2. ExtendIEnumerable\bin\Debug\_2.ExtendIEnumerable.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\2. ExtendIEnumerable\obj\Debug\_2.ExtendIEnumerable.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\2. ExtendIEnumerable\obj\Debug\_2.ExtendIEnumerable.pdb

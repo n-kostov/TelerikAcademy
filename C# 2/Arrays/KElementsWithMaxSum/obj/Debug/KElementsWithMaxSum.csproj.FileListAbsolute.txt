@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\KElementsWithMaxSum\bin\Debug\KElementsWithMaxSum.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\KElementsWithMaxSum\bin\Debug\KElementsWithMaxSum.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\KElementsWithMaxSum\bin\Debug\KElementsWithMaxSum.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\KElementsWithMaxSum\obj\Debug\KElementsWithMaxSum.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\KElementsWithMaxSum\obj\Debug\KElementsWithMaxSum.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\KElementsWithMaxSum\obj\Debug\KElementsWithMaxSum.pdb

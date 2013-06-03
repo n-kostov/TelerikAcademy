@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\GenderCheck\bin\Debug\GenderCheck.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\GenderCheck\bin\Debug\GenderCheck.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\GenderCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\GenderCheck\obj\x86\Debug\GenderCheck.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\GenderCheck\obj\x86\Debug\GenderCheck.pdb

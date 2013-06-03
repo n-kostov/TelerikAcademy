@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHP Variables", "PHP Variables\PHP Variables.csproj", "{D54EED77-4467-4E88-BAC1-EF59ABB36833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DStars", "3DStars\3DStars.csproj", "{AD26CED0-9B0C-4501-9370-F2D5BBA0FD68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tubs", "Tubs\Tubs.csproj", "{C434BF19-DAE0-42FB-8313-94D88663A296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54EED77-4467-4E88-BAC1-EF59ABB36833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54EED77-4467-4E88-BAC1-EF59ABB36833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54EED77-4467-4E88-BAC1-EF59ABB36833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54EED77-4467-4E88-BAC1-EF59ABB36833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD26CED0-9B0C-4501-9370-F2D5BBA0FD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD26CED0-9B0C-4501-9370-F2D5BBA0FD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD26CED0-9B0C-4501-9370-F2D5BBA0FD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD26CED0-9B0C-4501-9370-F2D5BBA0FD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C434BF19-DAE0-42FB-8313-94D88663A296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C434BF19-DAE0-42FB-8313-94D88663A296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C434BF19-DAE0-42FB-8313-94D88663A296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C434BF19-DAE0-42FB-8313-94D88663A296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

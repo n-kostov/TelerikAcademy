@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\PolynomialAddititon\bin\Debug\PolynomialAddititon.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\PolynomialAddititon\bin\Debug\PolynomialAddititon.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\PolynomialAddititon\bin\Debug\PolynomialAddititon.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\PolynomialAddititon\obj\Debug\PolynomialAddititon.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\PolynomialAddititon\obj\Debug\PolynomialAddititon.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\PolynomialAddititon\obj\Debug\PolynomialAddititon.csprojResolveAssemblyReference.cache

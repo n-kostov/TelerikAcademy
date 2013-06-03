@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Create a HTML UL using a template for every HTML LI</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <script src="scripts/string-extensions.js"></script>
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div data-type="template" id="list-item">
+    <strong>-{name}-</strong> <span>-{age}-</span>
+    </div>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        //  12.Write a function that creates a HTML UL using a template for every HTML LI.
+        //  The source of the list should an array of elements. Replace all placeholders marked with –{…}–   
+        //  with the value of the corresponding property of the object.
+
+        var people = [{ name: "gosho", age: 25 }, { name: "pesho", age: 32 }, { name: "maria", age: 18 }];
+        var template = document.getElementById("list-item").innerHTML;
+        var peopleList = generateList(people, template);
+
+        for (var i = 0; i < peopleList.length; i += 2) {
+            jsConsole.writeLine("<ul><li><strong>" + peopleList[i] + "</strong><span> " + peopleList[i + 1] + "</span></li><li>…</li>…</ul>");
+        }
+
+        function generateList(people, temp) {
+            temp = new String(temp);
+            var holder = temp;
+            var arr = [];
+
+            for (var i = 0; i < people.length; i++) {
+                var index = temp.indexOf("{name}");
+                var index2 = temp.indexOf("{age}");
+
+                temp = temp.replace("{name}", people[i].name);
+                arr.push(temp.substr(index, people[i].name.length));
+                temp = holder;
+
+                temp = temp.replace("{age}", people[i].age);
+                arr.push(temp.substr(index2, people[i].age.length));
+                temp = holder;
+            }
+            return arr;
+        }
+    </script>
+</body>
+</html>

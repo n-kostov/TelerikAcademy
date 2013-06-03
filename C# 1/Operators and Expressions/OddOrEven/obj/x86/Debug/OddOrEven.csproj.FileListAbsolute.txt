@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\OddOrEven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\OddOrEven\obj\x86\Debug\OddOrEven.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\OddOrEven\obj\x86\Debug\OddOrEven.pdb

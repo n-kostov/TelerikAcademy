@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        body, div, span {
+        margin: 0px;
+        padding: 0px;
+        }
+
+        body {
+        }
+
+        #box {
+            width: 500px;
+            height: 400px;
+            border: 1px solid black;
+            margin: 10px;
+        }
+
+        #ball {
+            width: 20px;
+            height: 20px;
+
+            border-radius: 20px;
+            background-color: red;
+            display: inline-block;
+            position: absolute;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="box">
+        <div id="ball"></div>
+    </div>
+    <script>
+        var ball = document.getElementById("ball");
+        var directionTop = 1;
+        var directionLeft = 1;
+        var leftPos = 20;
+        var topPos = 100;
+
+        setInterval(function () {
+            topPos += directionTop;
+            leftPos += directionLeft;
+            if (topPos == 390) {
+                directionTop *= -1;
+            }
+            if (leftPos == 490) {
+                directionLeft *= -1;
+            }
+            if (topPos == 10) {
+                directionTop *= -1;
+            }
+            if (leftPos == 10) {
+                directionLeft *= -1;
+            }
+
+            ball.style.left = leftPos + "px";
+            ball.style.top = topPos + "px";
+        }, 5);
+    </script>
+</body>
+</html>

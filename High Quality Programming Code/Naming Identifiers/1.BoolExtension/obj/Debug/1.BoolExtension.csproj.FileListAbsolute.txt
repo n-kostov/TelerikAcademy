@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\1.BoolExtension\bin\Debug\1.BoolExtension.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\1.BoolExtension\obj\Debug\1.BoolExtension.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\1.BoolExtension\bin\Debug\1.BoolExtension.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\1.BoolExtension\bin\Debug\1.BoolExtension.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\1.BoolExtension\obj\Debug\1.BoolExtension.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Naming Identifiers\1.BoolExtension\obj\Debug\1.BoolExtension.pdb

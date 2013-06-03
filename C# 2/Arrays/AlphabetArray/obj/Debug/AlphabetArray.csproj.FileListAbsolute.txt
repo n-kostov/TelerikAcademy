@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\AlphabetArray\bin\Debug\AlphabetArray.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\AlphabetArray\bin\Debug\AlphabetArray.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\AlphabetArray\bin\Debug\AlphabetArray.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\AlphabetArray\obj\Debug\AlphabetArray.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\AlphabetArray\obj\Debug\AlphabetArray.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\AlphabetArray\obj\Debug\AlphabetArray.pdb

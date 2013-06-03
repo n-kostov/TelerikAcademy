@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

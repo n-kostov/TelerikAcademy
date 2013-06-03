@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\ReadAndCompareTwoArrays\bin\Debug\ReadAndCompareTwoArrays.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\ReadAndCompareTwoArrays\bin\Debug\ReadAndCompareTwoArrays.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\ReadAndCompareTwoArrays\bin\Debug\ReadAndCompareTwoArrays.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\ReadAndCompareTwoArrays\obj\Debug\ReadAndCompareTwoArrays.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\ReadAndCompareTwoArrays\obj\Debug\ReadAndCompareTwoArrays.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\ReadAndCompareTwoArrays\obj\Debug\ReadAndCompareTwoArrays.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\4.SortingComparison\bin\Debug\4.SortingComparison.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\4.SortingComparison\obj\Debug\4.SortingComparison.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\4.SortingComparison\bin\Debug\4.SortingComparison.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\4.SortingComparison\bin\Debug\4.SortingComparison.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\4.SortingComparison\obj\Debug\4.SortingComparison.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\4.SortingComparison\obj\Debug\4.SortingComparison.pdb

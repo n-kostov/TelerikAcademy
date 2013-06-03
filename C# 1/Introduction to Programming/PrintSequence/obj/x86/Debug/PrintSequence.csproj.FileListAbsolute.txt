@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintSequence\obj\x86\Debug\PrintSequence.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\PrintSequence\obj\x86\Debug\PrintSequence.pdb

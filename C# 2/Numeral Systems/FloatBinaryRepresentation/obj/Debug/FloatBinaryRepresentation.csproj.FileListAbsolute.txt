@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\FloatBinaryRepresentation\bin\Debug\FloatBinaryRepresentation.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\FloatBinaryRepresentation\obj\Debug\FloatBinaryRepresentation.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\FloatBinaryRepresentation\bin\Debug\FloatBinaryRepresentation.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\FloatBinaryRepresentation\bin\Debug\FloatBinaryRepresentation.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\FloatBinaryRepresentation\obj\Debug\FloatBinaryRepresentation.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\FloatBinaryRepresentation\obj\Debug\FloatBinaryRepresentation.pdb

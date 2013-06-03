@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintNumbersFrom1ToN\bin\Debug\PrintNumbersFrom1ToN.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintNumbersFrom1ToN\bin\Debug\PrintNumbersFrom1ToN.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintNumbersFrom1ToN\bin\Debug\PrintNumbersFrom1ToN.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintNumbersFrom1ToN\obj\Debug\PrintNumbersFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintNumbersFrom1ToN\obj\Debug\PrintNumbersFrom1ToN.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintNumbersFrom1ToN\obj\Debug\PrintNumbersFrom1ToN.pdb

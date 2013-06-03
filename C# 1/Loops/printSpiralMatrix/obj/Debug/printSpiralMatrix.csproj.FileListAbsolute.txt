@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\printSpiralMatrix\bin\Debug\printSpiralMatrix.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\printSpiralMatrix\bin\Debug\printSpiralMatrix.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\printSpiralMatrix\bin\Debug\printSpiralMatrix.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\printSpiralMatrix\obj\Debug\printSpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\printSpiralMatrix\obj\Debug\printSpiralMatrix.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\printSpiralMatrix\obj\Debug\printSpiralMatrix.pdb

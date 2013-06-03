@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem2-LeastMajorityMultiple\bin\Debug\Problem2-LeastMajorityMultiple.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem2-LeastMajorityMultiple\bin\Debug\Problem2-LeastMajorityMultiple.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem2-LeastMajorityMultiple\bin\Debug\Problem2-LeastMajorityMultiple.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem2-LeastMajorityMultiple\obj\Debug\Problem2-LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem2-LeastMajorityMultiple\obj\Debug\Problem2-LeastMajorityMultiple.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem2-LeastMajorityMultiple\obj\Debug\Problem2-LeastMajorityMultiple.pdb

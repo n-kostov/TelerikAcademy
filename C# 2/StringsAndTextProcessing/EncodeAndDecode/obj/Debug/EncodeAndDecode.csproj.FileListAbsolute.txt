@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\EncodeAndDecode\bin\Debug\EncodeAndDecode.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\EncodeAndDecode\bin\Debug\EncodeAndDecode.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\EncodeAndDecode\bin\Debug\EncodeAndDecode.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\EncodeAndDecode\obj\Debug\EncodeAndDecode.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\EncodeAndDecode\obj\Debug\EncodeAndDecode.pdb

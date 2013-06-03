@@ -1,0 +1,12 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\bin\Debug\SolarSystem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\bin\Debug\SolarSystem.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\MainWindow.g.cs
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\App.g.cs
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\SolarSystem_MarkupCompile.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\SolarSystem_MarkupCompile.lref
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\MainWindow.baml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\SolarSystem.g.resources
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\SolarSystem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\Solar System\obj\Debug\SolarSystem.pdb

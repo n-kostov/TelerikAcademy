@@ -1,0 +1,7 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Test Driven Development\PokerTests\obj\Debug\PokerTests.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Test Driven Development\PokerTests\bin\Debug\PokerTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Test Driven Development\PokerTests\bin\Debug\PokerTests.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Test Driven Development\PokerTests\bin\Debug\Poker.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Test Driven Development\PokerTests\bin\Debug\Poker.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Test Driven Development\PokerTests\obj\Debug\PokerTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Test Driven Development\PokerTests\obj\Debug\PokerTests.pdb

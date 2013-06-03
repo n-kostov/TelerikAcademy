@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\RectangleArea\bin\Debug\RectangleArea.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\RectangleArea\bin\Debug\RectangleArea.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\RectangleArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\RectangleArea\obj\x86\Debug\RectangleArea.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\RectangleArea\obj\x86\Debug\RectangleArea.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\8. EventHandling\bin\Debug\_8.EventHandling.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\8. EventHandling\obj\Debug\8. EventHandling.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\8. EventHandling\bin\Debug\_8.EventHandling.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\8. EventHandling\bin\Debug\_8.EventHandling.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\8. EventHandling\obj\Debug\_8.EventHandling.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\8. EventHandling\obj\Debug\_8.EventHandling.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

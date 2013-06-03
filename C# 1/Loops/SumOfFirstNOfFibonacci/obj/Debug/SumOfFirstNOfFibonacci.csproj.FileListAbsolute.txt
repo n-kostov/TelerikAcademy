@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFirstNOfFibonacci\bin\Debug\SumOfFirstNOfFibonacci.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFirstNOfFibonacci\bin\Debug\SumOfFirstNOfFibonacci.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFirstNOfFibonacci\bin\Debug\SumOfFirstNOfFibonacci.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFirstNOfFibonacci\obj\Debug\SumOfFirstNOfFibonacci.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFirstNOfFibonacci\obj\Debug\SumOfFirstNOfFibonacci.pdb

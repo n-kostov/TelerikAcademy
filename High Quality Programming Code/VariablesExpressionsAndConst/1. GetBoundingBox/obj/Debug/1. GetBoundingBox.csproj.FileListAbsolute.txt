@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\1. GetBoundingBox\bin\Debug\_1.GetBoundingBox.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\1. GetBoundingBox\bin\Debug\_1.GetBoundingBox.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\1. GetBoundingBox\bin\Debug\_1.GetBoundingBox.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\1. GetBoundingBox\obj\Debug\1. GetBoundingBox.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\1. GetBoundingBox\obj\Debug\_1.GetBoundingBox.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\VariablesExpressionsAndConst\1. GetBoundingBox\obj\Debug\_1.GetBoundingBox.pdb

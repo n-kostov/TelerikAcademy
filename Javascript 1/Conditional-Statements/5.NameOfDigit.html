@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Name of digit</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+</head>
+<body>
+	<label for="tb-first">Digit: </label>
+	<input type="text" id="tb-first"/>
+	<br />							  
+	<a href="#" onclick="onFindNameButtonClick()">Name the digit</a>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>														 
+
+		function onFindNameButtonClick() {
+			var first = jsConsole.readFloat("#tb-first");
+			
+			var name;
+			switch(first)
+			{
+				case 1: name = "one"; break;
+				case 2: name = "two"; break;
+				case 3: name = "three"; break;
+				case 4: name = "four"; break;
+				case 5: name = "five"; break;
+				case 6: name = "six"; break;
+				case 7: name = "seven"; break;
+				case 8: name = "eight"; break;
+				case 9: name = "nine"; break;
+				case 0: name = "zero"; break;
+				default: alert("You have to input a positive digit or zero!"); break;
+			}
+			
+			if(name != undefined)
+			{
+				jsConsole.writeLine("" + first + ": " + name);
+			}
+		}											
+	</script>			  
+</body>
+</html>

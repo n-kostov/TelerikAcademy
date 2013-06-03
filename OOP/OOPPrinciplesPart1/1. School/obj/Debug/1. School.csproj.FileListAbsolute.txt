@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\1. School\bin\Debug\_1.School.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\1. School\obj\Debug\1. School.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\1. School\bin\Debug\_1.School.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\1. School\bin\Debug\_1.School.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\1. School\obj\Debug\_1.School.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\1. School\obj\Debug\_1.School.pdb

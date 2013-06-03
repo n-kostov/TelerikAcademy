@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\CompareTwoCharArrays\bin\Debug\CompareTwoCharArrays.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\CompareTwoCharArrays\bin\Debug\CompareTwoCharArrays.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\CompareTwoCharArrays\bin\Debug\CompareTwoCharArrays.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\CompareTwoCharArrays\obj\Debug\CompareTwoCharArrays.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\CompareTwoCharArrays\obj\Debug\CompareTwoCharArrays.pdb

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Color the textarea</title>
+    <style>
+
+</style>
+</head>
+<body>
+    <label for="tb-color1"> Font color: </label>
+    <input type="color" id="tb-color1" />
+    <label for="tb-color2"> Background color: </label>
+    <input type="color" id="tb-color2" />
+    <a href="#" id="color-textarea-btn" onclick="colorTextArea()">Color the textarea</a>
+    <br />
+    <br />
+    <textarea id="txt-area"></textarea>
+    <script>
+
+        function colorTextArea() {
+            var txtArea = document.getElementById("txt-area");
+            var fontColor = document.getElementById("tb-color1").value;
+            var bgColor = document.getElementById("tb-color2").value;
+
+            txtArea.style.color = fontColor;
+            txtArea.style.backgroundColor = bgColor;
+        }
+    </script>
+</body>
+</html>

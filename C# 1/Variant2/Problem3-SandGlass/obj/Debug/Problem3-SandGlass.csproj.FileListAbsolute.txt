@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem3-SandGlass\bin\Debug\Problem3-SandGlass.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem3-SandGlass\bin\Debug\Problem3-SandGlass.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem3-SandGlass\bin\Debug\Problem3-SandGlass.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem3-SandGlass\obj\Debug\Problem3-SandGlass.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem3-SandGlass\obj\Debug\Problem3-SandGlass.pdb

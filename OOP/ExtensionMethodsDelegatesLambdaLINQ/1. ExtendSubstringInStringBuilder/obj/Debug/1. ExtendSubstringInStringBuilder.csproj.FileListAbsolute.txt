@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\1. ExtendSubstringInStringBuilder\bin\Debug\_1.ExtendSubstringInStringBuilder.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\1. ExtendSubstringInStringBuilder\bin\Debug\_1.ExtendSubstringInStringBuilder.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\1. ExtendSubstringInStringBuilder\bin\Debug\_1.ExtendSubstringInStringBuilder.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\1. ExtendSubstringInStringBuilder\obj\Debug\1. ExtendSubstringInStringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\1. ExtendSubstringInStringBuilder\obj\Debug\_1.ExtendSubstringInStringBuilder.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\ExtensionMethodsDelegatesLambdaLINQ\1. ExtendSubstringInStringBuilder\obj\Debug\_1.ExtendSubstringInStringBuilder.pdb

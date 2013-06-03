@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem1-ShipDamage\bin\Debug\Problem1-ShipDamage.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem1-ShipDamage\bin\Debug\Problem1-ShipDamage.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem1-ShipDamage\bin\Debug\Problem1-ShipDamage.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem1-ShipDamage\obj\Debug\Problem1-ShipDamage.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem1-ShipDamage\obj\Debug\Problem1-ShipDamage.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem1-ShipDamage\obj\Debug\Problem1-ShipDamage.pdb

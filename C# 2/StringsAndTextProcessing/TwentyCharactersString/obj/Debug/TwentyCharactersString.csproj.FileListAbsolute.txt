@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\TwentyCharactersString\bin\Debug\TwentyCharactersString.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\TwentyCharactersString\bin\Debug\TwentyCharactersString.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\TwentyCharactersString\bin\Debug\TwentyCharactersString.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\TwentyCharactersString\obj\Debug\TwentyCharactersString.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\TwentyCharactersString\obj\Debug\TwentyCharactersString.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\TwentyCharactersString\obj\Debug\TwentyCharactersString.pdb

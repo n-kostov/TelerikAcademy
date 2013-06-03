@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Replace in a HTML document given as string all the tags a </title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <script src="scripts/string-extensions.js"></script>
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        //  8.Write a JavaScript function that replaces in a HTML document given as string all the tags 
+        //    <a href="…">…</a> with corresponding tags [URL=…]…/URL].
+
+        var text = '<p>Please visit <a href="http://academy.telerik.com">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>';
+        jsConsole.writeLine("Text: " + text.htmlEscape());
+        jsConsole.writeLine("");
+
+        var replacedText = replaceAnchors(text);
+        jsConsole.writeLine("Replaced text: " + replacedText);
+
+        function replaceAnchors(text) {
+
+            text = text.replace(/<a href="/g, "[URL=");
+            text = text.replace(/">/g, "]");
+            text = text.replace(/<\/a>/g, "[/URL]");
+
+            return text;
+        }
+    </script>
+</body>
+</html>

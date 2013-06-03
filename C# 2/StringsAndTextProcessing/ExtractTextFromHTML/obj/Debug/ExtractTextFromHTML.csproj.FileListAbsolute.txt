@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractTextFromHTML\obj\Debug\ExtractTextFromHTML.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractTextFromHTML\obj\Debug\ExtractTextFromHTML.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractTextFromHTML\obj\Debug\ExtractTextFromHTML.pdb

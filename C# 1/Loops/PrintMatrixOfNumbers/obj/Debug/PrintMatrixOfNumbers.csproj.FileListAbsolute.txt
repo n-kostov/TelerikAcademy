@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintMatrixOfNumbers\bin\Debug\PrintMatrixOfNumbers.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintMatrixOfNumbers\bin\Debug\PrintMatrixOfNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintMatrixOfNumbers\bin\Debug\PrintMatrixOfNumbers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintMatrixOfNumbers\obj\Debug\PrintMatrixOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintMatrixOfNumbers\obj\Debug\PrintMatrixOfNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\PrintMatrixOfNumbers\obj\Debug\PrintMatrixOfNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\AlignBoth\bin\Debug\AlignBoth.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\AlignBoth\bin\Debug\AlignBoth.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\AlignBoth\bin\Debug\AlignBoth.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\AlignBoth\obj\Debug\AlignBoth.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\AlignBoth\obj\Debug\AlignBoth.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\AlignBoth\obj\Debug\AlignBoth.pdb

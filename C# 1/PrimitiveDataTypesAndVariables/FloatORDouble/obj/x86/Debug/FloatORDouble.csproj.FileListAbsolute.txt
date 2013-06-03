@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\FloatORDouble\bin\Debug\FloatORDouble.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\FloatORDouble\bin\Debug\FloatORDouble.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\FloatORDouble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\FloatORDouble\obj\x86\Debug\FloatORDouble.pdb

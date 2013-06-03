@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem2-MissCat\bin\Debug\Problem2-MissCat.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem2-MissCat\bin\Debug\Problem2-MissCat.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem2-MissCat\bin\Debug\Problem2-MissCat.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem2-MissCat\obj\Debug\Problem2-MissCat.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem2-MissCat\obj\Debug\Problem2-MissCat.pdb

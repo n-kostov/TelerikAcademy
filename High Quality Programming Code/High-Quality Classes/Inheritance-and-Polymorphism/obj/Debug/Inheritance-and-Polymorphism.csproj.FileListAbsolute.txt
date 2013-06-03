@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\High-Quality Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

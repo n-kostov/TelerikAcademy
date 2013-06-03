@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\MaximalArea3x3\bin\Debug\MaximalArea3x3.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\MaximalArea3x3\obj\Debug\MaximalArea3x3.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\MaximalArea3x3\bin\Debug\MaximalArea3x3.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\MaximalArea3x3\bin\Debug\MaximalArea3x3.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\MaximalArea3x3\obj\Debug\MaximalArea3x3.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\MaximalArea3x3\obj\Debug\MaximalArea3x3.pdb

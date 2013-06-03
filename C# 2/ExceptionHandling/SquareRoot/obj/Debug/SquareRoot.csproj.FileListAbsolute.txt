@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb

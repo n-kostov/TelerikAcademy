@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\NthCatalanNumber\bin\Debug\NthCatalanNumber.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\NthCatalanNumber\bin\Debug\NthCatalanNumber.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\NthCatalanNumber\bin\Debug\NthCatalanNumber.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\NthCatalanNumber\obj\Debug\NthCatalanNumber.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\NthCatalanNumber\obj\Debug\NthCatalanNumber.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\NthCatalanNumber\obj\Debug\NthCatalanNumber.pdb

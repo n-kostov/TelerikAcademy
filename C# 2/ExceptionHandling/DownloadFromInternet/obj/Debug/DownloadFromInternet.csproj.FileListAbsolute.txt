@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\DownloadFromInternet\bin\Debug\DownloadFromInternet.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\DownloadFromInternet\bin\Debug\DownloadFromInternet.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\DownloadFromInternet\bin\Debug\DownloadFromInternet.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\DownloadFromInternet\obj\Debug\DownloadFromInternet.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\DownloadFromInternet\obj\Debug\DownloadFromInternet.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\DownloadFromInternet\obj\Debug\DownloadFromInternet.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\19. Exam-Preparation\CatalogTests\obj\Debug\CatalogTests.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\19. Exam-Preparation\CatalogTests\bin\Debug\CatalogTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\19. Exam-Preparation\CatalogTests\bin\Debug\CatalogTests.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\19. Exam-Preparation\CatalogTests\bin\Debug\KPK-Practical-Exam.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\19. Exam-Preparation\CatalogTests\bin\Debug\PowerCollections.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\19. Exam-Preparation\CatalogTests\bin\Debug\KPK-Practical-Exam.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\19. Exam-Preparation\CatalogTests\bin\Debug\PowerCollections.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\19. Exam-Preparation\CatalogTests\obj\Debug\CatalogTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\19. Exam-Preparation\CatalogTests\obj\Debug\CatalogTests.pdb

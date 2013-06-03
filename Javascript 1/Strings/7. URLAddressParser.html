@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Parse an URL address</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <label for="tb-first">URL(full link): </label>
+    <input type="text" id="tb-first" />
+    <br />
+    <a href="#" onclick="onParseURLButtonClick()">Parse</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js" >	  
+    </script>
+    <script>
+
+        //  7.Write a script that parses an URL address given in the format:
+        //    and extracts from it the [protocol], [server] and [resource] elements. Return the elements in a JSON object.
+
+        function onParseURLButtonClick() {
+            var url = jsConsole.read("#tb-first");
+            var parsedObject = parseURL(url);
+
+            jsConsole.writeLine("URL: " + url);
+            jsConsole.writeLine("Protocol: " + parsedObject.protocol);
+            jsConsole.writeLine("Server: " + parsedObject.server);
+            jsConsole.writeLine("Resource: " + parsedObject.resource);
+        }
+
+        function parseURL(url) {
+            var index = url.indexOf(':');
+            var protocol = url.substring(0, index);
+
+            index = url.indexOf("/", index + 1);
+            var server = url.substring(index + 2, url.indexOf("/", index + 2));
+
+            var resource = url.substring(url.indexOf("/", index + 2));
+
+            var object = {
+                "protocol": protocol,
+                "server": server,
+                "resource": resource
+            };
+
+            return object;
+        }
+    </script>
+</body>
+</html>

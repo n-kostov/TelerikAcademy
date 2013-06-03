@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Basic Language\bin\Debug\Basic Language.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Basic Language\obj\Debug\Basic Language.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Basic Language\bin\Debug\Basic Language.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Basic Language\bin\Debug\Basic Language.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Basic Language\obj\Debug\Basic Language.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Basic Language\obj\Debug\Basic Language.pdb

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Naming Identifiers - Check if your browser is Mozilla</title>
+</head>
+<body>
+    <input type="button" value="Check browser" onclick="onButtonClick();" />
+	<script>
+		function onButtonClick() {
+			"use strict";
+			// this is deprecated and does not work correctly
+			var browserName = window.navigator.appCodeName,
+				isBrowserMozilla = browserName === "Mozilla";
+
+			if (isBrowserMozilla) {
+				alert("Your browser is Mozilla");
+			} else {
+				alert("No, your browser is not Mozilla");
+			}
+		}
+	</script>
+</body>
+</html>

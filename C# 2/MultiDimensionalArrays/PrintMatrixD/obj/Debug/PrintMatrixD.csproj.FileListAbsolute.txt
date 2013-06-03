@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixD\bin\Debug\PrintMatrixD.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixD\bin\Debug\PrintMatrixD.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixD\bin\Debug\PrintMatrixD.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixD\obj\Debug\PrintMatrixD.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\PrintMatrixD\obj\Debug\PrintMatrixD.pdb

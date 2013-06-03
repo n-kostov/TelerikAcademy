@@ -1,0 +1,2 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\ControlFlowConditionalLoops\1. Chef\bin\Debug\_1.Chef.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\ControlFlowConditionalLoops\1. Chef\obj\Debug\1. Chef.csprojResolveAssemblyReference.cache

@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Extract from a given text all palindromes</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <script src="scripts/string-extensions.js"></script>
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        //  10.Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".
+
+        var text = "ABBA is exe in music lamal and beeb dieid was done";
+
+        var extractedPalindromes = extractPalindromes(text);
+
+        jsConsole.writeLine("Text: " + text);
+        jsConsole.writeLine("Result palindromes: ");
+
+        for (var i = 0; i < extractedPalindromes.length; i++) {
+            jsConsole.writeLine(extractedPalindromes[i]);
+        }
+
+        function extractPalindromes(text) {
+            var palindromes = [];
+            var words = text.split(" ");
+
+            for (var i = 0; i < words.length; i++) {
+                var n = words[i].length;
+                var isPalindrome = true;
+                for (var j = 0; j < Math.floor(n / 2) ; j++) {
+                    if (words[i][j] != words[i][n - 1 - j]) {
+                        isPalindrome = false;
+                        break;
+                    }
+                }
+
+                if (isPalindrome) {
+                    palindromes.push(words[i]);
+                }
+            }
+
+            return palindromes;
+
+        }
+    </script>
+</body>
+</html>

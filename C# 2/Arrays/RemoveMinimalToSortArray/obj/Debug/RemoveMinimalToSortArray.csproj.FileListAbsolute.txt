@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\RemoveMinimalToSortArray\bin\Debug\RemoveMinimalToSortArray.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\RemoveMinimalToSortArray\bin\Debug\RemoveMinimalToSortArray.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\RemoveMinimalToSortArray\bin\Debug\RemoveMinimalToSortArray.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\RemoveMinimalToSortArray\obj\Debug\RemoveMinimalToSortArray.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\RemoveMinimalToSortArray\obj\Debug\RemoveMinimalToSortArray.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\RemoveMinimalToSortArray\obj\Debug\RemoveMinimalToSortArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Cooking\bin\Debug\Cooking.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Cooking\bin\Debug\Cooking.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Cooking\bin\Debug\Cooking.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Cooking\obj\Debug\Cooking.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Cooking\obj\Debug\Cooking.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Telerik Academy Exam 2 @ 7 Feb 2012\Cooking\obj\Debug\Cooking.csprojResolveAssemblyReference.cache

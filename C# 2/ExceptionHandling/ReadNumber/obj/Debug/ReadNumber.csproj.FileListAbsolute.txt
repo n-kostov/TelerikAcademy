@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadNumber\bin\Debug\ReadNumber.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadNumber\obj\Debug\ReadNumber.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadNumber\bin\Debug\ReadNumber.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadNumber\bin\Debug\ReadNumber.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadNumber\obj\Debug\ReadNumber.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadNumber\obj\Debug\ReadNumber.pdb

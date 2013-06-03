@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\DeclareFiveVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\DeclareFiveVariables\bin\Debug\DeclareFiveVariables.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\DeclareFiveVariables\bin\Debug\DeclareFiveVariables.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\DeclareFiveVariables\obj\x86\Debug\DeclareFiveVariables.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\DeclareFiveVariables\obj\x86\Debug\DeclareFiveVariables.pdb

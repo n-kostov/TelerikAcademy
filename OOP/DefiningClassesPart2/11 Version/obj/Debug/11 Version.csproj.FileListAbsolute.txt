@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\11 Version\bin\Debug\11 Version.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\11 Version\bin\Debug\11 Version.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\11 Version\bin\Debug\11 Version.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\11 Version\obj\Debug\11 Version.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\11 Version\obj\Debug\11 Version.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\11 Version\obj\Debug\11 Version.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\SquareMatrix\bin\Debug\SquareMatrix.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\SquareMatrix\bin\Debug\SquareMatrix.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\SquareMatrix\bin\Debug\SquareMatrix.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\SquareMatrix\obj\Debug\SquareMatrix.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\SquareMatrix\obj\Debug\SquareMatrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\LastDigitToAWord\bin\Debug\LastDigitToAWord.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\LastDigitToAWord\bin\Debug\LastDigitToAWord.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\LastDigitToAWord\bin\Debug\LastDigitToAWord.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\LastDigitToAWord\obj\Debug\LastDigitToAWord.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\LastDigitToAWord\obj\Debug\LastDigitToAWord.pdb

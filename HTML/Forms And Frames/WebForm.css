@@ -1,0 +1,58 @@
+﻿.label
+{
+    font-weight: bold;
+    float: right;
+}
+
+#phone
+{
+    width: 35px;
+}
+#phone2
+{
+    width: 25px;
+}
+#phone3
+{
+    width: 107px;
+}
+#month
+{
+    width: 25px;
+}
+#day
+{
+    width: 25px;
+}
+#year
+{
+    width: 40px;
+}
+#comment
+{
+    width: 250px;
+}
+#address
+{
+    width: 235px;
+}
+#state
+{
+    width: 25px;
+}
+div
+{
+    text-align: center;
+}
+textarea
+{
+    resize: none;
+}
+#address
+{
+    height: 55px;
+}
+#comment
+{
+    height: 70px;
+}

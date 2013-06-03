@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\ProvadiaNumbers\bin\Debug\ProvadiaNumbers.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\ProvadiaNumbers\bin\Debug\ProvadiaNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\ProvadiaNumbers\bin\Debug\ProvadiaNumbers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\ProvadiaNumbers\obj\Debug\ProvadiaNumbers.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\ProvadiaNumbers\obj\Debug\ProvadiaNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\ProvadiaNumbers\obj\Debug\ProvadiaNumbers.pdb

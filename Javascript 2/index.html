@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="grid.js"></script>
+    <script type="text/javascript" src="local-storage.js"></script>
+    <script type="text/javascript" src="school-classes.js"></script>
+    <style>
+        table {
+            border: 1px solid black;
+            width: 50%;
+        }
+
+        td, th {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div id="grid-view-holder"></div>
+    <script>
+        var schoolsGrid = controls.getGridView("#grid-view-holder");
+        schoolsGrid.addHeader("Name", "Location", "Total Students", "Specialty");
+        schoolsGrid.addRow("PMG", "Burgas", "400", "Math");
+        schoolsGrid.addRow("TUES", "Sofia", "500", "IT");
+        var academyRow = schoolsGrid.addRow("Telerik Academy", "Sofia", "5000", "IT");
+        var academyGrid = academyRow.getNestedGridView();
+        academyGrid.addHeader("Title", "Start Date", "Total Students");
+        var randomRow = academyGrid.addRow("JS 2", "11-april-2013", "400");
+        var randomGrid = randomRow.getNestedGridView();
+        randomGrid.addHeader("sda", "Sdasd");
+        randomGrid.addRow("SDA", "Sdasa");
+        academyGrid.addRow("SEO", "15-may-2013", "1300");
+        academyGrid.addRow("Slice and Dice", "05-april-2013", "500");
+        schoolsGrid.render();
+
+        var schoolObj = school.getSchool("PMG", "Burgas", "20", "Math");
+        var mathCourse = schoolObj.addCourse("Math", "2013", "500");
+        mathCourse.addStudent("Pesho", "Georgiev", "4", "23");
+        var schoolData = schoolObj.serialize();
+        localStorage.save("school-repository", schoolData);
+        var deserializedData = localStorage.load("school-repository");
+        console.log(deserializedData);
+
+        var data = schoolsGrid.serialize();
+        localStorage.save("school", data);
+        var schoolData = localStorage.load("school");
+        console.log(schoolData);
+        //var clonedAccordion = controls.buildAccordion("#copied-accordion-holder", deserializedData);
+        //clonedAccordion.render();
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\CommonTypeSystem\4. Person\bin\Debug\_4.Person.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\CommonTypeSystem\4. Person\bin\Debug\_4.Person.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\CommonTypeSystem\4. Person\bin\Debug\_4.Person.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\CommonTypeSystem\4. Person\obj\Debug\_4.Person.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\CommonTypeSystem\4. Person\obj\Debug\_4.Person.pdb

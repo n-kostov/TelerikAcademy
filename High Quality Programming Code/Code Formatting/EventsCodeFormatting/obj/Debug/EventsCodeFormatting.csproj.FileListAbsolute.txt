@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Formatting\EventsCodeFormatting\bin\Debug\EventsCodeFormatting.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Formatting\EventsCodeFormatting\obj\Debug\EventsCodeFormatting.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Formatting\EventsCodeFormatting\bin\Debug\EventsCodeFormatting.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Formatting\EventsCodeFormatting\bin\Debug\EventsCodeFormatting.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Formatting\EventsCodeFormatting\obj\Debug\EventsCodeFormatting.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Formatting\EventsCodeFormatting\obj\Debug\EventsCodeFormatting.pdb

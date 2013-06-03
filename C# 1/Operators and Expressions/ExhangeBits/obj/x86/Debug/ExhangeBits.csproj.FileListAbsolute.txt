@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\ExhangeBits\bin\Debug\ExhangeBits.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\ExhangeBits\bin\Debug\ExhangeBits.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\ExhangeBits\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\ExhangeBits\obj\x86\Debug\ExhangeBits.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\ExhangeBits\obj\x86\Debug\ExhangeBits.pdb

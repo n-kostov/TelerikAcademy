@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\MaxiamalSequenceOfConsecutiveIncreasingNumbers\bin\Debug\MaxiamalSequenceOfConsecutiveIncreasingNumbers.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\MaxiamalSequenceOfConsecutiveIncreasingNumbers\bin\Debug\MaxiamalSequenceOfConsecutiveIncreasingNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\MaxiamalSequenceOfConsecutiveIncreasingNumbers\bin\Debug\MaxiamalSequenceOfConsecutiveIncreasingNumbers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\MaxiamalSequenceOfConsecutiveIncreasingNumbers\obj\Debug\MaxiamalSequenceOfConsecutiveIncreasingNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\MaxiamalSequenceOfConsecutiveIncreasingNumbers\obj\Debug\MaxiamalSequenceOfConsecutiveIncreasingNumbers.pdb

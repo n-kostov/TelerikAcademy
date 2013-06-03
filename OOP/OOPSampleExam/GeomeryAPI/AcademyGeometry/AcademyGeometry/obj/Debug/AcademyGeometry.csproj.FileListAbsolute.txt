@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\GeomeryAPI\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\GeomeryAPI\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\GeomeryAPI\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\GeomeryAPI\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\GeomeryAPI\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\GeomeryAPI\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb

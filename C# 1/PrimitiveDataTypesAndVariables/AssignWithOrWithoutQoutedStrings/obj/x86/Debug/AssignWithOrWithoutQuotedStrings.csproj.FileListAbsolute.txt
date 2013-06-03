@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignWithOrWithoutQoutedStrings\bin\Debug\AssignWithOrWithoutQoutedStrings.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignWithOrWithoutQoutedStrings\bin\Debug\AssignWithOrWithoutQoutedStrings.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignWithOrWithoutQoutedStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignWithOrWithoutQoutedStrings\obj\x86\Debug\AssignWithOrWithoutQoutedStrings.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\PrimitiveDataTypesAndVariables\AssignWithOrWithoutQoutedStrings\obj\x86\Debug\AssignWithOrWithoutQoutedStrings.pdb

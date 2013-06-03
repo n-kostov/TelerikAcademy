@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem2-AstrologicalDigits\bin\Debug\Problem2-AstrologicalDigits.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem2-AstrologicalDigits\bin\Debug\Problem2-AstrologicalDigits.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem2-AstrologicalDigits\bin\Debug\Problem2-AstrologicalDigits.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem2-AstrologicalDigits\obj\Debug\Problem2-AstrologicalDigits.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem2-AstrologicalDigits\obj\Debug\Problem2-AstrologicalDigits.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\DocumentSystem\bin\Debug\DocumentSystem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\DocumentSystem\bin\Debug\DocumentSystem.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\DocumentSystem\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\DocumentSystem\obj\Debug\DocumentSystem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPSampleExam\DocumentSystem\obj\Debug\DocumentSystem.pdb

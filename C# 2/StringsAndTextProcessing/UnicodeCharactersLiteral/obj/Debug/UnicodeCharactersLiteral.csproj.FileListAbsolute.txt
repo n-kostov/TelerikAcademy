@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\UnicodeCharactersLiteral\bin\Debug\UnicodeCharactersLiteral.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\UnicodeCharactersLiteral\bin\Debug\UnicodeCharactersLiteral.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\UnicodeCharactersLiteral\bin\Debug\UnicodeCharactersLiteral.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\UnicodeCharactersLiteral\obj\Debug\UnicodeCharactersLiteral.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\UnicodeCharactersLiteral\obj\Debug\UnicodeCharactersLiteral.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\UnicodeCharactersLiteral\obj\Debug\UnicodeCharactersLiteral.csprojResolveAssemblyReference.cache

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>DOM Manipulation - Creating HTML elements</title>
+</head>
+<body>
+    <input type="text" id="tb-box-count" />
+    <a href="#" id="generate-boxes-btn" onclick="generateDivs()">Generate divs</a>
+    <div id="content">
+    </div>
+    <script>
+        function generateDivs() {
+            var divsCount = parseInt(document.getElementById("tb-box-count").value);
+            var parent = document.getElementById("content");
+            var dfag = document.createDocumentFragment();
+            var i = 0;
+
+            for (i = 0; i < divsCount; i++) {
+                dfag.appendChild(generateRandomDiv());
+            }
+
+            parent.appendChild(dfag);
+        }
+
+        function generateRandomDiv() {
+            var randomDiv = document.createElement("div");
+            var style = randomDiv.style;
+            style.width = generateRandomInt(20, 100) + "px";
+            style.height = generateRandomInt(20, 100) + "px";
+            style.backgroundColor = generateRandomColor();
+            style.color = generateRandomColor();
+            style.position = "absolute";
+            style.top = generateRandomInt(0, 100) + "%";
+            style.left = generateRandomInt(0, 100) + "%";
+
+            randomDiv.appendChild(generateRandomStrongElement());
+            style.borderRadius = generateRandomInt(0, 100) + "%";
+            style.borderColor = generateRandomColor();
+            style.borderWidth = generateRandomInt(1, 20) + "px";
+
+            return randomDiv;
+        }
+
+        function generateRandomInt(min, max) {
+            return (min + Math.floor(Math.random() * (max - min)));
+        }
+
+        function generateRandomColor() {
+            return "rgba(" + [
+                generateRandomInt(0, 255),
+                generateRandomInt(0, 255),
+                generateRandomInt(0, 255),
+                generateRandomInt(0, 255)
+            ].join(", ") + ")";
+        }
+
+        function generateRandomStrongElement() {
+            var strongElement = document.createElement("strong");
+            strongElement.appendChild(document.createTextNode("div"));
+
+            return strongElement;
+        }
+
+    </script>
+</body>
+</html>

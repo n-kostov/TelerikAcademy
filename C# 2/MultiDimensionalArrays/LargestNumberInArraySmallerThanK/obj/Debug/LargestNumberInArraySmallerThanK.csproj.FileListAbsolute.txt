@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\LargestNumberInArraySmallerThanK\bin\Debug\LargestNumberInArraySmallerThanK.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\LargestNumberInArraySmallerThanK\bin\Debug\LargestNumberInArraySmallerThanK.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\LargestNumberInArraySmallerThanK\bin\Debug\LargestNumberInArraySmallerThanK.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\LargestNumberInArraySmallerThanK\obj\Debug\LargestNumberInArraySmallerThanK.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\LargestNumberInArraySmallerThanK\obj\Debug\LargestNumberInArraySmallerThanK.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\LargestNumberInArraySmallerThanK\obj\Debug\LargestNumberInArraySmallerThanK.pdb

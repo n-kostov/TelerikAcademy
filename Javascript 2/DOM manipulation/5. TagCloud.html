@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Tag cloud</title>
+</head>
+<body onload="onBodyLoad()">
+    <div id="wrapper"></div>
+    <script>
+        function setElementStyle(element, width, padding, borderWidth, borderColor, borderRadius) {
+            // set the width
+            element.style.width = width + "px";
+
+            // set the padding
+            element.style.padding = padding + "px";
+
+            // set the border
+            element.style.border = borderWidth + "px solid " + borderColor;
+
+            // set the border radius
+            var radiusInPixels = borderRadius + "px";
+
+            element.style.borderRadius = radiusInPixels; // standard
+            element.style.MozBorderRadius = radiusInPixels; // Mozilla
+            element.style.WebkitBorderRadius = radiusInPixels; // WebKit
+        }
+
+        function generateTagCloud(tags, minFontSize, maxFontSize) {
+
+            var tagCloud = document.createElement("div");
+            // resize our div 
+            setElementStyle(tagCloud, 200, 5, 1, "black", 5);
+
+            // how many times tag occurrs in the tags array
+            var tagsTable = {};
+            var len = tags.length;
+            var i = 0;
+
+            for (i = 0; i < len; i++) {
+                var key = tags[i].toLowerCase();
+
+                if (!tagsTable[key]) {
+                    tagsTable[key] = { count: 1, used: false };
+                } else {
+                    tagsTable[key].count++;
+                }
+            }
+
+            var maxCount = Number.MIN_VALUE;
+            var minCount = Number.MAX_VALUE;
+
+            for (i = 0; i < len; i++) {
+                var key = tags[i].toLowerCase();
+
+                if (minCount > tagsTable[key].count) {
+                    minCount = tagsTable[key].count;
+                }
+
+                if (maxCount < tagsTable[key].count) {
+                    maxCount = tagsTable[key].count;
+                }
+            }
+
+            var fontSizeRange = maxFontSize - minFontSize;
+            var occurrencesRange = maxCount - minCount;
+            var fontSizeIncrement = parseInt(fontSizeRange / occurrencesRange);
+
+            for (i = 0; i < len; i++) {
+                var key = tags[i].toLowerCase();
+
+                if (!tagsTable[key].used) {
+                    var fontSize;
+                    if (tagsTable[key].count === minCount) {
+                        fontSize = minFontSize;
+                    } else if (tagsTable[key].count === maxCount) {
+                        fontSize = maxFontSize;
+                    } else {
+                        fontSize = minFontSize + (tagsTable[key].count - minCount) * fontSizeIncrement;
+                    }
+                    // make link with the tag's text and proper font size
+                    var link = document.createElement("a");
+                    link.href = "#";
+                    link.style.textDecoration = "none";
+                    link.style.fontSize = fontSize + "px";
+                    link.text = key + " ";
+                    tagCloud.appendChild(link);
+
+                    tagsTable[key].used = true;
+                }
+            }
+
+            return tagCloud;
+        }
+
+        function onBodyLoad() {
+
+            var tags = ["cms", "javascript", "js", "ASP.NET MVC", ".net", ".net", "css", "wordpress", "xaml", "js", "http", "web", "asp.net", "asp.net MVC", "ASP.NET MVC", "wp", "javascript", "js", "cms", "html", "javascript", "http", "http", "CMS"];
+
+            var tagCloud = generateTagCloud(tags, 17, 42);
+            var wrapper = document.getElementById("wrapper");
+            wrapper.appendChild(tagCloud);
+        }
+    </script>
+</body>
+</html>

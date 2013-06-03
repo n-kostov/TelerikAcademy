@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\URLAddressParser\bin\Debug\URLAddressParser.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\URLAddressParser\bin\Debug\URLAddressParser.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\URLAddressParser\bin\Debug\URLAddressParser.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\URLAddressParser\obj\Debug\URLAddressParser.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\URLAddressParser\obj\Debug\URLAddressParser.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\URLAddressParser\obj\Debug\URLAddressParser.csprojResolveAssemblyReference.cache

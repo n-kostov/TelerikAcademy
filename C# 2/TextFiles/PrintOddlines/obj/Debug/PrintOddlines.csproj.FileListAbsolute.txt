@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\PrintOddlines\bin\Debug\PrintOddlines.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\PrintOddlines\bin\Debug\PrintOddlines.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\PrintOddlines\bin\Debug\PrintOddlines.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\PrintOddlines\obj\Debug\PrintOddlines.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\PrintOddlines\obj\Debug\PrintOddlines.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\PrintOddlines\obj\Debug\PrintOddlines.pdb

@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Find lexicographically the smallest and the largest property in document, window and navigator</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style>
+		input[type=text]{
+			border:1px solid black;
+			padding:5px 15px;
+			background-color:black;
+			color:white;
+			font-family:Consolas;		   
+			margin-bottom:5px;
+		}
+
+		a{
+			color:black;
+			border:1px solid black;
+			padding:5px 15px;						
+			text-decoration:none;	   
+			display:inline-block;		 
+			margin: 15px 0;
+		}
+
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
+</head>
+<body>
+	<div id="console">
+	</div>
+	<script src="scripts/js-console.js">	  
+	</script>		  
+	<script>														 
+
+			var min;
+			var max;
+			for(var prop in document)
+			{
+				if (min == undefined)
+				{
+					min = prop;
+				}
+				if (max == undefined)
+				{
+					max = prop;
+				}
+				if (prop > max) 
+				{
+					max = prop;
+				}
+				if (prop < min) 
+				{
+					min = prop;
+				}
+			}
+			jsConsole.writeLine("The smallest property lexicographically in document is : " + min);
+			jsConsole.writeLine("The largest property lexicographically in document is : " + max);
+			jsConsole.writeLine("");	
+
+			min = undefined;
+			max = undefined;
+			for(var prop in window)
+			{
+				if (min == undefined)
+				{
+					min = prop;
+				}
+				if (max == undefined)
+				{
+					max = prop;
+				}
+				if (prop > max) 
+				{
+					max = prop;
+				}
+				if (prop < min) 
+				{
+					min = prop;
+				}
+			}
+			jsConsole.writeLine("The smallest property lexicographically in window is : " + min);
+			jsConsole.writeLine("The largest property lexicographically in window is : " + max);
+			jsConsole.writeLine("");		
+
+			min = undefined;
+			max = undefined;
+			for(var prop in navigator)
+			{
+				if (min == undefined)
+				{
+					min = prop;
+				}
+				if (max == undefined)
+				{
+					max = prop;
+				}
+				if (prop > max) 
+				{
+					max = prop;
+				}
+				if (prop < min) 
+				{
+					min = prop;
+				}
+			}
+			jsConsole.writeLine("The smallest property lexicographically in navigator is : " + min);
+			jsConsole.writeLine("The largest property lexicographically in navigator is : " + max);							
+	</script>			  
+</body>
+</html>

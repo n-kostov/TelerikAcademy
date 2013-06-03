@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem2-Tribonacci\bin\Debug\Problem2-Tribonacci.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem2-Tribonacci\bin\Debug\Problem2-Tribonacci.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem2-Tribonacci\bin\Debug\Problem2-Tribonacci.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem2-Tribonacci\obj\Debug\Problem2-Tribonacci.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem2-Tribonacci\obj\Debug\Problem2-Tribonacci.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem2-Tribonacci\obj\Debug\Problem2-Tribonacci.pdb

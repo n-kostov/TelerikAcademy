@@ -1,0 +1,55 @@
+#slider:after, #slider-conteiner:after {
+	content: "";
+	display: block;
+	clear:both;
+}
+
+body {
+	font-family: Verdana, Tahoma, sans-serif;
+	background: url(images/gray_jean.png);
+}
+
+#wrapper {
+	max-width:960px;
+	margin: 20px auto;
+	text-align: center;
+	color: #333;
+}
+
+img {
+	float:left;
+}
+
+#slider-conteiner {
+	width: 665px;
+	margin: auto;
+}
+
+#left-arrow {
+	margin: 90px 20px 0 0;
+	float:left;
+	width: 50px;
+	height: 50px;
+	margin-left: -40px;
+}
+
+#right-arrow {
+	margin: 90px -20px; 0 0;
+	float:right;
+	width: 50px;
+	height: 50px;
+}
+
+#left-arrow, #right-arrow {
+	cursor:pointer;
+}
+
+#slider {
+	float:left;
+	width: 565px;
+	padding: 8px;
+	border: 1px solid #ccc;
+	background: #fff;
+	margin: auto;
+	border-radius: 8px;
+}

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\BulgarianDateFormat\bin\Debug\BulgarianDateFormat.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\BulgarianDateFormat\bin\Debug\BulgarianDateFormat.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\BulgarianDateFormat\bin\Debug\BulgarianDateFormat.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\BulgarianDateFormat\obj\Debug\BulgarianDateFormat.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\BulgarianDateFormat\obj\Debug\BulgarianDateFormat.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\BulgarianDateFormat\obj\Debug\BulgarianDateFormat.csprojResolveAssemblyReference.cache

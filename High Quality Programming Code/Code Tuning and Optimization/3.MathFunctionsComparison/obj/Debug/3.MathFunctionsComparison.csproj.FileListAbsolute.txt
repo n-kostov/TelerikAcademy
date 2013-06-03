@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\3.MathFunctionsComparison\bin\Debug\3.MathFunctionsComparison.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\3.MathFunctionsComparison\bin\Debug\3.MathFunctionsComparison.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\3.MathFunctionsComparison\bin\Debug\3.MathFunctionsComparison.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\3.MathFunctionsComparison\obj\Debug\3.MathFunctionsComparison.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\3.MathFunctionsComparison\obj\Debug\3.MathFunctionsComparison.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Tuning and Optimization\3.MathFunctionsComparison\obj\Debug\3.MathFunctionsComparison.csprojResolveAssemblyReference.cache

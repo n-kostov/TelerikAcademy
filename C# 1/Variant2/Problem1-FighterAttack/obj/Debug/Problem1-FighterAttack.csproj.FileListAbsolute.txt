@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem1-FighterAttack\bin\Debug\Problem1-FighterAttack.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem1-FighterAttack\bin\Debug\Problem1-FighterAttack.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem1-FighterAttack\bin\Debug\Problem1-FighterAttack.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem1-FighterAttack\obj\Debug\Problem1-FighterAttack.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem1-FighterAttack\obj\Debug\Problem1-FighterAttack.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant2\Problem1-FighterAttack\obj\Debug\Problem1-FighterAttack.pdb

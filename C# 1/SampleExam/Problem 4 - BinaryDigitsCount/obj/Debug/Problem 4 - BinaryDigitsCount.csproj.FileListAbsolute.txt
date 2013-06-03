@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem 4 - BinaryDigitsCount\bin\Debug\Problem 4 - BinaryDigitsCount.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem 4 - BinaryDigitsCount\bin\Debug\Problem 4 - BinaryDigitsCount.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem 4 - BinaryDigitsCount\bin\Debug\Problem 4 - BinaryDigitsCount.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem 4 - BinaryDigitsCount\obj\Debug\Problem 4 - BinaryDigitsCount.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem 4 - BinaryDigitsCount\obj\Debug\Problem 4 - BinaryDigitsCount.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem 4 - BinaryDigitsCount\obj\Debug\Problem 4 - BinaryDigitsCount.csprojResolveAssemblyReference.cache

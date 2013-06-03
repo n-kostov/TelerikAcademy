@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart1\TestClasses\bin\Debug\TestClasses.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart1\TestClasses\obj\Debug\TestClasses.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart1\TestClasses\bin\Debug\TestClasses.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart1\TestClasses\bin\Debug\TestClasses.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart1\TestClasses\bin\Debug\_03.NewBatteryType.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart1\TestClasses\bin\Debug\_03.NewBatteryType.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart1\TestClasses\obj\Debug\TestClasses.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart1\TestClasses\obj\Debug\TestClasses.pdb

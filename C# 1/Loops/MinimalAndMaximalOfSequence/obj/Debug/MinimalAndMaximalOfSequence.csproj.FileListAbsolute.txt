@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\MinimalAndMaximalOfSequence\bin\Debug\MinimalAndMaximalOfSequence.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\MinimalAndMaximalOfSequence\bin\Debug\MinimalAndMaximalOfSequence.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\MinimalAndMaximalOfSequence\bin\Debug\MinimalAndMaximalOfSequence.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\MinimalAndMaximalOfSequence\obj\Debug\MinimalAndMaximalOfSequence.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\MinimalAndMaximalOfSequence\obj\Debug\MinimalAndMaximalOfSequence.pdb

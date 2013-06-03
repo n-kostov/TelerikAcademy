@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Reverse the digits of decimal number</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <label for="tb-first">Number: </label>
+    <input type="text" id="tb-first" />
+    <br />
+    <a href="#" onclick="onReverseDigitsButtonClick()">Reverse digits</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        function onReverseDigitsButtonClick() {
+            var number = jsConsole.read("#tb-first");
+            jsConsole.writeLine("You entered: " + number);
+
+            if (!isNaN(number)) {
+                var reversedNumber = reverseDigits(number);
+                jsConsole.writeLine("Reversed: " + reversedNumber);
+            }
+            else {
+                jsConsole.writeLine(number + " is not a number");
+            }
+        }
+
+        function reverseDigits(number) {
+            var multiplier;
+
+            if (number < 0) {
+                multiplier = -1;
+                return multiplier * number.toString().substr(1).split("").reverse().join("");
+            }
+            else {
+                multiplier = 1;
+                return multiplier * number.toString().split("").reverse().join("");
+            }
+
+
+        }
+    </script>
+</body>
+</html>

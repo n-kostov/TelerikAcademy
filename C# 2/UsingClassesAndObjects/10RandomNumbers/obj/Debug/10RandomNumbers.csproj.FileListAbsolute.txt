@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\10RandomNumbers\bin\Debug\10RandomNumbers.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\10RandomNumbers\bin\Debug\10RandomNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\10RandomNumbers\bin\Debug\10RandomNumbers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\10RandomNumbers\obj\Debug\10RandomNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\10RandomNumbers\obj\Debug\10RandomNumbers.pdb

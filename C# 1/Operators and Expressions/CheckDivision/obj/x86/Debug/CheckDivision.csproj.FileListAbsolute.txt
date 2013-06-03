@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\CheckDivision\bin\Debug\CheckDivision.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\CheckDivision\bin\Debug\CheckDivision.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\CheckDivision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\CheckDivision\obj\x86\Debug\CheckDivision.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Operators and Expressions\CheckDivision\obj\x86\Debug\CheckDivision.pdb

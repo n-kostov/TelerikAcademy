@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem5-FallDown\bin\Debug\Problem5-FallDown.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem5-FallDown\obj\Debug\Problem5-FallDown.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem5-FallDown\bin\Debug\Problem5-FallDown.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem5-FallDown\bin\Debug\Problem5-FallDown.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem5-FallDown\obj\Debug\Problem5-FallDown.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\PracticalExam\Problem5-FallDown\obj\Debug\Problem5-FallDown.pdb

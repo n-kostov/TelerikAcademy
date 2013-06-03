@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\SortStringsByLength\bin\Debug\SortStringsByLength.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\SortStringsByLength\bin\Debug\SortStringsByLength.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\SortStringsByLength\bin\Debug\SortStringsByLength.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\SortStringsByLength\obj\Debug\SortStringsByLength.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\MultiDimensionalArrays\SortStringsByLength\obj\Debug\SortStringsByLength.pdb

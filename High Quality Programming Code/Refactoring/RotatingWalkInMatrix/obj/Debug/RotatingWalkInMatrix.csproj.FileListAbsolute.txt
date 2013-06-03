@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Refactoring\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Refactoring\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Refactoring\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Refactoring\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Refactoring\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Refactoring\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.pdb

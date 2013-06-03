@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.pdb

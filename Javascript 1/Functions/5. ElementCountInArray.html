@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Count how many times given number appears in given array</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <label for="tb-first">Number: </label>
+    <input type="text" id="tb-first" />
+    <br />
+    <a href="#" onclick="onGetOccurrencesButtonClick()">Count occurrences</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+        array = [];
+        for (var i = 1; i < 9 ; i++) {
+            for (var j = 0 ; j < i; j++) {
+                array.push(i);
+            }
+        }
+        jsConsole.writeLine("The array: " + array);
+        testGetNumberOfOccurrenceInArray();
+
+        function onGetOccurrencesButtonClick() {
+            var number = jsConsole.readFloat("#tb-first");
+
+            if (isNaN(number)) {
+                jsConsole.writeLine("Not correct input! Try again!");
+
+            }
+            else {
+                var count = getNumberOfOccurrenceInArray(number, array);
+                jsConsole.writeLine(number + " occurrs " + count + " times in the array.");
+            }
+        }
+
+        function testGetNumberOfOccurrenceInArray() {
+            jsConsole.writeLine("Test: ");
+            jsConsole.writeLine("getNumberOfOccurrenceInArray(" + 5 + " , array) == 5? = " +
+                (getNumberOfOccurrenceInArray(5, array) == 5));
+            jsConsole.writeLine("getNumberOfOccurrenceInArray(" + 8 + " , array) == 8? = " +
+                (getNumberOfOccurrenceInArray(8, array) == 8));
+        }
+
+        function getNumberOfOccurrenceInArray(number, array) {
+            var count = 0;
+
+            for (var i = 0; i < array.length; i++) {
+                if (array[i] === number) {
+                    count++;
+                }
+            }
+            return count;
+        }
+
+    </script>
+</body>
+</html>

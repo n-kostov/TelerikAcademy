@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\RemoveAllWords\bin\Debug\RemoveAllWords.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\RemoveAllWords\bin\Debug\RemoveAllWords.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\RemoveAllWords\bin\Debug\RemoveAllWords.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\RemoveAllWords\obj\Debug\RemoveAllWords.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\RemoveAllWords\obj\Debug\RemoveAllWords.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\RemoveAllWords\obj\Debug\RemoveAllWords.pdb

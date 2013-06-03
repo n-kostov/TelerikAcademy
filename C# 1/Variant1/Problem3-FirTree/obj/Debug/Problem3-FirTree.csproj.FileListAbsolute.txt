@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem3-FirTree\bin\Debug\Problem3-FirTree.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem3-FirTree\bin\Debug\Problem3-FirTree.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem3-FirTree\bin\Debug\Problem3-FirTree.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem3-FirTree\obj\Debug\Problem3-FirTree.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Variant1\Problem3-FirTree\obj\Debug\Problem3-FirTree.pdb

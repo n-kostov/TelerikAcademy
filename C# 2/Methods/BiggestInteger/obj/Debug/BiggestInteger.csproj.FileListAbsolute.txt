@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\BiggestInteger\bin\Debug\BiggestInteger.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\BiggestInteger\bin\Debug\BiggestInteger.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\BiggestInteger\bin\Debug\BiggestInteger.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\BiggestInteger\obj\Debug\BiggestInteger.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Methods\BiggestInteger\obj\Debug\BiggestInteger.pdb

@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Extract the content of a html page given as text</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <script src="scripts/string-extensions.js"></script>
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        //  6.Write a function that extracts the content of a html page given as text. 
+        //    The function should return anything that is in a tag, without the tags:
+
+        var text = "<html><head><title>Sample site</title></head><body><div>text<div>more text</div>and more...</div>in body</body></html>";
+        jsConsole.writeLine("Text: " + text.htmlEscape());
+
+        var content = extractContent(text);
+        jsConsole.writeLine("Extracted text: " + content);
+
+        function extractContent(text) {
+            var indexLeft = text.indexOf('>');
+            var indexRight = text.indexOf('<', indexLeft + 1);
+            var content = "";
+
+            while (indexLeft != -1 && indexRight != -1) {
+
+                if (indexLeft + 1 < indexRight) {
+                    content += text.substring(indexLeft + 1, indexRight);
+                }
+                indexLeft = text.indexOf('>', indexLeft + 1);
+                indexRight = text.indexOf('<', indexLeft);
+            }
+
+            return content;
+        }
+
+    </script>
+</body>
+</html>

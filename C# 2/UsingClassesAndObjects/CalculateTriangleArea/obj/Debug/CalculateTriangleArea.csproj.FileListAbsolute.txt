@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb

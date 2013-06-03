@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SequenceWithMaxSum\bin\Debug\SequenceWithMaxSum.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SequenceWithMaxSum\bin\Debug\SequenceWithMaxSum.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SequenceWithMaxSum\bin\Debug\SequenceWithMaxSum.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SequenceWithMaxSum\obj\Debug\SequenceWithMaxSum.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SequenceWithMaxSum\obj\Debug\SequenceWithMaxSum.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SequenceWithMaxSum\obj\Debug\SequenceWithMaxSum.pdb

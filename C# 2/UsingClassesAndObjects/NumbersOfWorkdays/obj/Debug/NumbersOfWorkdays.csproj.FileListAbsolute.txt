@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\NumbersOfWorkdays\bin\Debug\NumbersOfWorkdays.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\NumbersOfWorkdays\bin\Debug\NumbersOfWorkdays.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\NumbersOfWorkdays\bin\Debug\NumbersOfWorkdays.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\NumbersOfWorkdays\obj\Debug\NumbersOfWorkdays.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\NumbersOfWorkdays\obj\Debug\NumbersOfWorkdays.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\UsingClassesAndObjects\NumbersOfWorkdays\obj\Debug\NumbersOfWorkdays.pdb

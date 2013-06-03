@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\BallInCuboid\bin\Debug\BallInCuboid.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\BallInCuboid\bin\Debug\BallInCuboid.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\BallInCuboid\bin\Debug\BallInCuboid.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\BallInCuboid\obj\Debug\BallInCuboid.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\BallInCuboid\obj\Debug\BallInCuboid.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\CSharpIntermidiate2013\BallInCuboid\obj\Debug\BallInCuboid.csprojResolveAssemblyReference.cache

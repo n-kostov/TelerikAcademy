@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFactoiels\bin\Debug\SumOfFactoiels.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFactoiels\bin\Debug\SumOfFactoiels.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFactoiels\bin\Debug\SumOfFactoiels.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFactoiels\obj\Debug\SumOfFactoiels.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Loops\SumOfFactoiels\obj\Debug\SumOfFactoiels.pdb

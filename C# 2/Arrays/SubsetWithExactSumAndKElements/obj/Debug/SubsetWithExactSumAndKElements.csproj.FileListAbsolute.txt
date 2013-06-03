@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SubsetWithExactSumAndKElements\bin\Debug\SubsetWithExactSumAndKElements.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SubsetWithExactSumAndKElements\bin\Debug\SubsetWithExactSumAndKElements.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SubsetWithExactSumAndKElements\bin\Debug\SubsetWithExactSumAndKElements.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SubsetWithExactSumAndKElements\obj\Debug\SubsetWithExactSumAndKElements.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SubsetWithExactSumAndKElements\obj\Debug\SubsetWithExactSumAndKElements.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Arrays\SubsetWithExactSumAndKElements\obj\Debug\SubsetWithExactSumAndKElements.pdb

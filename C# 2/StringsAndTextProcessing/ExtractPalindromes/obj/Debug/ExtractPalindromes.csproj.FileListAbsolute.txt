@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractPalindromes\bin\Debug\ExtractPalindromes.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractPalindromes\bin\Debug\ExtractPalindromes.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractPalindromes\bin\Debug\ExtractPalindromes.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractPalindromes\obj\Debug\ExtractPalindromes.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\StringsAndTextProcessing\ExtractPalindromes\obj\Debug\ExtractPalindromes.pdb

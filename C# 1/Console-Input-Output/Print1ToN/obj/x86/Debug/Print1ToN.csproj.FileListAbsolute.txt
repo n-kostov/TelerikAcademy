@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\Print1ToN\bin\Debug\Print1ToN.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\Print1ToN\bin\Debug\Print1ToN.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\Print1ToN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\Print1ToN\obj\x86\Debug\Print1ToN.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\Print1ToN\obj\x86\Debug\Print1ToN.pdb

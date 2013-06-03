@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\ExtractFromXML\bin\Debug\ExtractFromXML.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\ExtractFromXML\bin\Debug\ExtractFromXML.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\ExtractFromXML\bin\Debug\ExtractFromXML.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\ExtractFromXML\obj\Debug\ExtractFromXML.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\ExtractFromXML\obj\Debug\ExtractFromXML.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\TextFiles\ExtractFromXML\obj\Debug\ExtractFromXML.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\CaclulateAge\bin\Debug\CaclulateAge.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\CaclulateAge\bin\Debug\CaclulateAge.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\CaclulateAge\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\CaclulateAge\obj\x86\Debug\CaclulateAge.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Introduction to Programming\CaclulateAge\obj\x86\Debug\CaclulateAge.pdb

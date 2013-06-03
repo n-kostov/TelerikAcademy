@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Check if the element at given position in given array of integers is bigger than its two neighbors</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <style>
+        input[type=text] {
+            border: 1px solid black;
+            padding: 5px 15px;
+            background-color: black;
+            color: white;
+            font-family: Consolas;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: black;
+            border: 1px solid black;
+            padding: 5px 15px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <label for="tb-first">Position: </label>
+    <input type="text" id="tb-first" />
+    <br />
+    <a href="#" onclick="onCheckNeighborsButtonClick()">Check neighbors</a>
+    <div id="js-console">
+    </div>
+    <script src="scripts/js-console.js">	  
+    </script>
+    <script>
+
+        var array = [1, 2, 3];
+        jsConsole.writeLine("Array: " + array);
+
+        function onCheckNeighborsButtonClick() {
+
+            var position = jsConsole.read("#tb-first") * 1;
+
+            if (position < 0 || position >= array.length) {
+                jsConsole.writeLine("Wrong position.");
+            }
+            else {
+                var isBigger = BiggerThanNeighbors(position, array);
+                jsConsole.writeLine("the element at position " + position + " is bigger than his neighbors? = " + isBigger);
+            }
+        }
+
+        function BiggerThanNeighbors(position, array) {
+
+            if (position < 0 || position >= array.length) {
+                jsConsole.writeLine("Wrong position.");
+                return false;
+            }
+            else {
+                if (position == 0) {
+                    return array[position] > array[position + 1];
+                }
+                else if (position == array.length - 1) {
+                    return array[position] > array[position - 1];
+                }
+                else {
+                    return array[position] > array[position + 1] && array[position] > array[position] - 1;
+                }
+            }
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\3. AnimalSounds\bin\Debug\_3.AnimalSounds.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\3. AnimalSounds\bin\Debug\_3.AnimalSounds.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\3. AnimalSounds\bin\Debug\_3.AnimalSounds.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\3. AnimalSounds\obj\Debug\3. AnimalSounds.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\3. AnimalSounds\obj\Debug\_3.AnimalSounds.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\OOPPrinciplesPart1\3. AnimalSounds\obj\Debug\_3.AnimalSounds.pdb

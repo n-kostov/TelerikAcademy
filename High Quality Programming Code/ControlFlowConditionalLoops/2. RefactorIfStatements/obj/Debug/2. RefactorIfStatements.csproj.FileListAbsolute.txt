@@ -1,0 +1,1 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\ControlFlowConditionalLoops\2. RefactorIfStatements\obj\Debug\2. RefactorIfStatements.csprojResolveAssemblyReference.cache

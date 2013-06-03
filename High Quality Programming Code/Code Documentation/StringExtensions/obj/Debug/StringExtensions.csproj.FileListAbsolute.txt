@@ -1,0 +1,7 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Documentation\StringExtensions\bin\Debug\StringExtensions.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Documentation\StringExtensions\bin\Debug\StringExtensions.XML
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Documentation\StringExtensions\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Documentation\StringExtensions\bin\Debug\StringExtensions.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Documentation\StringExtensions\bin\Debug\StringExtensions.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Documentation\StringExtensions\obj\Debug\StringExtensions.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\High Quality Programming Code\Code Documentation\StringExtensions\obj\Debug\StringExtensions.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadAllText\bin\Debug\ReadAllText.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadAllText\obj\Debug\ReadAllText.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadAllText\bin\Debug\ReadAllText.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadAllText\bin\Debug\ReadAllText.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadAllText\obj\Debug\ReadAllText.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\ExceptionHandling\ReadAllText\obj\Debug\ReadAllText.pdb

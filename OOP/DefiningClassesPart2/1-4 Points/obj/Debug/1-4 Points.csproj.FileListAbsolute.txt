@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\1-4 Points\bin\Debug\1-4 Points.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\1-4 Points\obj\Debug\1-4 Points.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\1-4 Points\bin\Debug\1-4 Points.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\1-4 Points\bin\Debug\1-4 Points.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\1-4 Points\obj\Debug\1-4 Points.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\OOP\DefiningClassesPart2\1-4 Points\obj\Debug\1-4 Points.pdb

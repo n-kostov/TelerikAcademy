@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\First100OfFibonacci\bin\Debug\First100OfFibonacci.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\First100OfFibonacci\bin\Debug\First100OfFibonacci.pdb
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\First100OfFibonacci\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\First100OfFibonacci\obj\x86\Debug\First100OfFibonacci.exe
+C:\Users\virusa\Documents\Visual Studio 2010\Projects\Telerik\C# 1\Console-Input-Output\First100OfFibonacci\obj\x86\Debug\First100OfFibonacci.pdb

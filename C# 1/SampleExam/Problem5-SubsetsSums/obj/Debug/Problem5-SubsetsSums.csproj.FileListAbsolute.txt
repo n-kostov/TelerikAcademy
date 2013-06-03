@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem5-SubsetsSums\bin\Debug\Problem5-SubsetsSums.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem5-SubsetsSums\bin\Debug\Problem5-SubsetsSums.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem5-SubsetsSums\bin\Debug\Problem5-SubsetsSums.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem5-SubsetsSums\obj\Debug\Problem5-SubsetsSums.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem5-SubsetsSums\obj\Debug\Problem5-SubsetsSums.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\SampleExam\Problem5-SubsetsSums\obj\Debug\Problem5-SubsetsSums.pdb

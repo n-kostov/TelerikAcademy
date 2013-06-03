@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 2\Numeral Systems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.pdb

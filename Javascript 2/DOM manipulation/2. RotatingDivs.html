@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Divs rotation</title>
+</head>
+<body>
+    <div id="wrapper">
+    </div>
+    <script>
+        var centerX = window.innerWidth / 2;
+        var centerY = window.innerHeight / 2;
+        var radius = 100;
+        var step = Math.PI / 9;
+        var angles = [];
+        var i = 0;
+
+        // initialize
+        for (i = 0; i < 5; i++) {
+            angles.push(i * 2 * Math.PI / 5);
+        }
+
+        generateDivs();
+        var circles = document.getElementsByClassName("circle");
+        var interval = setInterval(function () { rotateElements(); }, 1000);
+
+        function generateDivs() {
+            var i = 0;
+            var colors = ["red", "green", "blue", "yellow", "purple"];
+            var parent = document.getElementById("wrapper");
+
+            for (i = 0; i < 5; i++) {
+                var currentDiv = document.createElement("div");
+                currentDiv.className = "circle";
+
+                // style the div element
+                var style = currentDiv.style;
+                style.backgroundColor = colors[i];
+                style.position = "absolute";
+                style.left = (centerX + Math.cos(angles[i]) * radius) + "px";
+                style.top = (centerY + Math.sin(angles[i]) * radius) + "px";
+                style.width = "50px";
+                style.height = "50px";
+                style.borderRadius = "100%";
+
+                parent.appendChild(currentDiv);
+            }
+        }
+
+        function rotateElements() {
+
+            for (i = 0; i < 5; i++) {
+                angles[i] += step;
+                angles[i] %= 2 * Math.PI;
+                circles[i].style.left = (centerX + Math.cos(angles[i]) * radius) + "px";
+                circles[i].style.top = (centerY + Math.sin(angles[i]) * radius) + "px";
+            }
+        }
+
+    </script>
+</body>
+</html>
