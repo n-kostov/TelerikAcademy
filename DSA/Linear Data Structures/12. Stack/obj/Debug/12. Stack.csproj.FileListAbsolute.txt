@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\12. Stack\bin\Debug\_12.Stack.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\12. Stack\bin\Debug\_12.Stack.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\12. Stack\bin\Debug\_12.Stack.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\12. Stack\obj\Debug\12. Stack.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\12. Stack\obj\Debug\_12.Stack.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\12. Stack\obj\Debug\_12.Stack.pdb

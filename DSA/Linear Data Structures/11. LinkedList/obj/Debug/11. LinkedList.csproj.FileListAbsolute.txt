@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\11. LinkedList\bin\Debug\_11.LinkedList.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\11. LinkedList\obj\Debug\11. LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\11. LinkedList\bin\Debug\_11.LinkedList.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\11. LinkedList\bin\Debug\_11.LinkedList.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\11. LinkedList\obj\Debug\_11.LinkedList.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\11. LinkedList\obj\Debug\_11.LinkedList.pdb

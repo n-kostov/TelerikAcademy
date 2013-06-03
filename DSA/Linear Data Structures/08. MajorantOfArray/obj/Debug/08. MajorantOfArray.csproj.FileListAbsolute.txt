@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\08. MajorantOfArray\bin\Debug\_08.MajorantOfArray.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\08. MajorantOfArray\obj\Debug\08. MajorantOfArray.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\08. MajorantOfArray\bin\Debug\_08.MajorantOfArray.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\08. MajorantOfArray\bin\Debug\_08.MajorantOfArray.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\08. MajorantOfArray\obj\Debug\_08.MajorantOfArray.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\08. MajorantOfArray\obj\Debug\_08.MajorantOfArray.pdb

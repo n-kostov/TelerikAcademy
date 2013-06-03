@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\09. PrintSequence\bin\Debug\_09.PrintSequence.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\09. PrintSequence\bin\Debug\_09.PrintSequence.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\09. PrintSequence\bin\Debug\_09.PrintSequence.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\09. PrintSequence\obj\Debug\09. PrintSequence.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\09. PrintSequence\obj\Debug\_09.PrintSequence.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\09. PrintSequence\obj\Debug\_09.PrintSequence.pdb

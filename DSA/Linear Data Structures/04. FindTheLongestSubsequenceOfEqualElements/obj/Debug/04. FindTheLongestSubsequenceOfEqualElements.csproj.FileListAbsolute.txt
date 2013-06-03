@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\04. FindTheLongestSubsequenceOfEqualElements\bin\Debug\_04.FindTheLongestSubsequenceOfEqualElements.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\04. FindTheLongestSubsequenceOfEqualElements\obj\Debug\04. FindTheLongestSubsequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\04. FindTheLongestSubsequenceOfEqualElements\bin\Debug\_04.FindTheLongestSubsequenceOfEqualElements.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\04. FindTheLongestSubsequenceOfEqualElements\bin\Debug\_04.FindTheLongestSubsequenceOfEqualElements.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\04. FindTheLongestSubsequenceOfEqualElements\obj\Debug\_04.FindTheLongestSubsequenceOfEqualElements.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\04. FindTheLongestSubsequenceOfEqualElements\obj\Debug\_04.FindTheLongestSubsequenceOfEqualElements.pdb

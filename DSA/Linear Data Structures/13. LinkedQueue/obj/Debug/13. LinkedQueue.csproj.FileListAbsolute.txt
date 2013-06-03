@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\13. LinkedQueue\bin\Debug\_13.LinkedQueue.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\13. LinkedQueue\bin\Debug\_13.LinkedQueue.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\13. LinkedQueue\bin\Debug\_13.LinkedQueue.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\13. LinkedQueue\obj\Debug\13. LinkedQueue.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\13. LinkedQueue\obj\Debug\_13.LinkedQueue.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\13. LinkedQueue\obj\Debug\_13.LinkedQueue.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\1. TreeAlgorithms\bin\Debug\_1.TreeAlgorithms.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\1. TreeAlgorithms\bin\Debug\_1.TreeAlgorithms.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\1. TreeAlgorithms\bin\Debug\_1.TreeAlgorithms.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\1. TreeAlgorithms\obj\Debug\1. TreeAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\1. TreeAlgorithms\obj\Debug\_1.TreeAlgorithms.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\1. TreeAlgorithms\obj\Debug\_1.TreeAlgorithms.pdb

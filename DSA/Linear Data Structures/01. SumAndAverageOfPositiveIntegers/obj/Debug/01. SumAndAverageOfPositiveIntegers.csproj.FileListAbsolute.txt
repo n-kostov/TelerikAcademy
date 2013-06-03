@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\01. SumAndAverageOfPositiveIntegers\bin\Debug\_01.SumAndAverageOfPositiveIntegers.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\01. SumAndAverageOfPositiveIntegers\bin\Debug\_01.SumAndAverageOfPositiveIntegers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\01. SumAndAverageOfPositiveIntegers\bin\Debug\_01.SumAndAverageOfPositiveIntegers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\01. SumAndAverageOfPositiveIntegers\obj\Debug\01. SumAndAverageOfPositiveIntegers.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\01. SumAndAverageOfPositiveIntegers\obj\Debug\_01.SumAndAverageOfPositiveIntegers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Linear Data Structures\01. SumAndAverageOfPositiveIntegers\obj\Debug\_01.SumAndAverageOfPositiveIntegers.pdb
