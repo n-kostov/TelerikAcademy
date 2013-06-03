@@ -6,6 +6,8 @@ namespace Tree
 {
     public class Program
     {
+        private static List<List<int>> paths = new List<List<int>>();
+
         public static void Main(string[] args)
         {
             Console.Write("n = ");
@@ -63,6 +65,7 @@ namespace Tree
             Console.Write("s = ");
             int s = int.Parse(Console.ReadLine());
             FindAllPaths(nodes, s);
+            PrintPaths();
 
             // 6. Find all subtrees with given sum S of their node
             Console.Write("All subtrees with sum ");
@@ -147,7 +150,10 @@ namespace Tree
         {
             if (result.Sum() == s)
             {
-                Console.WriteLine(string.Join(", ", result));
+                if (!CheckPathAlreadyExist(result))
+                {
+                    paths.Add(new List<int>(result));
+                }
             }
 
             foreach (var node in root.Children)
@@ -166,6 +172,7 @@ namespace Tree
         private static void FindAllPaths(Node<int>[] nodes, int s)
         {
             List<int> result = new List<int>();
+
             for (int i = 0; i < nodes.Length; i++)
             {
                 result.Add(nodes[i].Value);
@@ -179,6 +186,37 @@ namespace Tree
                 }
 
                 result.Clear();
+            }
+        }
+
+        private static bool CheckPathAlreadyExist(List<int> possiblePath)
+        {
+            bool exist = false;
+
+            foreach (var path in paths)
+            {
+                if (path.Count == possiblePath.Count)
+                {
+                    for (int i = 0; i < path.Count; i++)
+                    {
+                        if (path[i] != possiblePath[possiblePath.Count - 1 - i])
+                        {
+                            break;
+                        }
+                    }
+
+                    return true;
+                }
+            }
+
+            return exist;
+        }
+
+        private static void PrintPaths()
+        {
+            foreach (var path in paths)
+            {
+                Console.WriteLine(string.Join(", ", path));
             }
         }
 
