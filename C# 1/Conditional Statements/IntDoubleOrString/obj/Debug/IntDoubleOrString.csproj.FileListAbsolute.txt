@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\IntDoubleOrString\bin\Debug\IntDoubleOrString.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\IntDoubleOrString\obj\Debug\IntDoubleOrString.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\IntDoubleOrString\bin\Debug\IntDoubleOrString.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\IntDoubleOrString\bin\Debug\IntDoubleOrString.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\IntDoubleOrString\obj\Debug\IntDoubleOrString.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\IntDoubleOrString\obj\Debug\IntDoubleOrString.pdb

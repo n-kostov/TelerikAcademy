@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ExchangeTwoNumbers\bin\Debug\ExchangeTwoNumbers.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ExchangeTwoNumbers\bin\Debug\ExchangeTwoNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ExchangeTwoNumbers\bin\Debug\ExchangeTwoNumbers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ExchangeTwoNumbers\obj\Debug\ExchangeTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ExchangeTwoNumbers\obj\Debug\ExchangeTwoNumbers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ExchangeTwoNumbers\obj\Debug\ExchangeTwoNumbers.pdb

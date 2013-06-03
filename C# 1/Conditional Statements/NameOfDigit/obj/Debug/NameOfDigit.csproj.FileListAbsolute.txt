@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\NameOfDigit\bin\Debug\NameOfDigit.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\NameOfDigit\bin\Debug\NameOfDigit.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\NameOfDigit\bin\Debug\NameOfDigit.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\NameOfDigit\obj\Debug\NameOfDigit.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\NameOfDigit\obj\Debug\NameOfDigit.pdb

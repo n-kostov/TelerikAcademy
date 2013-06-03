@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ConvertNumberToText\bin\Debug\ConvertNumberToText.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ConvertNumberToText\bin\Debug\ConvertNumberToText.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ConvertNumberToText\bin\Debug\ConvertNumberToText.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ConvertNumberToText\obj\Debug\ConvertNumberToText.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\C# 1\Conditional Statements\ConvertNumberToText\obj\Debug\ConvertNumberToText.pdb
