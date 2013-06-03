@@ -1,0 +1,150 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: Calibri;
+    background-color: #f1f1f1;
+}
+
+nav {
+    float: left;
+    width: 20%;
+}
+
+
+aside {
+    float: left;
+    width: 15%;
+    margin-left: 2%;
+    text-align: center;
+}
+
+
+section {
+    background-color: #ffffff;
+    padding: 5px;
+    border: 1px solid #c4c4c4;
+    float: left;
+    margin: auto;
+    width: 60%;
+}
+
+    section a:last-child {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+ul {
+    list-style: none;
+}
+
+    ul > li > ul > li {
+        font-weight: normal;
+        color: black;
+        margin-left: -39px;
+    }
+
+li > ul {
+    margin-bottom: 15px;
+}
+
+article > a {
+    color: #8f0a08;
+}
+
+aside a {
+    color: #8f0a08;
+}
+
+.menu {
+    font-weight: bold;
+    color: #8f0a08;
+}
+
+#home {
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+h2 {
+    color: white;
+    background-color: #808080;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 0px auto 10px auto;
+}
+
+.first {
+    font-weight: bold;
+}
+
+#plus {
+    width: 93px;
+    height: 33px;
+    border: 2px solid #7eabcc;
+    color: #3ecdfe;
+    background-color: #d3effe;
+    border-radius: 3px;
+    display: block;
+    margin: auto;
+}
+
+aside div {
+    text-align: center;
+    border: 1.5px solid #c4c4c4;
+    padding-top: 3px;
+    padding-bottom: 6px;
+}
+
+    aside div:first-child {
+        border-top: none;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+.buttons {
+    border-bottom: 1px solid #9f9f9f;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+
+.buttonsBottom {
+    margin-top: 0px;
+    border-top: 1px solid #9f9f9f;
+    border-bottom: 1px solid #9f9f9f;
+}
+
+button {
+    background-color: #ffffff;
+    border: 1px solid black;
+    border-radius: 0px;
+    text-align: center;
+    padding-left: 0;
+    width: 20%;
+}
+
+.prev {
+    float: left;
+}
+
+.next {
+    float: right;
+}
+
+img {
+    display: inline-block;
+}
+
+#strong {
+    vertical-align: top;
+}
+
+#logo {
+    float: left;
+}

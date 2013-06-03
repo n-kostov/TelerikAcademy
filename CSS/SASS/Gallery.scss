@@ -1,0 +1,50 @@
+$size: 150px;
+
+body
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	
+
+	nav {
+
+		ul {
+			@extend body;
+
+			li {
+				list-style: none;
+				display: inline-block;
+				height: $size;
+				padding: 5px;
+
+				img {
+					height: $size;
+				}
+			}
+		}
+	}
+
+	.images {
+		width:6*$size;
+
+		img {
+			width: 6*$size;
+			height: 2.9*$size;
+			z-index: -1;
+			display: inline-block;
+			position: absolute;
+		}
+
+		input[type="radio"] {
+			display: none;
+
+			&:checked{
+				&+ img {
+					z-index: 1;
+				}
+			}
+		}
+	}
+}
+

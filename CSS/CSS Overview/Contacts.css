@@ -1,0 +1,43 @@
+﻿body {
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: #59bc06;
+    text-align: left;
+    color: #FFFAFA;
+    border: 1px solid #cac8b2;
+    padding: 15px;
+    font-size: 25px;
+}
+
+tr:nth-of-type(odd) {
+    background-color: #ececd8;
+}
+
+td {
+    padding: 15px;
+    border: 1px solid #cac8b2;
+    border-bottom: none;
+    border-top: none;
+    font-size:25px;
+}
+
+.bottomrow {
+    border-bottom: 1px solid #cac8b2;
+}
+
+img {
+    width: 40px;
+    height: 25px;
+    padding-right: 10px;
+}
+
+input[type=checkbox] {
+    
+    background-color: #F5F5F5;
+}

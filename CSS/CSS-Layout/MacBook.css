@@ -1,0 +1,94 @@
+﻿body, section, aside, div, ul, li, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 60%;
+    height: 578px;
+    margin: 5px auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav {
+    text-align: center;
+}
+
+    nav li {
+        display: inline;
+        margin-left: 5px;
+    }
+
+    nav a {
+        color: #00aef0;
+        font-size: 150%;
+        font-weight: bold;
+    }
+
+hr {
+    width: 95%;
+    border-color: black;
+}
+
+section {
+    width: 552px;
+    height: 490px;
+    border: 2px solid black;
+    margin: 5px;
+    padding-top: 5px;
+    float: left;
+}
+
+    section ul {
+        margin-top: 40px;
+        margin-right: 5px;
+        float: right;
+    }
+
+    section li {
+        line-height: 170%;
+    }
+
+h2 {
+    background-color: white;
+    font-size: 120%;
+    font-weight: normal;
+    margin-top: -13px;
+    margin-left: 40px;
+    padding-left: 8px;
+    width: 160px;
+}
+
+section span {
+    margin-top: 104px;
+    margin-left: 50px;
+    float: left;
+}
+
+.box {
+    background: url('images/macbook.jpg') 10px 15px no-repeat;
+    width: 260px;
+    height: 145px;
+    float: left;
+    border: 2px solid black;
+    margin: 6px;
+    margin-left: 3px;
+}
+
+aside {
+    float: left;
+    width: 165px;
+    margin-top: 90px;
+    margin-left: 8px;
+}
+
+input {
+    margin: 20px 0 20px 5px;
+}
+
+label {
+    font-size: 120%;
+}

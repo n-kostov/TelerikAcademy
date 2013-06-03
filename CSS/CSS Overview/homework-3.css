@@ -1,0 +1,41 @@
+﻿body {
+    background-color: #a9a9a9;
+}
+
+h1 {
+    color: #fafad2;
+}
+
+a {
+    text-decoration:none;
+}
+
+li {
+    list-style:none;
+	font-weight: bold;
+}
+
+#head1, nav, #foot1 {
+    text-align:center;
+}
+
+.current {
+    color:#fff;
+    font-size:large;
+}
+
+#last {
+    text-decoration:underline;
+}
+
+.posted {
+    color:#000;
+}
+
+.post {
+    font-size:small;
+}
+
+#second {
+	background-color: #d3d3d3;
+}

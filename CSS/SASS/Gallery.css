@@ -1,0 +1,24 @@
+body, body nav ul {
+  margin: 0;
+  padding: 0;
+  border: 0; }
+  body nav ul li {
+    list-style: none;
+    display: inline-block;
+    height: 150px;
+    padding: 5px; }
+    body nav ul li img {
+      height: 150px; }
+  body .images {
+    width: 900px; }
+    body .images img {
+      width: 900px;
+      height: 435px;
+      z-index: -1;
+      display: inline-block;
+      position: absolute; }
+    body .images input[type="radio"] {
+      display: none; }
+      body .images input[type="radio"]:checked + img {
+        z-index: 1; }
+

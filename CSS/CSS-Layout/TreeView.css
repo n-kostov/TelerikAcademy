@@ -1,0 +1,18 @@
+﻿body {
+}
+
+
+dd {
+    display:none;
+    width:100px;
+}
+
+dl:hover > dt{
+    text-decoration:underline;
+    width:100px;
+}
+
+    dl:hover > dd {
+        display:block;
+        color: #9d9fa3;
+    }

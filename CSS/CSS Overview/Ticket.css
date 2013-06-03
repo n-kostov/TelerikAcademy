@@ -1,0 +1,42 @@
+﻿body {
+    background-color: #787878;
+    vertical-align: text-top;
+}
+
+table {
+    vertical-align: top;
+    
+}
+
+.grey {
+    color:#C0C0C0;
+}
+
+.white {
+    color:#F8F8F8;
+    font-style:italic;
+    vertical-align:top;
+}
+
+.gold {
+    color:#d6c790;
+}
+
+#red {
+    color:#f90615;
+}
+
+#orange {
+    color:#e16e1f;
+}
+
+#circle
+{
+    display:inline;
+    /*position:relative;
+    top: 13px;*/
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    background-color: #71b47a;
+}

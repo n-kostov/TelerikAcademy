@@ -1,0 +1,51 @@
+﻿body {
+}
+
+article {
+    width: 45%;
+    padding: 15px;
+    background-color: #eeeeee;
+}
+
+section {
+    border: 1px solid black;
+    padding: 15px;
+    margin: 15px;
+    background-color: white;
+    height: 20%;
+    font-size: 20px;
+    font-family: Verdana;
+    line-height: 18px;
+}
+
+    section img {
+        float: left;
+        margin-right: 15px;
+    }
+
+
+
+p {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn2 {
+    background-image: url('images/button2.png');
+    color: white;
+}
+
+.btn1 {
+    background-image: url('images/button1.png');
+    color: white;
+}
+
+.buttons {
+    text-align: right;
+}
