@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\1. PriorityQueue\bin\Debug\_1.PriorityQueue.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\1. PriorityQueue\obj\Debug\1. PriorityQueue.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\1. PriorityQueue\bin\Debug\_1.PriorityQueue.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\1. PriorityQueue\bin\Debug\_1.PriorityQueue.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\1. PriorityQueue\obj\Debug\_1.PriorityQueue.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\1. PriorityQueue\obj\Debug\_1.PriorityQueue.pdb
