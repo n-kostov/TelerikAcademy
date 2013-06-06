@@ -109,17 +109,15 @@ namespace _1.PriorityQueue
 
             while (leftChildPosition < this.size)
             {
-                int index;
-                if (this.array[currentPosition].CompareTo(this.array[leftChildPosition]) < 0)
-                {
-                    index = leftChildPosition;
-                }
-                else if (rightChildPosition < this.size &&
+                int index = leftChildPosition;
+
+                if (rightChildPosition < this.size &&
                     this.array[leftChildPosition].CompareTo(this.array[rightChildPosition]) < 0)
                 {
                     index = rightChildPosition;
                 }
-                else
+
+                if (this.array[currentPosition].CompareTo(this.array[index]) > 0)
                 {
                     return;
                 }
