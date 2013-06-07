@@ -95,6 +95,10 @@ namespace _1.PriorityQueue
                 {
                     this.Swap(ref this.array[currentPosition], ref this.array[parentPosition]);
                 }
+                else
+                {
+                    return;
+                }
 
                 currentPosition = parentPosition;
                 parentPosition = (currentPosition - 1) / 2;
