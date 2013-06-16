@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\1. PrototypalSchoolsRepository\bin\_1.PrototypalSchoolsRepository.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\1. PrototypalSchoolsRepository\bin\_1.PrototypalSchoolsRepository.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\1. PrototypalSchoolsRepository\obj\Debug\1. PrototypalSchoolsRepository.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\1. PrototypalSchoolsRepository\obj\Debug\_1.PrototypalSchoolsRepository.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\1. PrototypalSchoolsRepository\obj\Debug\_1.PrototypalSchoolsRepository.pdb

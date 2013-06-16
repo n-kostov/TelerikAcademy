@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="script.js"></script>
+    <style>
+        a {
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+        #sitesbar ul {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #sitesbar > ul > li {
+            display: inline;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="sitesbar">
+    </div>
+    <script type="text/javascript">
+        var url1 = new Url("Начало", "http://telerikacademy.com/");
+
+        var url2 = new Url("Кандидатстване за академията", "http://telerikacademy.com/SoftwareAcademy/Candidate");
+        var url3 = new Url("Входен изпит", "http://telerikacademy.com/SoftwareAcademy/Candidate/ExamDateSelect");
+        var folder1 = new Folder("Софтуерна академия", [url2, url3]);
+
+        var url4 = new Url("Структури от данни и алгоритми", "http://telerikacademy.com/Courses/Courses/Details/89");
+        var url5 = new Url("Javascript приложения", "http://telerikacademy.com/Courses/Courses/Details/87");
+        var folder2 = new Folder("Курсове", [url4, url5]);
+
+        var favoriteSitesBar = new FavoriteSitesBar([folder1, folder2], [url1]);
+        favoriteSitesBar.render();
+    </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\2. ClassicalSchoolRepository\bin\_2.ClassicalSchoolRepository.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\2. ClassicalSchoolRepository\bin\_2.ClassicalSchoolRepository.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\2. ClassicalSchoolRepository\obj\Debug\2. ClassicalSchoolRepository.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\2. ClassicalSchoolRepository\obj\Debug\_2.ClassicalSchoolRepository.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\2. ClassicalSchoolRepository\obj\Debug\_2.ClassicalSchoolRepository.pdb

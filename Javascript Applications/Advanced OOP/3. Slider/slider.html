@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="script.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #prev, #next {
+            padding: 5px;
+            position: relative;
+            top: 40%;
+        }
+
+        #slider {
+            margin: 0 auto;
+            margin-top: 20px;
+            width: 400px;
+        }
+
+        #content {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="content">
+    </div>
+    <div id="slider">
+    </div>
+    <script type="text/javascript">
+        var pic1 = Object.create(Image);
+        pic1.init("cat1", "images/pic1.jpg", "images/pic1Big.jpg");
+        var pic2 = Object.create(Image);
+        pic2.init("cat2", "images/pic2.jpg", "images/pic2Big.jpg");
+        var pic3 = Object.create(Image);
+        pic3.init("cat3", "images/pic3.jpg", "images/pic3Big.jpg");
+        var pic4 = Object.create(Image);
+        pic4.init("cat4", "images/pic4.jpg", "images/pic4Big.jpg");
+        var slider = Object.create(Slider);
+        slider.init([pic1, pic2, pic3, pic4]);
+    </script>
+</body>
+</html>

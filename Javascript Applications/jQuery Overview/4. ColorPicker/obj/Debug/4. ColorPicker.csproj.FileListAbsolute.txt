@@ -1,0 +1,4 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\jQuery Overview\4. ColorPicker\bin\_4.ColorPicker.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\jQuery Overview\4. ColorPicker\bin\_4.ColorPicker.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\jQuery Overview\4. ColorPicker\obj\Debug\_4.ColorPicker.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\jQuery Overview\4. ColorPicker\obj\Debug\_4.ColorPicker.pdb

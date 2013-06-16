@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\jQuery Overview\1. Slider Control\bin\_1.Slider_Control.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\jQuery Overview\1. Slider Control\bin\_1.Slider_Control.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\jQuery Overview\1. Slider Control\obj\Debug\1. Slider Control.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\jQuery Overview\1. Slider Control\obj\Debug\_1.Slider_Control.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\jQuery Overview\1. Slider Control\obj\Debug\_1.Slider_Control.pdb

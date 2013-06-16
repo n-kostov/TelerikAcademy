@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\4. FavoriteSitesBar\bin\_4.FavoriteSitesBar.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\4. FavoriteSitesBar\bin\_4.FavoriteSitesBar.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\4. FavoriteSitesBar\obj\Debug\4. FavoriteSitesBar.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\4. FavoriteSitesBar\obj\Debug\_4.FavoriteSitesBar.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\4. FavoriteSitesBar\obj\Debug\_4.FavoriteSitesBar.pdb

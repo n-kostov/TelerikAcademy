@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+    <script type="text/javascript">
+        var pesho = Object.create(Student);
+        pesho.init("Pesho", "Peshev", 18, 5);
+        var gosho = Object.create(Student);
+        gosho.init("Georgi", "Georgiev", 16, 9);
+        var classATeacher = Object.create(Teacher);
+        classATeacher.init("Vuzpitatel", "Petrov", 30, "Maths");
+        var classA = Object.create(Course);
+        classA.init("A", 5, [pesho, gosho], classATeacher);
+        var school = Object.create(School);
+        school.init("Sava Rakovski", "Sofia", [classA]);
+        console.log(school);
+    </script>
+</body>
+</html>

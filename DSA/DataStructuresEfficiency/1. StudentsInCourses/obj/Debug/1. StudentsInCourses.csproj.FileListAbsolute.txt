@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\1. StudentsInCourses\bin\Debug\_1.StudentsInCourses.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\1. StudentsInCourses\obj\Debug\1. StudentsInCourses.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\1. StudentsInCourses\bin\Debug\_1.StudentsInCourses.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\1. StudentsInCourses\bin\Debug\_1.StudentsInCourses.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\1. StudentsInCourses\obj\Debug\_1.StudentsInCourses.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\1. StudentsInCourses\obj\Debug\_1.StudentsInCourses.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\1. StudentsInCourses\bin\Debug\PowerCollections.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\1. StudentsInCourses\bin\Debug\PowerCollections.xml

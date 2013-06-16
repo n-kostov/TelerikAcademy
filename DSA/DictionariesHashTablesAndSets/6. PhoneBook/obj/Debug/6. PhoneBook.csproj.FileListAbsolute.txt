@@ -1,0 +1,7 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\6. PhoneBook\bin\Debug\_6.PhoneBook.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\6. PhoneBook\obj\Debug\6. PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\6. PhoneBook\bin\Debug\_6.PhoneBook.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\6. PhoneBook\bin\Debug\_6.PhoneBook.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\6. PhoneBook\bin\Debug\PowerCollections.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\6. PhoneBook\obj\Debug\_6.PhoneBook.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\6. PhoneBook\obj\Debug\_6.PhoneBook.pdb

@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\3. BiDictionary\bin\Debug\_3.BiDictionary.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\3. BiDictionary\bin\Debug\_3.BiDictionary.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\3. BiDictionary\bin\Debug\_3.BiDictionary.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\3. BiDictionary\bin\Debug\PowerCollections.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\3. BiDictionary\bin\Debug\PowerCollections.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\3. BiDictionary\obj\Debug\3. BiDictionary.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\3. BiDictionary\obj\Debug\_3.BiDictionary.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DataStructuresEfficiency\3. BiDictionary\obj\Debug\_3.BiDictionary.pdb

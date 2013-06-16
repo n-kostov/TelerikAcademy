@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\3. Slider\bin\_3.Slider.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\3. Slider\bin\_3.Slider.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\3. Slider\obj\Debug\3. Slider.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\3. Slider\obj\Debug\_3.Slider.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Advanced OOP\3. Slider\obj\Debug\_3.Slider.pdb

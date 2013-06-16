@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="scripts/jQuery-1.10.1.js"></script>
+    <script type="text/javascript" src="scripts/script.js"></script>
+    <style>
+        table {
+            border-spacing: 0;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="content"></div>
+    <script>
+        var peter = new Student("Peter", "Ivanov", 3);
+        var milena = new Student("Milena", "Grigorova", 6);
+        var gergana = new Student("Gergana", "Borisova", 12);
+        var boyko = new Student("Boyko", "Petrov", 7);
+        var tableRenderer = new TableRenderer([peter, milena, gergana, boyko]);
+        tableRenderer.init();
+    </script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="scripts/jQuery-1.10.1.js"></script>
+    <script type="text/javascript" src="scripts/sliderControl.js"></script>
+    <style>
+        #currentSlide {
+            height: 500px;
+        }
+
+        #buttons {
+            text-align: center;
+        }
+
+        #prev, #next {
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="currentSlide"></div>
+    <div id="buttons">
+        <button id="prev"><</button>
+        <button id="next">></button>
+    </div>
+    <script>
+        var slide1 = "<div>AAA</div>";
+        var slide2 = "<ul><li>Item1</li><li>Item2</li><li>Item3</li><li>Item4</li></ul>";
+        var slide3 = "<h2>Text</h2><p>no more</p>";
+        var slider = new sliderControl();
+        slider.addSlide(slide1);
+        slider.addSlide(slide2);
+        slider.addSlide(slide3);
+        slider.render();
+    </script>
+</body>
+</html>

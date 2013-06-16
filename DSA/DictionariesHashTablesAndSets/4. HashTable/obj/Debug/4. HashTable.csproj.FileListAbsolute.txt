@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\4. HashTable\bin\Debug\_4.HashTable.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\4. HashTable\obj\Debug\4. HashTable.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\4. HashTable\bin\Debug\_4.HashTable.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\4. HashTable\bin\Debug\_4.HashTable.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\4. HashTable\obj\Debug\_4.HashTable.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\4. HashTable\obj\Debug\_4.HashTable.pdb

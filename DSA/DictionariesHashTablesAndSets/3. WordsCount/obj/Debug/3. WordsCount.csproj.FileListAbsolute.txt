@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\3. WordsCount\bin\Debug\_3.WordsCount.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\3. WordsCount\bin\Debug\_3.WordsCount.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\3. WordsCount\bin\Debug\_3.WordsCount.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\3. WordsCount\obj\Debug\_3.WordsCount.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\3. WordsCount\obj\Debug\_3.WordsCount.pdb

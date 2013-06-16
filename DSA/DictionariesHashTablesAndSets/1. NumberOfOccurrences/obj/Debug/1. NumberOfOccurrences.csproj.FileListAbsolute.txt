@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\1. NumberOfOccurrences\bin\Debug\_1.NumberOfOccurrences.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\1. NumberOfOccurrences\bin\Debug\_1.NumberOfOccurrences.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\1. NumberOfOccurrences\bin\Debug\_1.NumberOfOccurrences.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\1. NumberOfOccurrences\obj\Debug\_1.NumberOfOccurrences.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\DictionariesHashTablesAndSets\1. NumberOfOccurrences\obj\Debug\_1.NumberOfOccurrences.pdb
