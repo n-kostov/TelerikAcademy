@@ -1,0 +1,7 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\09. BooksDB\bin\Debug\_09.BooksDB.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\09. BooksDB\bin\Debug\_09.BooksDB.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\09. BooksDB\bin\Debug\_09.BooksDB.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\09. BooksDB\bin\Debug\MySql.Data.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\09. BooksDB\obj\Debug\09. BooksDB.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\09. BooksDB\obj\Debug\_09.BooksDB.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\09. BooksDB\obj\Debug\_09.BooksDB.pdb

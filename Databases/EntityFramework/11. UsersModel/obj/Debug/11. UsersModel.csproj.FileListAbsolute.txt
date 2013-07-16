@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\11. UsersModel\bin\Debug\_11.UsersModel.dll.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\11. UsersModel\bin\Debug\_11.UsersModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\11. UsersModel\bin\Debug\_11.UsersModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\11. UsersModel\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\11. UsersModel\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\11. UsersModel\obj\Debug\11. UsersModel.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\11. UsersModel\obj\Debug\_11.UsersModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\11. UsersModel\obj\Debug\_11.UsersModel.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\06. ReadFromExcel\bin\Debug\_06.ReadFromExcel.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\06. ReadFromExcel\bin\Debug\_06.ReadFromExcel.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\06. ReadFromExcel\bin\Debug\_06.ReadFromExcel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\06. ReadFromExcel\obj\Debug\_06.ReadFromExcel.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\06. ReadFromExcel\obj\Debug\_06.ReadFromExcel.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\04. StoreImages\bin\Debug\_04.StoreImages.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\04. StoreImages\obj\Debug\04. StoreImages.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\04. StoreImages\bin\Debug\_04.StoreImages.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\04. StoreImages\bin\Debug\_04.StoreImages.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\04. StoreImages\obj\Debug\_04.StoreImages.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\04. StoreImages\obj\Debug\_04.StoreImages.pdb

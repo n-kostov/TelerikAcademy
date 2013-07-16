@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\FindAllProductsWithEscapingSpecialCharacters\bin\Debug\FindAllProductsWithEscapingSpecialCharacters.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\FindAllProductsWithEscapingSpecialCharacters\bin\Debug\FindAllProductsWithEscapingSpecialCharacters.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\FindAllProductsWithEscapingSpecialCharacters\bin\Debug\FindAllProductsWithEscapingSpecialCharacters.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\FindAllProductsWithEscapingSpecialCharacters\obj\Debug\FindAllProductsWithEscapingSpecialCharacters.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\FindAllProductsWithEscapingSpecialCharacters\obj\Debug\FindAllProductsWithEscapingSpecialCharacters.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\FindAllProductsWithEscapingSpecialCharacters\obj\Debug\FindAllProductsWithEscapingSpecialCharacters.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\03. GetCategoriesAndName\bin\Debug\_03.GetCategoriesAndName.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\03. GetCategoriesAndName\bin\Debug\_03.GetCategoriesAndName.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\03. GetCategoriesAndName\bin\Debug\_03.GetCategoriesAndName.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\03. GetCategoriesAndName\obj\Debug\_03.GetCategoriesAndName.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\03. GetCategoriesAndName\obj\Debug\_03.GetCategoriesAndName.pdb

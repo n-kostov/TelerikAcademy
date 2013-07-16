@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\bin\Debug\_06.CreateDatabase.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\bin\Debug\_06.CreateDatabase.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\bin\Debug\_06.CreateDatabase.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\bin\Debug\_01.UsingEntityFrameworkModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\bin\Debug\_01.UsingEntityFrameworkModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\obj\Debug\06. CreateDatabase.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\obj\Debug\_06.CreateDatabase.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\06. CreateDatabase\obj\Debug\_06.CreateDatabase.pdb

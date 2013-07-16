@@ -1,0 +1,1 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\04. AddProduct\bin\Debug\_03.AddProduct.exe.config

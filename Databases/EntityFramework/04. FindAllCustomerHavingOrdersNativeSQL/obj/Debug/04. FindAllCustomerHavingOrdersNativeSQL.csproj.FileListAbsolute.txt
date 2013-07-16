@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\bin\Debug\_04.FindAllCustomerHavingOrdersNativeSQL.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\obj\Debug\04. FindAllCustomerHavingOrdersNativeSQL.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\bin\Debug\_04.FindAllCustomerHavingOrdersNativeSQL.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\bin\Debug\_04.FindAllCustomerHavingOrdersNativeSQL.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\bin\Debug\_01.UsingEntityFrameworkModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\bin\Debug\_01.UsingEntityFrameworkModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\obj\Debug\_04.FindAllCustomerHavingOrdersNativeSQL.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\04. FindAllCustomerHavingOrdersNativeSQL\obj\Debug\_04.FindAllCustomerHavingOrdersNativeSQL.pdb

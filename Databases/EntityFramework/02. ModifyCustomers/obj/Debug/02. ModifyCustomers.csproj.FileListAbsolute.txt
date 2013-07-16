@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\obj\Debug\02. ModifyCustomers.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\bin\Debug\_02.ModifyCustomers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\bin\Debug\_02.ModifyCustomers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\bin\Debug\_01.UsingEntityFrameworkModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\bin\Debug\_01.UsingEntityFrameworkModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\obj\Debug\_02.ModifyCustomers.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\obj\Debug\_02.ModifyCustomers.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\02. ModifyCustomers\bin\Debug\_02.ModifyCustomers.exe.config

@@ -1,0 +1,1 @@
+http://entityframework.codeplex.com/SourceControl/latest#src/EntityFramework.SqlServer/SqlSpatialDataReader.cs

@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\bin\Debug\BooksDBSQLite.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\bin\Debug\BooksDBSQLite.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\bin\Debug\BooksDBSQLite.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\obj\Debug\10. BooksDBSQLite.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\obj\Debug\BooksDBSQLite.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\10. BooksDBSQLite\obj\Debug\BooksDBSQLite.pdb

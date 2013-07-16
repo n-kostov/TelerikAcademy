@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\bin\Debug\_03.FindAllCustomersHavingOrdersFromCanada.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\obj\Debug\03. FindAllCustomersHavingOrdersFromCanada.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\bin\Debug\_03.FindAllCustomersHavingOrdersFromCanada.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\bin\Debug\_03.FindAllCustomersHavingOrdersFromCanada.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\bin\Debug\_01.UsingEntityFrameworkModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\bin\Debug\_01.UsingEntityFrameworkModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\obj\Debug\_03.FindAllCustomersHavingOrdersFromCanada.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\03. FindAllCustomersHavingOrdersFromCanada\obj\Debug\_03.FindAllCustomersHavingOrdersFromCanada.pdb

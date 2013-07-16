@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\02. NameAndDescriptionOfCategories\bin\Debug\_02.NameAndDescriptionOfCategories.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\02. NameAndDescriptionOfCategories\obj\Debug\02. NameAndDescriptionOfCategories.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\02. NameAndDescriptionOfCategories\bin\Debug\_02.NameAndDescriptionOfCategories.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\02. NameAndDescriptionOfCategories\bin\Debug\_02.NameAndDescriptionOfCategories.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\02. NameAndDescriptionOfCategories\obj\Debug\_02.NameAndDescriptionOfCategories.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\ADO.NET\02. NameAndDescriptionOfCategories\obj\Debug\_02.NameAndDescriptionOfCategories.pdb

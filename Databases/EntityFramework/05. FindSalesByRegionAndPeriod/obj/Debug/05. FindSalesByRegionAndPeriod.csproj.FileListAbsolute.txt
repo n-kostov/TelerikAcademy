@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\bin\Debug\_05.FindSalesByRegionAndPeriod.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\obj\Debug\05. FindSalesByRegionAndPeriod.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\bin\Debug\_05.FindSalesByRegionAndPeriod.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\bin\Debug\_05.FindSalesByRegionAndPeriod.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\bin\Debug\_01.UsingEntityFrameworkModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\bin\Debug\_01.UsingEntityFrameworkModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\obj\Debug\_05.FindSalesByRegionAndPeriod.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\05. FindSalesByRegionAndPeriod\obj\Debug\_05.FindSalesByRegionAndPeriod.pdb

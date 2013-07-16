@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\bin\Debug\_09.InsertSeveralOrdersWithTransaction.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\bin\Debug\_09.InsertSeveralOrdersWithTransaction.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\bin\Debug\_09.InsertSeveralOrdersWithTransaction.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\bin\Debug\_01.UsingEntityFrameworkModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\bin\Debug\_01.UsingEntityFrameworkModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\obj\Debug\09. InsertSeveralOrdersWithTransaction.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\obj\Debug\_09.InsertSeveralOrdersWithTransaction.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFramework\09. InsertSeveralOrdersWithTransaction\obj\Debug\_09.InsertSeveralOrdersWithTransaction.pdb
