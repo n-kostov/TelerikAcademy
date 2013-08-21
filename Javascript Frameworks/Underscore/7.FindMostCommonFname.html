@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title></title>
+	<script src="Scripts/class.js"></script>
+	<script src="Scripts/underscore.js"></script>
+</head>
+<body>
+	<script type="text/javascript">
+		var Person = Class.create({
+			init: function (fname, lname) {
+				this.fname = fname;
+				this.lname = lname;
+			},
+			fullname: function() {
+				return this.fname + " " +  this.lname;
+			},
+			toString: function () {
+				return this.fullname();
+			}
+		});
+
+		var students = [new Person("Doncho", "Minkov"), new Person("Niki", "Kostov"), 
+			new Person("Svetlin", "Nakov"), new Person("Georgi", "Georgiev"),
+			new Person("Niki", "Jagger")];
+
+		findMostCommonName(students, 'fname');
+		findMostCommonName(students, 'lname');
+
+		function findMostCommonName(people, name) {
+			var mostCommonName = _.chain(people)
+									.groupBy(name)
+										.max(function(item) {
+											return _.values(item).length;
+										}).value()[0][name];
+			console.log("The most common " + name + " is: " + mostCommonName);
+		}
+	</script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCountHost\bin\Debug\StringCountHost.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCountHost\bin\Debug\StringCountHost.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCountHost\bin\Debug\StringCountHost.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCountHost\obj\Debug\StringCountHost.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCountHost\obj\Debug\StringCountHost.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCountHost\obj\Debug\StringCountHost.pdb

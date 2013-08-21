@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\bin\Debug\CodeJewels.Data.dll.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\bin\Debug\CodeJewels.Data.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\bin\Debug\CodeJewels.Data.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\bin\Debug\CodeJewels.Models.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\bin\Debug\CodeJewels.Models.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\obj\Debug\CodeJewel.Data.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\obj\Debug\CodeJewels.Data.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewel.Data\obj\Debug\CodeJewels.Data.pdb

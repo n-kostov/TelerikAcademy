@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\3. FindWordsInFile\bin\Debug\_3.FindWordsInFile.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\3. FindWordsInFile\obj\Debug\3. FindWordsInFile.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\3. FindWordsInFile\bin\Debug\_3.FindWordsInFile.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\3. FindWordsInFile\bin\Debug\_3.FindWordsInFile.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\3. FindWordsInFile\obj\Debug\_3.FindWordsInFile.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\3. FindWordsInFile\obj\Debug\_3.FindWordsInFile.pdb

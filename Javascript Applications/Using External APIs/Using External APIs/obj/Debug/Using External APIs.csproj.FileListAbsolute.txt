@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Using External APIs\Using External APIs\bin\Using External APIs.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Using External APIs\Using External APIs\bin\Using External APIs.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Using External APIs\Using External APIs\obj\Debug\Using External APIs.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Using External APIs\Using External APIs\obj\Debug\Using External APIs.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Using External APIs\Using External APIs\obj\Debug\Using External APIs.pdb

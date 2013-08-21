@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\ASP.NET Web API\ArtistsAlbums.Model\bin\Debug\ArtistsAlbums.Model.dll.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\ASP.NET Web API\ArtistsAlbums.Model\bin\Debug\ArtistsAlbums.Model.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\ASP.NET Web API\ArtistsAlbums.Model\bin\Debug\ArtistsAlbums.Model.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\ASP.NET Web API\ArtistsAlbums.Model\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\ASP.NET Web API\ArtistsAlbums.Model\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\ASP.NET Web API\ArtistsAlbums.Model\obj\Debug\ArtistsAlbums.Model.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\ASP.NET Web API\ArtistsAlbums.Model\obj\Debug\ArtistsAlbums.Model.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\ASP.NET Web API\ArtistsAlbums.Model\obj\Debug\ArtistsAlbums.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\03. SeedWithRandomValues\bin\Debug\_03.SeedWithRandomValues.exe.config

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Knapsack Problem\bin\Debug\Knapsack Problem.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Knapsack Problem\obj\Debug\Knapsack Problem.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Knapsack Problem\bin\Debug\Knapsack Problem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Knapsack Problem\bin\Debug\Knapsack Problem.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Knapsack Problem\obj\Debug\Knapsack Problem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Knapsack Problem\obj\Debug\Knapsack Problem.pdb

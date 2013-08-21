@@ -1,0 +1,14 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\_02.RedisDictionary.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\_02.RedisDictionary.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\_02.RedisDictionary.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\ServiceStack.Common.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\ServiceStack.Redis.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\ServiceStack.Text.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\ServiceStack.Common.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\ServiceStack.Redis.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\bin\Debug\ServiceStack.Text.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\obj\Debug\02. RedisDictionary.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\obj\Debug\_02.RedisDictionary.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\02. RedisDictionary\obj\Debug\_02.RedisDictionary.pdb

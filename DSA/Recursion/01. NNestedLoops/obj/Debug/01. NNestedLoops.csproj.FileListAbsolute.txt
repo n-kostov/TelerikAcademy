@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\01. NNestedLoops\bin\Debug\_01.NNestedLoops.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\01. NNestedLoops\bin\Debug\_01.NNestedLoops.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\01. NNestedLoops\bin\Debug\_01.NNestedLoops.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\01. NNestedLoops\obj\Debug\01. NNestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\01. NNestedLoops\obj\Debug\_01.NNestedLoops.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\01. NNestedLoops\obj\Debug\_01.NNestedLoops.pdb

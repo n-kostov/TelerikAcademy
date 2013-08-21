@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\03. Divisors\bin\Debug\_03.Divisors.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\03. Divisors\bin\Debug\_03.Divisors.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\03. Divisors\bin\Debug\_03.Divisors.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\03. Divisors\obj\Debug\_03.Divisors.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\03. Divisors\obj\Debug\_03.Divisors.pdb

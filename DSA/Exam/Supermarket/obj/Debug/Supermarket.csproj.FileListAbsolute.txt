@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Supermarket\obj\Debug\Supermarket.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Supermarket\bin\Debug\PowerCollections.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Supermarket\bin\Debug\PowerCollections.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Supermarket\obj\Debug\Supermarket.pdb

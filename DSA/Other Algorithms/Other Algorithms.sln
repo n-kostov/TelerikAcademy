@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. NumberOfCoins", "1. NumberOfCoins\1. NumberOfCoins.csproj", "{132FD495-9FA0-4322-92A4-E6FF781ACCE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. PointInTriangle", "2. PointInTriangle\2. PointInTriangle.csproj", "{ACE1742D-DF38-4165-9D35-0A53B4E1C5C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{132FD495-9FA0-4322-92A4-E6FF781ACCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132FD495-9FA0-4322-92A4-E6FF781ACCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132FD495-9FA0-4322-92A4-E6FF781ACCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132FD495-9FA0-4322-92A4-E6FF781ACCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE1742D-DF38-4165-9D35-0A53B4E1C5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE1742D-DF38-4165-9D35-0A53B4E1C5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE1742D-DF38-4165-9D35-0A53B4E1C5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE1742D-DF38-4165-9D35-0A53B4E1C5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\bin\Debug\_01.MongoDictionary.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\bin\Debug\_01.MongoDictionary.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\bin\Debug\_01.MongoDictionary.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\bin\Debug\MongoDB.Bson.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\bin\Debug\MongoDB.Driver.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\bin\Debug\MongoDB.Bson.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\bin\Debug\MongoDB.Driver.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\obj\Debug\01. MongoDictionary.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\obj\Debug\_01.MongoDictionary.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\NoSQL Databases\01. MongoDictionary\obj\Debug\_01.MongoDictionary.pdb

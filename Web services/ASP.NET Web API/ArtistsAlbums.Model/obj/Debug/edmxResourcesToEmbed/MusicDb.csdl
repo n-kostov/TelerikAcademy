@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MusicDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="MusicDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Albums" EntityType="MusicDBModel.Album" />
+    <EntitySet Name="Artists" EntityType="MusicDBModel.Artist" />
+    <EntitySet Name="Songs" EntityType="MusicDBModel.Song" />
+    <EntitySet Name="sysdiagrams" EntityType="MusicDBModel.sysdiagram" />
+    <AssociationSet Name="FK_Songs_Albums" Association="MusicDBModel.FK_Songs_Albums">
+      <End Role="Albums" EntitySet="Albums" />
+      <End Role="Songs" EntitySet="Songs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Songs_Artists" Association="MusicDBModel.FK_Songs_Artists">
+      <End Role="Artists" EntitySet="Artists" />
+      <End Role="Songs" EntitySet="Songs" />
+    </AssociationSet>
+    <AssociationSet Name="AlbumsArtists" Association="MusicDBModel.AlbumsArtists">
+      <End Role="Albums" EntitySet="Albums" />
+      <End Role="Artists" EntitySet="Artists" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Album">
+    <Key>
+      <PropertyRef Name="AlbumId" />
+    </Key>
+    <Property Name="AlbumId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Year" Type="DateTime" Precision="0" />
+    <Property Name="Producer" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Songs" Relationship="MusicDBModel.FK_Songs_Albums" FromRole="Albums" ToRole="Songs" />
+    <NavigationProperty Name="Artists" Relationship="MusicDBModel.AlbumsArtists" FromRole="Albums" ToRole="Artists" />
+  </EntityType>
+  <EntityType Name="Artist">
+    <Key>
+      <PropertyRef Name="ArtistId" />
+    </Key>
+    <Property Name="ArtistId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Country" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Songs" Relationship="MusicDBModel.FK_Songs_Artists" FromRole="Artists" ToRole="Songs" />
+    <NavigationProperty Name="Albums" Relationship="MusicDBModel.AlbumsArtists" FromRole="Artists" ToRole="Albums" />
+  </EntityType>
+  <EntityType Name="Song">
+    <Key>
+      <PropertyRef Name="SongId" />
+    </Key>
+    <Property Name="SongId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Year" Type="DateTime" Precision="0" />
+    <Property Name="Genre" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="AlbumId" Type="Int32" />
+    <Property Name="ArtistId" Type="Int32" />
+    <NavigationProperty Name="Album" Relationship="MusicDBModel.FK_Songs_Albums" FromRole="Songs" ToRole="Albums" />
+    <NavigationProperty Name="Artist" Relationship="MusicDBModel.FK_Songs_Artists" FromRole="Songs" ToRole="Artists" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Songs_Albums">
+    <End Role="Albums" Type="MusicDBModel.Album" Multiplicity="0..1" />
+    <End Role="Songs" Type="MusicDBModel.Song" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Albums">
+        <PropertyRef Name="AlbumId" />
+      </Principal>
+      <Dependent Role="Songs">
+        <PropertyRef Name="AlbumId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Songs_Artists">
+    <End Role="Artists" Type="MusicDBModel.Artist" Multiplicity="0..1" />
+    <End Role="Songs" Type="MusicDBModel.Song" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Artists">
+        <PropertyRef Name="ArtistId" />
+      </Principal>
+      <Dependent Role="Songs">
+        <PropertyRef Name="ArtistId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AlbumsArtists">
+    <End Role="Albums" Type="MusicDBModel.Album" Multiplicity="*" />
+    <End Role="Artists" Type="MusicDBModel.Artist" Multiplicity="*" />
+  </Association>
+</Schema>

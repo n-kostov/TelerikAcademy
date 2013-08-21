@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. Salaries\bin\Debug\_1.Salaries.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. Salaries\bin\Debug\_1.Salaries.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. Salaries\bin\Debug\_1.Salaries.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. Salaries\obj\Debug\_1.Salaries.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. Salaries\obj\Debug\_1.Salaries.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. Salaries\obj\Debug\1. Salaries.csprojResolveAssemblyReference.cache

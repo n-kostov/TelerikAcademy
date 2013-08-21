@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\2. PointInTriangle\bin\Debug\_2.PointInTriangle.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\2. PointInTriangle\bin\Debug\_2.PointInTriangle.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\2. PointInTriangle\bin\Debug\_2.PointInTriangle.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\2. PointInTriangle\obj\Debug\_2.PointInTriangle.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\2. PointInTriangle\obj\Debug\_2.PointInTriangle.pdb

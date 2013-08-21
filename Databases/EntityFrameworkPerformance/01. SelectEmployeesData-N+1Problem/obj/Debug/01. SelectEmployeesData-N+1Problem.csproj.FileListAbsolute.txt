@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\bin\Debug\_01.SelectEmployeesData_N_1Problem.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\bin\Debug\_01.SelectEmployeesData_N_1Problem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\bin\Debug\_01.SelectEmployeesData_N_1Problem.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\bin\Debug\TelerikAcademyModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\bin\Debug\TelerikAcademyModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\obj\Debug\01. SelectEmployeesData-N+1Problem.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\obj\Debug\_01.SelectEmployeesData_N_1Problem.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkPerformance\01. SelectEmployeesData-N+1Problem\obj\Debug\_01.SelectEmployeesData_N_1Problem.pdb

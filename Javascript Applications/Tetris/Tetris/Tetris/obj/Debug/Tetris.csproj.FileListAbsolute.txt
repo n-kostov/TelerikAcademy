@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Tetris\Tetris\Tetris\bin\Tetris.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Tetris\Tetris\Tetris\bin\Tetris.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Tetris\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Tetris\Tetris\Tetris\obj\Debug\Tetris.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Javascript Applications\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb

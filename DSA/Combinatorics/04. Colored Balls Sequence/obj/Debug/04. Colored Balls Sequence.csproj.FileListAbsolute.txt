@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\04. Colored Balls Sequence\bin\Debug\_04.Colored_Balls_Sequence.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\04. Colored Balls Sequence\bin\Debug\_04.Colored_Balls_Sequence.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\04. Colored Balls Sequence\bin\Debug\_04.Colored_Balls_Sequence.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\04. Colored Balls Sequence\obj\Debug\_04.Colored_Balls_Sequence.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\04. Colored Balls Sequence\obj\Debug\_04.Colored_Balls_Sequence.pdb

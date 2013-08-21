@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Models\obj\Debug\CodeJewels.Models.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Models\bin\Debug\CodeJewels.Models.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Models\bin\Debug\CodeJewels.Models.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Models\obj\Debug\CodeJewels.Models.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Models\obj\Debug\CodeJewels.Models.pdb

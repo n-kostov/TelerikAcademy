@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\1. NumberOfCoins\bin\Debug\_1.NumberOfCoins.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\1. NumberOfCoins\bin\Debug\_1.NumberOfCoins.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\1. NumberOfCoins\bin\Debug\_1.NumberOfCoins.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\1. NumberOfCoins\obj\Debug\1. NumberOfCoins.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\1. NumberOfCoins\obj\Debug\_1.NumberOfCoins.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Other Algorithms\1. NumberOfCoins\obj\Debug\_1.NumberOfCoins.pdb

@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\bin\Debug\GetArticlesFromFeedzilla.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\obj\Debug\GetArticlesFromFeedzilla.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\bin\Debug\GetArticlesFromFeedzilla.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\bin\Debug\GetArticlesFromFeedzilla.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\obj\Debug\GetArticlesFromFeedzilla.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\obj\Debug\GetArticlesFromFeedzilla.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\bin\Debug\Newtonsoft.Json.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\bin\Debug\Newtonsoft.Json.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Consuming Web Services\GetArticlesFromFeedzilla\bin\Debug\System.Net.Http.Formatting.xml

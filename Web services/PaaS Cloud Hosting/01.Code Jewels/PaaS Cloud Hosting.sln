@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJewels.Models", "CodeJewels.Models\CodeJewels.Models.csproj", "{44AF1FF8-47CC-4063-859F-B7FAC06A2497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJewel.Data", "CodeJewel.Data\CodeJewel.Data.csproj", "{1764AE00-2125-4DE7-A4FA-38885A1BAC09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJewels.Repositories", "CodeJewels.Repositories\CodeJewels.Repositories.csproj", "{1DE44D92-ECF8-45DD-A27C-1FD28ABFFAEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJewels.Services", "CodeJewels.Services\CodeJewels.Services.csproj", "{E6E0A321-DC8F-448C-9543-3E965B4D28C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AF1FF8-47CC-4063-859F-B7FAC06A2497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AF1FF8-47CC-4063-859F-B7FAC06A2497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AF1FF8-47CC-4063-859F-B7FAC06A2497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AF1FF8-47CC-4063-859F-B7FAC06A2497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1764AE00-2125-4DE7-A4FA-38885A1BAC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1764AE00-2125-4DE7-A4FA-38885A1BAC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1764AE00-2125-4DE7-A4FA-38885A1BAC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1764AE00-2125-4DE7-A4FA-38885A1BAC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE44D92-ECF8-45DD-A27C-1FD28ABFFAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE44D92-ECF8-45DD-A27C-1FD28ABFFAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE44D92-ECF8-45DD-A27C-1FD28ABFFAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE44D92-ECF8-45DD-A27C-1FD28ABFFAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E0A321-DC8F-448C-9543-3E965B4D28C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E0A321-DC8F-448C-9543-3E965B4D28C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E0A321-DC8F-448C-9543-3E965B4D28C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E0A321-DC8F-448C-9543-3E965B4D28C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

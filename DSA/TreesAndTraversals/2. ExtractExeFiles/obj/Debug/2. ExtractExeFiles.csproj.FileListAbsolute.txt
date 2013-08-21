@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\2. ExtractExeFiles\bin\Debug\_2.ExtractExeFiles.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\2. ExtractExeFiles\bin\Debug\_2.ExtractExeFiles.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\2. ExtractExeFiles\bin\Debug\_2.ExtractExeFiles.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\2. ExtractExeFiles\obj\Debug\_2.ExtractExeFiles.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\2. ExtractExeFiles\obj\Debug\_2.ExtractExeFiles.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\2. ExtractExeFiles\obj\Debug\2. ExtractExeFiles.csprojResolveAssemblyReference.cache

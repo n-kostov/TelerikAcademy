@@ -1,0 +1,7 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Repositories\bin\Debug\CodeJewels.Repositories.dll.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Repositories\bin\Debug\CodeJewels.Repositories.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Repositories\bin\Debug\CodeJewels.Repositories.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Repositories\obj\Debug\CodeJewels.Repositories.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\PaaS Cloud Hosting\CodeJewels.Repositories\obj\Debug\CodeJewels.Repositories.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\04. Permutations\bin\Debug\_04.Permutations.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\04. Permutations\bin\Debug\_04.Permutations.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\04. Permutations\bin\Debug\_04.Permutations.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\04. Permutations\obj\Debug\_04.Permutations.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\04. Permutations\obj\Debug\_04.Permutations.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\04. Permutations\obj\Debug\04. Permutations.csprojResolveAssemblyReference.cache

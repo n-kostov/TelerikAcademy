@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\bin\Debug\_02.StudentSystemDataUsage.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\obj\Debug\02. StudentSystemDataUsage.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\bin\Debug\_02.StudentSystemDataUsage.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\bin\Debug\_02.StudentSystemDataUsage.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\bin\Debug\_01.StudentSystem.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\bin\Debug\_01.StudentSystem.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\obj\Debug\_02.StudentSystemDataUsage.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\EntityFrameworkCodeFirst\02. StudentSystemDataUsage\obj\Debug\_02.StudentSystemDataUsage.pdb

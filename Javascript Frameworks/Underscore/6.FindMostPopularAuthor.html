@@ -1,0 +1,31 @@
+<html>
+<head>
+	<title></title>
+	<script src="Scripts/class.js"></script>
+	<script src="Scripts/underscore.js"></script>
+</head>
+<body>
+	<script type="text/javascript">
+		var Book = Class.create({
+			init: function (title, author) {
+				this.title = title;
+				this.author = author;
+			}
+		});
+
+		var books = [new Book("Drinking for beginners", "Nakov"), new Book("ASP.NET MVC", "Niki"), 
+			new Book("Drinking for experts", "Nakov"), new Book("Go home, you are drunk!", "Joro"),
+			new Book("Drinking for advanced", "Nakov")];
+
+		var mostPopularAuthor = _.chain(books).groupBy('author')
+			.max(function(item) {
+				return _.values(item).length;
+			}).value();
+
+		console.log(mostPopularAuthor[0].author + " => " + mostPopularAuthor.length);
+		_.each(mostPopularAuthor, function(item) {
+			console.log(item.title);
+		})
+	</script>
+</body>
+</html>

@@ -1,8 +1,8 @@
-﻿using System;
-using System.Linq;
-
-namespace _1.PriorityQueue
+﻿namespace _1.PriorityQueue
 {
+    using System;
+    using System.Linq;
+
     public class PriorityQueue<T> where T : IComparable<T>
     {
         private const int DefaultCapacity = 8;

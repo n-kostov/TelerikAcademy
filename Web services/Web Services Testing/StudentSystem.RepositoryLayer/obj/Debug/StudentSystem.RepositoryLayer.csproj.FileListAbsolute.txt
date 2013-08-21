@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer\bin\Debug\StudentSystem.RepositoryLayer.dll.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer\bin\Debug\StudentSystem.RepositoryLayer.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer\bin\Debug\StudentSystem.RepositoryLayer.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer\obj\Debug\StudentSystem.RepositoryLayer.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer\obj\Debug\StudentSystem.RepositoryLayer.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer\obj\Debug\StudentSystem.RepositoryLayer.csprojResolveAssemblyReference.cache

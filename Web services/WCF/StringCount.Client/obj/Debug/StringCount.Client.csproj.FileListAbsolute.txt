@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCount.Client\bin\Debug\StringCount.Client.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCount.Client\obj\Debug\StringCount.Client.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCount.Client\bin\Debug\StringCount.Client.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCount.Client\bin\Debug\StringCount.Client.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCount.Client\obj\Debug\StringCount.Client.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\StringCount.Client\obj\Debug\StringCount.Client.pdb

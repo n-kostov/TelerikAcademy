@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\2. FindProductsInPriceRange\bin\Debug\_2.FindProductsInPriceRange.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\2. FindProductsInPriceRange\bin\Debug\_2.FindProductsInPriceRange.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\2. FindProductsInPriceRange\bin\Debug\_2.FindProductsInPriceRange.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\2. FindProductsInPriceRange\bin\Debug\PowerCollections.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\2. FindProductsInPriceRange\bin\Debug\PowerCollections.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\2. FindProductsInPriceRange\obj\Debug\2. FindProductsInPriceRange.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\2. FindProductsInPriceRange\obj\Debug\_2.FindProductsInPriceRange.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\AdvancedDataStructures\2. FindProductsInPriceRange\obj\Debug\_2.FindProductsInPriceRange.pdb

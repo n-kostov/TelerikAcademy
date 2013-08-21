@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi FileUpload", "WebApi FileUpload\WebApi FileUpload.csproj", "{BC1D0BE5-083F-4540-99B7-F75A70A9C53B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCall", "TestCall\TestCall.csproj", "{BE3D1C8E-0CAD-4B04-9729-063F06AADE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1D0BE5-083F-4540-99B7-F75A70A9C53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1D0BE5-083F-4540-99B7-F75A70A9C53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1D0BE5-083F-4540-99B7-F75A70A9C53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1D0BE5-083F-4540-99B7-F75A70A9C53B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3D1C8E-0CAD-4B04-9729-063F06AADE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3D1C8E-0CAD-4B04-9729-063F06AADE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3D1C8E-0CAD-4B04-9729-063F06AADE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3D1C8E-0CAD-4B04-9729-063F06AADE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

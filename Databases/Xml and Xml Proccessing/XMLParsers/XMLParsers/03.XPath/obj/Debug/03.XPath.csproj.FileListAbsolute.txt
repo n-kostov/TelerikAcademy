@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\03.XPath\bin\Debug\03.XPath.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\03.XPath\bin\Debug\03.XPath.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\03.XPath\bin\Debug\03.XPath.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\03.XPath\obj\Debug\03.XPath.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\03.XPath\obj\Debug\03.XPath.pdb

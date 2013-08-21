@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeekConsumer.Client\bin\Debug\BulgarianDayOfWeekConsumer.Client.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeekConsumer.Client\bin\Debug\BulgarianDayOfWeekConsumer.Client.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeekConsumer.Client\bin\Debug\BulgarianDayOfWeekConsumer.Client.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeekConsumer.Client\obj\Debug\BulgarianDayOfWeekConsumer.Client.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeekConsumer.Client\obj\Debug\BulgarianDayOfWeekConsumer.Client.pdb

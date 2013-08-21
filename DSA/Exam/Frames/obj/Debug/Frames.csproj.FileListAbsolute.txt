@@ -1,0 +1,7 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Frames\bin\Debug\Frames.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Frames\obj\Debug\Frames.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Frames\bin\Debug\Frames.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Frames\bin\Debug\Frames.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Frames\obj\Debug\Frames.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Frames\obj\Debug\Frames.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\Frames\bin\Debug\PowerCollections.dll

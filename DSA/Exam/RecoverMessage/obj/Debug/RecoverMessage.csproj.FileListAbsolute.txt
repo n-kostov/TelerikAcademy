@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\RecoverMessage\bin\Debug\RecoverMessage.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\RecoverMessage\bin\Debug\RecoverMessage.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\RecoverMessage\bin\Debug\RecoverMessage.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\RecoverMessage\obj\Debug\RecoverMessage.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\RecoverMessage\obj\Debug\RecoverMessage.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Exam\RecoverMessage\obj\Debug\RecoverMessage.pdb

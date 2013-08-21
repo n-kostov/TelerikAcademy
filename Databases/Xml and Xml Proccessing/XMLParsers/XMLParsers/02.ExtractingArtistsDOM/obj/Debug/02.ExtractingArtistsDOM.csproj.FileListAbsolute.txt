@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\02.ExtractingArtistsDOM\bin\Debug\02.ExtractingArtistsDOM.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\02.ExtractingArtistsDOM\bin\Debug\02.ExtractingArtistsDOM.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\02.ExtractingArtistsDOM\bin\Debug\02.ExtractingArtistsDOM.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\02.ExtractingArtistsDOM\obj\Debug\02.ExtractingArtistsDOM.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\02.ExtractingArtistsDOM\obj\Debug\02.ExtractingArtistsDOM.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\02.ExtractingArtistsDOM\obj\Debug\02.ExtractingArtistsDOM.pdb

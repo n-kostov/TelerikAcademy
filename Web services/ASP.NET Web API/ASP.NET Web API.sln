@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWebApi", "AspNetWebApi\AspNetWebApi.csproj", "{072DCE75-FC62-4741-B224-E8E89D66463B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtistsAlbums.Model", "ArtistsAlbums.Model\ArtistsAlbums.Model.csproj", "{CFB6CED8-57B7-4149-B809-D4094B266C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWebApi.Client", "AspNetWebApi.Client\AspNetWebApi.Client.csproj", "{CF07DD97-C175-4275-8ABD-7C4387D82D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{072DCE75-FC62-4741-B224-E8E89D66463B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072DCE75-FC62-4741-B224-E8E89D66463B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072DCE75-FC62-4741-B224-E8E89D66463B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072DCE75-FC62-4741-B224-E8E89D66463B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB6CED8-57B7-4149-B809-D4094B266C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB6CED8-57B7-4149-B809-D4094B266C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB6CED8-57B7-4149-B809-D4094B266C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB6CED8-57B7-4149-B809-D4094B266C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF07DD97-C175-4275-8ABD-7C4387D82D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF07DD97-C175-4275-8ABD-7C4387D82D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF07DD97-C175-4275-8ABD-7C4387D82D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF07DD97-C175-4275-8ABD-7C4387D82D05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

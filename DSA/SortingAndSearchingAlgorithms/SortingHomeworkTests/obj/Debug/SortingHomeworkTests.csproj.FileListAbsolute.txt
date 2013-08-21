@@ -1,0 +1,7 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\SortingAndSearchingAlgorithms\SortingHomeworkTests\obj\Debug\SortingHomeworkTests.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\SortingAndSearchingAlgorithms\SortingHomeworkTests\bin\Debug\SortingHomeworkTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\SortingAndSearchingAlgorithms\SortingHomeworkTests\bin\Debug\SortingHomeworkTests.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\SortingAndSearchingAlgorithms\SortingHomeworkTests\bin\Debug\SortingHomework.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\SortingAndSearchingAlgorithms\SortingHomeworkTests\bin\Debug\SortingHomework.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\SortingAndSearchingAlgorithms\SortingHomeworkTests\obj\Debug\SortingHomeworkTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\SortingAndSearchingAlgorithms\SortingHomeworkTests\obj\Debug\SortingHomeworkTests.pdb

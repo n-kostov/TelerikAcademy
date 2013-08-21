@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\bin\Debug\_02.WithdrawMoney.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\bin\Debug\_02.WithdrawMoney.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\bin\Debug\ATMModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\bin\Debug\ATMModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\obj\Debug\02. WithdrawMoney.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\obj\Debug\_02.WithdrawMoney.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\obj\Debug\_02.WithdrawMoney.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\02. WithdrawMoney\bin\Debug\_02.WithdrawMoney.exe.config

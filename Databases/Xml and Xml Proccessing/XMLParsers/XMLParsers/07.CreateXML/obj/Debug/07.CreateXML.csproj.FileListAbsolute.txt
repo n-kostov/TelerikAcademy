@@ -1,0 +1,1 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\07.CreateXML\bin\Debug\07.CreateXML.exe.config

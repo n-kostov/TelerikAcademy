@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQApp\bin\Debug\01.IronMQApp.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQApp\bin\Debug\01.IronMQApp.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQApp\bin\Debug\01.IronMQApp.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQApp\bin\Debug\iron_mq_dotnet.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQApp\obj\Debug\01.IronMQApp.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQApp\obj\Debug\01.IronMQApp.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQApp\obj\Debug\01.IronMQApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\05. OrderedVariations\bin\Debug\_05.OrderedVariations.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\05. OrderedVariations\bin\Debug\_05.OrderedVariations.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\05. OrderedVariations\bin\Debug\_05.OrderedVariations.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\05. OrderedVariations\obj\Debug\_05.OrderedVariations.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\05. OrderedVariations\obj\Debug\_05.OrderedVariations.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\05. OrderedVariations\obj\Debug\05. OrderedVariations.csprojResolveAssemblyReference.cache

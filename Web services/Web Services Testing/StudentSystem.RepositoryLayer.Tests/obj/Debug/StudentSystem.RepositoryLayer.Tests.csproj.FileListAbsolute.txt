@@ -1,0 +1,14 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\StudentSystem.RepositoryLayer.Tests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\StudentSystem.RepositoryLayer.Tests.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\StudentSystem.Model.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\StudentSystem.RepositoryLayer.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\StudentSystem.Model.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\StudentSystem.RepositoryLayer.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\obj\Debug\StudentSystem.RepositoryLayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\obj\Debug\StudentSystem.RepositoryLayer.Tests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\obj\Debug\StudentSystem.RepositoryLayer.Tests.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\StudentSystem.RepositoryLayer.Tests.dll.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\StudentSystem.DataLayer.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.RepositoryLayer.Tests\bin\Debug\StudentSystem.DataLayer.pdb

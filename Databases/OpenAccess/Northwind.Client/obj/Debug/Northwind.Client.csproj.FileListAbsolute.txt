@@ -1,0 +1,14 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\Northwind.Client.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\Northwind.Client.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\Northwind.Client.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\Northwind.Model.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\NorthwindFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.ServiceHost.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\Northwind.Model.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\NorthwindFramework.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\bin\Debug\Telerik.OpenAccess.ServiceHost.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\obj\Debug\Northwind.Client.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\obj\Debug\Northwind.Client.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Client\obj\Debug\Northwind.Client.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\11. PermutationsWithRepetitionsOfMultiSet\bin\Debug\_11.PermutationsWithRepetitionsOfMultiSet.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\11. PermutationsWithRepetitionsOfMultiSet\bin\Debug\_11.PermutationsWithRepetitionsOfMultiSet.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\11. PermutationsWithRepetitionsOfMultiSet\bin\Debug\_11.PermutationsWithRepetitionsOfMultiSet.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\11. PermutationsWithRepetitionsOfMultiSet\obj\Debug\11. PermutationsWithRepetitionsOfMultiSet.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\11. PermutationsWithRepetitionsOfMultiSet\obj\Debug\_11.PermutationsWithRepetitionsOfMultiSet.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\11. PermutationsWithRepetitionsOfMultiSet\obj\Debug\_11.PermutationsWithRepetitionsOfMultiSet.pdb

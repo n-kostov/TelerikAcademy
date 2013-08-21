@@ -1,0 +1,8 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. FriendsOfPesho\bin\Debug\_1.FriendsOfPesho.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. FriendsOfPesho\obj\Debug\1. FriendsOfPesho.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. FriendsOfPesho\bin\Debug\_1.FriendsOfPesho.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. FriendsOfPesho\bin\Debug\_1.FriendsOfPesho.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. FriendsOfPesho\obj\Debug\_1.FriendsOfPesho.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. FriendsOfPesho\obj\Debug\_1.FriendsOfPesho.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. FriendsOfPesho\bin\Debug\PowerCollections.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Graphs and Graph Algorithms\1. FriendsOfPesho\bin\Debug\PowerCollections.xml

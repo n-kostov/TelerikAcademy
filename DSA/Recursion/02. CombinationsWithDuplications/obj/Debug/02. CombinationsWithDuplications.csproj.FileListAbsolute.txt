@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\02. CombinationsWithDuplications\bin\Debug\_02.CombinationsWithDuplications.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\02. CombinationsWithDuplications\bin\Debug\_02.CombinationsWithDuplications.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\02. CombinationsWithDuplications\bin\Debug\_02.CombinationsWithDuplications.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\02. CombinationsWithDuplications\obj\Debug\_02.CombinationsWithDuplications.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\02. CombinationsWithDuplications\obj\Debug\_02.CombinationsWithDuplications.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\02. CombinationsWithDuplications\obj\Debug\02. CombinationsWithDuplications.csprojResolveAssemblyReference.cache

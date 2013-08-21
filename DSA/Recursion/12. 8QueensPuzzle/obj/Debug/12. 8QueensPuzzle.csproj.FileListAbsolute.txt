@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\12. 8QueensPuzzle\bin\Debug\12. 8QueensPuzzle.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\12. 8QueensPuzzle\bin\Debug\12. 8QueensPuzzle.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\12. 8QueensPuzzle\bin\Debug\12. 8QueensPuzzle.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\12. 8QueensPuzzle\obj\Debug\12. 8QueensPuzzle.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\12. 8QueensPuzzle\obj\Debug\12. 8QueensPuzzle.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\12. 8QueensPuzzle\obj\Debug\12. 8QueensPuzzle.csprojResolveAssemblyReference.cache

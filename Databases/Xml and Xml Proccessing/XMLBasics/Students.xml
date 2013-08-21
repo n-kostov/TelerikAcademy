@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="StudentsStyle.xslt"?>
+<students name="Students" xmlns:students="urn:something.com:StudentsNamespace"
+                xmlns:exams="urn:something.com:ExamsNamespace">
+  <student>
+    <name>Pesho</name>
+    <sex>Both</sex>
+    <birthdate>1990-01-01</birthdate>
+    <phone>0888112233</phone>
+    <email>azsympesho@mail.bg</email>
+    <course>Beginners For Dummies</course>
+    <specialty>Dummy</specialty>
+    <facultyN>99</facultyN>
+    <exams>
+      <name>Math</name>
+      <tutor>Gosho</tutor>
+      <score>90</score>
+    </exams>
+  </student>
+  <student>
+    <name>Gosho</name>
+    <sex>Female</sex>
+    <birthdate>1970-01-01</birthdate>
+    <phone>0888332211</phone>
+    <email>azsymgosho@mail.bg</email>
+    <course>Beginners For Dummies</course>
+    <specialty>Beginner</specialty>
+    <facultyN>66</facultyN>
+    <exams>
+      <name>Biology</name>
+      <tutor>Pesho</tutor>
+      <score>90</score>
+    </exams>
+  </student>
+
+</students>

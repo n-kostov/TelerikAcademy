@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Minimum Edit Distance\bin\Debug\Minimum Edit Distance.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Minimum Edit Distance\bin\Debug\Minimum Edit Distance.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Minimum Edit Distance\bin\Debug\Minimum Edit Distance.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Minimum Edit Distance\obj\Debug\Minimum Edit Distance.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Minimum Edit Distance\obj\Debug\Minimum Edit Distance.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Dynamic Programming\Minimum Edit Distance\obj\Debug\Minimum Edit Distance.pdb

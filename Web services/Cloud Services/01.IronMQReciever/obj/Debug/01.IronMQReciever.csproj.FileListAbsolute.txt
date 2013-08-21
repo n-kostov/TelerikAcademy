@@ -1,0 +1,7 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQReciever\bin\Debug\01.IronMQReciever.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQReciever\bin\Debug\01.IronMQReciever.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQReciever\bin\Debug\01.IronMQReciever.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQReciever\bin\Debug\iron_mq_dotnet.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQReciever\bin\Debug\Newtonsoft.Json.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQReciever\obj\Debug\01.IronMQReciever.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Cloud Services\01.IronMQReciever\obj\Debug\01.IronMQReciever.pdb

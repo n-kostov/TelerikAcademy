@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\obj\Debug\04. ATMTests.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\bin\Debug\_04.ATMTests.dll.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\bin\Debug\_04.ATMTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\bin\Debug\_04.ATMTests.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\bin\Debug\ATMModel.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\bin\Debug\ATMModel.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\obj\Debug\_04.ATMTests.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Database Transactions\04. ATMTests\obj\Debug\_04.ATMTests.pdb

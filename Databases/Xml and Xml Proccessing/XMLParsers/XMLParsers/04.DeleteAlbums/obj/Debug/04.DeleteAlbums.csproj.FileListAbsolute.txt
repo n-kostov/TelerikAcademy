@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\04.DeleteAlbums\bin\Debug\04.DeleteAlbums.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\04.DeleteAlbums\bin\Debug\04.DeleteAlbums.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\04.DeleteAlbums\bin\Debug\04.DeleteAlbums.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\04.DeleteAlbums\obj\Debug\04.DeleteAlbums.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\Xml and Xml Proccessing\XMLParsers\XMLParsers\04.DeleteAlbums\obj\Debug\04.DeleteAlbums.pdb

@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\3. FileSystemTree\bin\Debug\_3.FileSystemTree.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\3. FileSystemTree\bin\Debug\_3.FileSystemTree.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\3. FileSystemTree\bin\Debug\_3.FileSystemTree.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\3. FileSystemTree\obj\Debug\3. FileSystemTree.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\3. FileSystemTree\obj\Debug\_3.FileSystemTree.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\TreesAndTraversals\3. FileSystemTree\obj\Debug\_3.FileSystemTree.pdb

@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\BloggingSystem\BloggingSystem.Models\obj\Debug\BloggingSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\BloggingSystem\BloggingSystem.Models\bin\Debug\BloggingSystem.Models.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\BloggingSystem\BloggingSystem.Models\bin\Debug\BloggingSystem.Models.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\BloggingSystem\BloggingSystem.Models\obj\Debug\BloggingSystem.Models.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\BloggingSystem\BloggingSystem.Models\obj\Debug\BloggingSystem.Models.pdb

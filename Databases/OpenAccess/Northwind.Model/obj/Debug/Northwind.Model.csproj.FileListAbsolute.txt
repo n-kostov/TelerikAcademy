@@ -1,0 +1,10 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\bin\Debug\Northwind.Model.dll.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\bin\Debug\Northwind.Model.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\bin\Debug\Northwind.Model.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\bin\Debug\NorthwindFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\bin\Debug\NorthwindFramework.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\obj\Debug\Northwind.Model.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\obj\Debug\Northwind.Model.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Databases\OpenAccess\Northwind.Model\obj\Debug\Northwind.Model.pdb

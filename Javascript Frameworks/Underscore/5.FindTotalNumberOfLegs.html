@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title></title>
+	<script src="Scripts/class.js"></script>
+	<script src="Scripts/underscore.js"></script>
+</head>
+<body>
+	<script type="text/javascript">
+		var Animal = Class.create({
+			init: function (name, legs) {
+				this.name = name;
+				this.legs = legs;
+			},
+			toString: function () {
+				return this.name + " => " + this.legs;
+			}
+		});
+
+		var animals = [new Animal("Lion", 4), new Animal("Tiger", 4), 
+			new Animal("Blowfish", 0), new Animal("Owl", 2), new Animal("Gryphon", 4)];
+
+		var totalLegs = _.reduce(animals, function(memo, num) {
+			return memo + num.legs;
+		}, 0);
+
+		console.log("Total numbers of legs: " + totalLegs);
+	</script>
+</body>
+</html>

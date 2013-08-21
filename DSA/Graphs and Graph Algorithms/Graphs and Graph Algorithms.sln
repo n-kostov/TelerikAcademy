@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. FriendsOfPesho", "1. FriendsOfPesho\1. FriendsOfPesho.csproj", "{305A377B-A8D2-40E3-93A9-108BF01F1750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Salaries", "1. Salaries\1. Salaries.csproj", "{48BFE0F7-9778-4EF0-A26B-E4F786FD0D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. CableTVCompany", "2. CableTVCompany\2. CableTVCompany.csproj", "{3106CB9B-3833-43DB-A7B5-46E498242BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305A377B-A8D2-40E3-93A9-108BF01F1750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305A377B-A8D2-40E3-93A9-108BF01F1750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305A377B-A8D2-40E3-93A9-108BF01F1750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305A377B-A8D2-40E3-93A9-108BF01F1750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BFE0F7-9778-4EF0-A26B-E4F786FD0D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BFE0F7-9778-4EF0-A26B-E4F786FD0D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BFE0F7-9778-4EF0-A26B-E4F786FD0D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BFE0F7-9778-4EF0-A26B-E4F786FD0D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3106CB9B-3833-43DB-A7B5-46E498242BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3106CB9B-3833-43DB-A7B5-46E498242BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3106CB9B-3833-43DB-A7B5-46E498242BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3106CB9B-3833-43DB-A7B5-46E498242BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

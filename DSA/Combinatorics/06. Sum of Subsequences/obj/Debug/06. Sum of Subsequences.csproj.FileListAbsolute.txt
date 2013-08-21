@@ -1,0 +1,5 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\06. Sum of Subsequences\bin\Debug\_06.Sum_of_Subsequences.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\06. Sum of Subsequences\bin\Debug\_06.Sum_of_Subsequences.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\06. Sum of Subsequences\bin\Debug\_06.Sum_of_Subsequences.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\06. Sum of Subsequences\obj\Debug\_06.Sum_of_Subsequences.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\06. Sum of Subsequences\obj\Debug\_06.Sum_of_Subsequences.pdb

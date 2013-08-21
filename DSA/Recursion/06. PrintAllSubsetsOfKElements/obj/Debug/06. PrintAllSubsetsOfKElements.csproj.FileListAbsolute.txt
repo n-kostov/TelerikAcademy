@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\06. PrintAllSubsetsOfKElements\bin\Debug\_06.PrintAllSubsetsOfKElements.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\06. PrintAllSubsetsOfKElements\bin\Debug\_06.PrintAllSubsetsOfKElements.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\06. PrintAllSubsetsOfKElements\bin\Debug\_06.PrintAllSubsetsOfKElements.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\06. PrintAllSubsetsOfKElements\obj\Debug\_06.PrintAllSubsetsOfKElements.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\06. PrintAllSubsetsOfKElements\obj\Debug\_06.PrintAllSubsetsOfKElements.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Recursion\06. PrintAllSubsetsOfKElements\obj\Debug\06. PrintAllSubsetsOfKElements.csprojResolveAssemblyReference.cache

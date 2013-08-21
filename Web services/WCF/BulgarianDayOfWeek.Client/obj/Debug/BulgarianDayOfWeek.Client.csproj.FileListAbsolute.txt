@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeek.Client\bin\Debug\BulgarianDayOfWeek.Client.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeek.Client\bin\Debug\BulgarianDayOfWeek.Client.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeek.Client\bin\Debug\BulgarianDayOfWeek.Client.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeek.Client\obj\Debug\BulgarianDayOfWeek.Client.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeek.Client\obj\Debug\BulgarianDayOfWeek.Client.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\WCF\BulgarianDayOfWeek.Client\obj\Debug\BulgarianDayOfWeek.Client.csprojResolveAssemblyReference.cache

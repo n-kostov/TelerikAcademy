@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. StudentSystem", "01. StudentSystem\01. StudentSystem.csproj", "{A5C14A57-C666-4927-B311-CF3BA9F34CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. StudentSystemDataUsage", "02. StudentSystemDataUsage\02. StudentSystemDataUsage.csproj", "{9AD6E119-FEA4-4BC0-830B-5CF429C76505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C14A57-C666-4927-B311-CF3BA9F34CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C14A57-C666-4927-B311-CF3BA9F34CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C14A57-C666-4927-B311-CF3BA9F34CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C14A57-C666-4927-B311-CF3BA9F34CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD6E119-FEA4-4BC0-830B-5CF429C76505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD6E119-FEA4-4BC0-830B-5CF429C76505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD6E119-FEA4-4BC0-830B-5CF429C76505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD6E119-FEA4-4BC0-830B-5CF429C76505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

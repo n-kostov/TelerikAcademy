@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="StudentsStyle.xsl"?>
+
+<sample:exams xmlns:sample="http://www.trans.com/exams/1.0">
+  <sample:exam>
+    <sample:name>Math</sample:name>
+    <sample:tutor>Penka</sample:tutor>
+    <sample:score>98</sample:score>
+  </sample:exam>
+</sample:exams>

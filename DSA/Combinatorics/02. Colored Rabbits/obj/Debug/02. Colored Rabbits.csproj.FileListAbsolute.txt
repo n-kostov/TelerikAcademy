@@ -1,0 +1,6 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\02. Colored Rabbits\bin\Debug\_02.Colored_Rabbits.exe.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\02. Colored Rabbits\bin\Debug\_02.Colored_Rabbits.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\02. Colored Rabbits\bin\Debug\_02.Colored_Rabbits.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\02. Colored Rabbits\obj\Debug\02. Colored Rabbits.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\02. Colored Rabbits\obj\Debug\_02.Colored_Rabbits.exe
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\DSA\Combinatorics\02. Colored Rabbits\obj\Debug\_02.Colored_Rabbits.pdb

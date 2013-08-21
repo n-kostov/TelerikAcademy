@@ -1,0 +1,12 @@
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\obj\Debug\StudentSystem.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\bin\Debug\StudentSystem.DataLayer.dll.config
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\bin\Debug\StudentSystem.DataLayer.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\bin\Debug\StudentSystem.DataLayer.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\bin\Debug\StudentSystem.Model.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\bin\Debug\StudentSystem.Model.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\obj\Debug\StudentSystem.DataLayer.dll
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\obj\Debug\StudentSystem.DataLayer.pdb
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\obj\Debug\StudentSystem.DataLayer.Migrations.InitialCreate.resources
+C:\Users\virusa\Documents\Visual Studio 2012\Projects\Telerik\Web services\Web Services Testing\StudentSystem.DataLayer\obj\Debug\StudentSystem.DataLayer.csproj.GenerateResource.Cache
