@@ -28,10 +28,10 @@
 
 		function findMostCommonName(people, name) {
 			var mostCommonName = _.chain(people)
-									.groupBy(name)
-										.max(function(item) {
-											return _.values(item).length;
-										}).value()[0][name];
+				.groupBy(name)
+					.max(function(item) {
+						return _.values(item).length;
+					}).value()[0][name];
 			console.log("The most common " + name + " is: " + mostCommonName);
 		}
 	</script>

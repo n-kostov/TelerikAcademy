@@ -24,13 +24,13 @@
 		})
 
 		var studentsSorted = _.chain(studentsWithFirstNameBeforeLastName)
-								.sortBy(studentsWithFirstNameBeforeLastName, function(item){ 
-									return item.fullname();
-								})
-									.reverse()
-										.each(function(item){ 
-											console.log(item.fullname());
-										});
+			.sortBy(studentsWithFirstNameBeforeLastName, function(item){ 
+				return item.fullname();
+			})
+				.reverse()
+					.each(function(item){ 
+						console.log(item.fullname());
+					});
 	</script>
 </body>
 </html>
