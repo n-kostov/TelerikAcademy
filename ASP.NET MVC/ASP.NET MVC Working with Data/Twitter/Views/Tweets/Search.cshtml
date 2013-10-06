@@ -1,0 +1,28 @@
+﻿@using Twitter.ViewModels
+@model IEnumerable<TweetViewModel>
+@{
+    ViewBag.Title = "Tweets Search Page";
+}
+
+<h1>Tweets search</h1>
+
+@foreach (var item in Model)
+{
+    <div class="container-fluid">
+        <div class="control-group">
+            <strong>@item.Author</strong>
+            <em>@item.CretedOn</em>
+        </div>
+        <p>@item.Content</p>
+        <div class="control-group">
+            @foreach (var tag in item.Tags)
+            {
+                <span>
+                    @Html.ActionLink(tag, "Search", "Tweets", new { query = tag }, null)
+                </span>
+            }
+        </div>
+    </div>
+}
+
+@Html.ActionLink("Back", "Index", "Home")

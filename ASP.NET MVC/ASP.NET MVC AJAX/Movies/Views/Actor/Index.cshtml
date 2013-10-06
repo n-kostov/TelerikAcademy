@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Movies.Models.Actor>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Ajax.ActionLink("Create New", "Create", new AjaxOptions
+        {
+            InsertionMode = InsertionMode.InsertAfter,
+            UpdateTargetId = "tbl",
+        })
+</p>
+<table class="table" id="tbl">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsMale)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr id="@item.ActorId">
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsMale)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Ajax.ActionLink("Edit", "Edit", new { id = item.ActorId }, new AjaxOptions
+                    {
+                        InsertionMode = InsertionMode.Replace,
+                        UpdateTargetId = item.ActorId.ToString()
+                    }) |
+                @Ajax.ActionLink("Delete", "Delete", new { id = item.ActorId }, new AjaxOptions
+                {
+                    InsertionMode = InsertionMode.Replace,
+                    UpdateTargetId = item.ActorId.ToString()
+                })
+            </td>
+        </tr>
+    }
+    @*<tr id="create-actor" style="display: none"></tr>*@
+
+</table>
+<script>
+    function onActorDeleted(id) {
+        $("#" + id).remove();
+    }
+</script>

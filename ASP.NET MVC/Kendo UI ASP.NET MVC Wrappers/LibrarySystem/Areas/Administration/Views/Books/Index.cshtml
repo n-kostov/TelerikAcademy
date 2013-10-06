@@ -1,0 +1,40 @@
+﻿@using LibrarySystem.ViewModels
+@model IEnumerable<BookViewModel>
+@{
+    ViewBag.Title = "Books";
+}
+
+<h2>Books</h2>
+
+@(Html.Kendo().Grid(Model).Name("books-grid")
+        .Columns(colums =>
+        {
+            colums.Bound(book => book.Title)
+                .ClientTemplate("#: Title.length > 20 ? Title.substring(0,20) : Title #");
+            colums.Bound(book => book.Author)
+                .ClientTemplate("#: Author.length > 20 ? Author.substring(0,20) : Author #");
+            colums.Bound(book => book.ISBN)
+                .ClientTemplate("#: ISBN != null ? (ISBN.length > 20 ? ISBN.substring(0,20) : ISBN) : '' #");
+            colums.Bound(book => book.Website)
+                .ClientTemplate(string.Format("<a href='{0}'>{1}</a>", "#: Website #", "#: Website != null ? (Website.length > 20 ? Website.substring(0,20) : Website) : '' #"));
+            colums.Bound(book => book.Category)
+                .ClientTemplate("#: Category.length > 20 ? Category.substring(0,20) : Category #");
+            colums.Command(command => { command.Edit(); command.Destroy(); }).Title("Commands");
+        })
+        .ToolBar(toolbar => toolbar.Create())
+    .Sortable()
+    .Pageable(pager => pager.PageSizes(true))
+    .Editable(e => e.Mode(GridEditMode.PopUp).TemplateName("Books"))
+    .DataSource(source =>
+        source.Ajax()
+        .ServerOperation(false)
+            //.Read(read => read.Action("GetBooks", "Books"))
+        .Update(update => update.Action("UpdateBook", "Books"))
+        .Create(create => create.Action("CreateBook", "Books"))
+        .Destroy(destroy => destroy.Action("DeleteBook", "Books"))
+        .Model(model =>
+            {
+                model.Id(book => book.BookId);
+                model.Field(book => book.BookId).Editable(false);
+            })
+        ))

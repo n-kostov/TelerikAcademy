@@ -1,0 +1,33 @@
+﻿@model Movies.Models.Actor
+
+<tr id="@Model.ActorId">
+    @*@Html.AntiForgeryToken()*@
+    @Html.ValidationSummary(true)
+    <td>
+        @Html.TextBoxFor(model => model.Name, new { id = "actor-name" })
+        @Html.ValidationMessageFor(model => model.Name, null, new { @class = "help-inline" })
+    </td>
+    <td>
+        @Html.CheckBoxFor(model => model.IsMale, new { id = "actor-gender" })
+        @Html.ValidationMessageFor(model => model.IsMale, null, new { @class = "help-inline" })
+    </td>
+    <td>
+        @Html.TextBoxFor(model => model.Age, new { id = "actor-age" })
+        @Html.ValidationMessageFor(model => model.Age, null, new { @class = "help-inline" })
+    </td>
+    <td>
+        <a href="#" onclick="
+           var actordata={name: $('#actor-name').val(), isMale: $('#actor-gender').prop('checked'), age: $('#actor-age').val() };
+           console.log(actordata);
+           $.ajax({
+           type: 'POST' ,
+           url: 'Actor/Create' ,
+           data: actordata,
+           success: function (data) {
+               $('#0').html(data);
+           }
+           });
+           return false;">Save</a>
+        <a href="#" onclick="$('#0').remove()">Back</a>
+    </td>
+</tr>

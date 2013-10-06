@@ -1,0 +1,23 @@
+﻿@using Twitter.Models
+    @model IEnumerable<Tweet>
+
+    @{
+        ViewBag.Title = "Profile";
+    }
+
+    @foreach (var item in Model)
+    {
+        <div class="row-fluid">
+            <p>
+                <strong>
+                    @Html.DisplayFor(modelItem => item.Author.UserName)
+                </strong>
+            </p>
+            <p>
+                @Html.DisplayFor(modelItem => item.Content)
+            </p>
+            <p>
+                @Html.DisplayFor(modelItem => item.CretedOn)
+            </p>
+        </div>
+    }

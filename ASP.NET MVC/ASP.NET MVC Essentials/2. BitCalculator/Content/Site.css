@@ -1,0 +1,12 @@
+﻿body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+tbody tr:first-child {
+    width: 120px;
+}
+
+tbody tr:last-child {
+    width: 150px;
+}

@@ -1,0 +1,24 @@
+﻿@using Twitter.ViewModels
+@{
+    ViewBag.Title = "Tweets administration";
+}
+
+@(Html.Kendo().Grid<EditableTweetViewModel>()
+    .Name("tweets-grid")
+    .Columns(columns =>
+        {
+            columns.Bound(col => col.Content);
+            columns.Command(command => { command.Edit(); command.Destroy(); });
+        })
+    .ToolBar(toolbar => { toolbar.Create(); })
+    .Editable(conf => conf.Mode(GridEditMode.InLine))
+    .Pageable()
+    .Sortable()
+    .DataSource(source =>
+        source.Ajax()
+        .PageSize(5)
+        .Model(model => model.Id(x => x.TweetId))
+        .Read(read => read.Action("Read", "TweetsAdministration"))
+        .Update(update => update.Action("Edit", "TweetsAdministration"))
+        .Create(create => create.Action("Create", "TweetsAdministration"))
+        .Destroy(destroy => destroy.Action("Delete", "TweetsAdministration"))))

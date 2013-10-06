@@ -1,0 +1,37 @@
+﻿@using Twitter.ViewModels
+@model IEnumerable<TweetViewModel>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>Tweets</h1>
+
+<input type="text" id="search-tweet" class="search-query" />
+<input type="button" id="search-btn" class="btn" value="Search" />
+
+@foreach (var item in Model)
+{
+    <div class="container-fluid">
+        <div class="control-group">
+            <strong>@item.Author</strong>
+            <em>@item.CretedOn</em>
+        </div>
+        <p>@item.Content</p>
+        <div class="control-group">
+            @foreach (var tag in item.Tags)
+            {
+                <span>
+                    @Html.ActionLink(tag, "Search", "Tweets", new { query = tag }, null)
+                </span>
+            }
+        </div>
+    </div>
+}
+
+@Html.ActionLink("Create", "Create", "Tweets")
+
+<script>
+    $(document.body).on("click", "#search-btn", null, function () {
+        window.location.href = "Tweets/Search?query=%23" + $("#search-tweet").val();
+    });
+</script>

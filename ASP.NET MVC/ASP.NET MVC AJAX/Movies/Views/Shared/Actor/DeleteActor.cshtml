@@ -1,0 +1,26 @@
+﻿@model Movies.Models.Actor
+
+<td>
+    @Html.DisplayFor(modelItem => Model.Name)
+</td>
+<td>
+    @Html.DisplayFor(modelItem => Model.IsMale)
+</td>
+<td>
+    @Html.DisplayFor(modelItem => Model.Age)
+</td>
+<td>
+    @Ajax.ActionLink("Yes", "Delete", new { id = Model.ActorId }, new AjaxOptions
+                    {
+                        HttpMethod = "POST",
+                        InsertionMode = InsertionMode.Replace,
+                        UpdateTargetId = Model.ActorId.ToString(),
+                        OnSuccess = "onActorDeleted(" + Model.ActorId + ")",
+                    })
+    @Ajax.ActionLink("No", "Details", new { id = Model.ActorId }, new AjaxOptions
+    {
+        HttpMethod = "POST",
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = Model.ActorId.ToString()
+    })
+</td>

@@ -1,0 +1,18 @@
+﻿@model IEnumerable<LibrarySystem.Models.Book>
+
+@{
+    ViewBag.Title = "BookDetails";
+}
+
+<h2>Search results for @ViewBag.Query</h2>
+
+@foreach (var book in Model)
+{
+    <p>
+        <a href="~/Home/BookDetails/@book.BookId">@(string.Format("\"{0}\" by {1}",book.Title, book.Author))</a>
+        <span>(@book.Category.CategoryName)</span>
+    </p>
+}
+    <p>
+        @Html.ActionLink("Back to List", "Index")
+    </p>

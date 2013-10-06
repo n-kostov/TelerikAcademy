@@ -1,0 +1,90 @@
+﻿@using Movies.Models
+@model Movie
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset class="form-horizontal">
+        <legend>Movie</legend>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Title, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Title)
+                @Html.ValidationMessageFor(model => model.Title, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Director, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Director)
+                @Html.ValidationMessageFor(model => model.Director, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Year, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Year)
+                @Html.ValidationMessageFor(model => model.Year, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.LeadingMaleActor, new { @class = "control-label" })
+            <div class="controls">
+                @Html.DropDownListFor(model => model.LeadingMaleActorId,
+                    new SelectList((ViewData["Actors"] as IQueryable<Actor>)
+                        .Where(a => a.IsMale), "actorId", "name"))
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.LeadingFemaleActor, new { @class = "control-label" })
+            <div class="controls">
+                @Html.DropDownListFor(model => model.LeadingFemaleActorId,
+                    new SelectList((ViewData["Actors"] as IQueryable<Actor>)
+                        .Where(a => !a.IsMale), "actorId", "name"))
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.Studio, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Studio)
+                @Html.ValidationMessageFor(model => model.Studio, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.StudioAddress, new { @class = "control-label" })
+            <div class="controls">
+                @Html.EditorFor(model => model.StudioAddress)
+                @Html.ValidationMessageFor(model => model.StudioAddress, null, new { @class = "help-inline" })
+            </div>
+        </div>
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Create" class="btn" />
+        </div>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

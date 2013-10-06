@@ -1,0 +1,38 @@
+﻿@using _2.BitCalculator.Models
+<div>
+    <h1>Bit Calculator</h1>
+    @using (Html.BeginForm("Calculator", "Home"))
+    {
+        <label for="quantity">Quantity</label>
+        <input type="text" name="quantity" value="@ViewBag.Quantity" />
+        <label>Type</label>
+        @Html.DropDownList("type", new SelectList(from Types e in Enum.GetValues(typeof(Types))
+                                                  orderby e
+                                                  select new KeyValuePair<string, int>(e.ToString(), (int)e), "value", "key"))
+        <label>Bandwidth</label>
+        @Html.DropDownList("bandwidth", new SelectList(new Dictionary<string, int>() { { "Kilobyte", 1024 }, { "Kilo", 1000 } }, "value", "key"))
+        <br />
+        <input type="submit" class="btn" />
+    }
+
+    <table class="table table-striped table-condensed">
+        <thead>
+            <tr>
+                <td colspan="2"> Bandwidth (Kilo = 1000 bits) </td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in (from Types e in Enum.GetValues(typeof(Types)) orderby e select e))
+            {
+                <tr>
+                    <td>@item.ToString()</td>
+                    <td>
+                        @(ViewBag.TypeValue * ViewBag.Quantity * (ViewBag.Bandwidth == 1024 ?
+                            Math.Pow(2, -(int)item) :
+                            Math.Pow(10, Math.Round(-(int)item / 10.0) * 3) * Math.Pow(2, (int)item % 10 != 0 ? -3 : 0)))
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

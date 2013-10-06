@@ -1,0 +1,31 @@
+﻿@using LibrarySystem.ViewModels
+@model IEnumerable<BookCategoryViewModel>
+@{
+    ViewBag.Title = "Categories";
+}
+
+<h2>Categories</h2>
+
+@(Html.Kendo().Grid(Model).Name("categories-grid")
+        .Columns(colums =>
+        {
+            colums.Bound(cat => cat.CategoryName)
+                .ClientTemplate("#: CategoryName.length > 20 ? CategoryName.substring(0,20) : CategoryName #");
+            colums.Command(command => { command.Edit(); command.Destroy(); }).Title("Commands");
+        })
+        .ToolBar(toolbar => toolbar.Create())
+    .Sortable()
+    .Pageable(pager => pager.PageSizes(true))
+    .Editable(e => e.Mode(GridEditMode.InLine))
+    .DataSource(source =>
+        source.Ajax()
+        .ServerOperation(false)
+        .Update(update => update.Action("UpdateCategory", "Categories"))
+        .Destroy(destroy => destroy.Action("DeleteCategory", "Categories"))
+        .Create(create => create.Action("CreateCategory","Categories"))
+        .Model(model =>
+            {
+                model.Id(cat => cat.CategoryId);
+                model.Field(cat => cat.CategoryId).Editable(false);
+            })
+        ))

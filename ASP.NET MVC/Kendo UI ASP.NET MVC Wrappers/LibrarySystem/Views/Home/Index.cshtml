@@ -1,0 +1,45 @@
+﻿@model IEnumerable<LibrarySystem.ViewModels.CategoryViewModel>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    @(Html.Kendo().AutoComplete().DataTextField("TitleAndAuthor")
+            .Name("query")
+            .Filter(FilterType.Contains).MinLength(3)
+            .Placeholder("Search book by title or author")
+            .DataSource(source =>
+                source.Read(read =>
+                    read.Action("GetBooks", "Home").Data("onAdditionalData"))
+                    .ServerFiltering(true)))
+    <input type="button" id="search-btn" value="Search" />
+</div>
+
+@(Html.Kendo().TreeView()
+    .Name("books")
+    .BindTo(Model.Select(x =>
+        new TreeViewItemModel
+        {
+            Text = x.CategoryName,
+            Items = x.Books.Select(book =>
+                new TreeViewItemModel
+                {
+                    Text = string.Format("\"{0}\" by {1}", book.Title, book.Author),
+                    Url = "~/Home/BookDetails/" + book.BookId
+                }).ToList()
+        })))
+
+<script>
+    function onAdditionalData() {
+        return {
+            text: $("#query").val()
+        };
+    }
+
+    $(function () {
+        $(document.body).on("click", "#search-btn", function () {
+            var query = $("#query").val();
+            location.href = "http://localhost:20202/Home/Search?query=" + encodeURIComponent(query);
+        })
+    });
+</script>

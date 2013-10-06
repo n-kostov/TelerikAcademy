@@ -1,0 +1,105 @@
+﻿@using Movies.Models
+@model IEnumerable<Movie>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+
+<p>
+    @Ajax.ActionLink("Create New", "Create", new AjaxOptions
+        {
+            InsertionMode = InsertionMode.Replace,
+            UpdateTargetId = "template",
+            OnSuccess = "validateForms"
+        })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Director)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Year)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LeadingMaleActor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LeadingFemaleActor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Studio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudioAddress)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr id="@item.MovieId">
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Director)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LeadingMaleActor.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LeadingFemaleActor.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Studio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudioAddress)
+            </td>
+            <td>
+                @Ajax.ActionLink("Edit", "Edit", new { id = item.MovieId },
+                    new AjaxOptions
+                    {
+                        HttpMethod = "GET",
+                        InsertionMode = InsertionMode.Replace,
+                        UpdateTargetId = "template",
+                        OnSuccess = "validateForms"
+                    })
+                @Ajax.ActionLink("Details", "Details", new { id = item.MovieId },
+                    new AjaxOptions
+                    {
+                        InsertionMode = InsertionMode.Replace,
+                        UpdateTargetId = "template"
+                    })
+                @Ajax.ActionLink("Delete", "Delete", new { id = item.MovieId },
+                    new AjaxOptions
+                    {
+                        InsertionMode = InsertionMode.Replace,
+                        UpdateTargetId = "template"
+                    })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div id="template">
+
+</div>
+<script>
+    function saveMovie() {
+        $("#template").hide();
+    }
+
+    function validateForms() {
+        $.validator.unobtrusive.parse($("#template"));
+    }
+</script>

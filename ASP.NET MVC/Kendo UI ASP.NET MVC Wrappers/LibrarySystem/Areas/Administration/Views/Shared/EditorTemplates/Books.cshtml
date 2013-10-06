@@ -1,0 +1,56 @@
+﻿@using LibrarySystem.ViewModels
+@model BookViewModel
+
+@Html.HiddenFor(model => model.BookId)
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Title)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Title)
+    @Html.ValidationMessageFor(model => model.Title)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Author)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Author)
+    @Html.ValidationMessageFor(model => model.Author)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.ISBN)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.ISBN)
+    @Html.ValidationMessageFor(model => model.ISBN)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Website)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Website)
+    @Html.ValidationMessageFor(model => model.Website)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Description)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Description)
+    @Html.ValidationMessageFor(model => model.Description)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Category)
+</div>
+<div class="editor-field">
+    @(Html.Kendo().DropDownListFor(model => model.Category)
+        .DataTextField("CategoryName")
+        .DataValueField("CategoryName")
+        .BindTo(ViewData["categories"] as IEnumerable<BookCategoryViewModel>))
+    @Html.ValidationMessageFor(model => model.Category)
+
+</div>

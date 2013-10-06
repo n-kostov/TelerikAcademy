@@ -1,0 +1,40 @@
+﻿@model Movies.Models.Actor
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+@*@Html.AntiForgeryToken()*@
+@Html.ValidationSummary(true)
+@Html.HiddenFor(model => model.ActorId, new { id = "actor-id" })
+<td>
+    @Html.TextBoxFor(model => model.Name, new { id = "actor-name" })
+    @Html.ValidationMessageFor(model => model.Name, null, new { @class = "help-inline" })
+</td>
+<td>
+    @Html.CheckBoxFor(model => model.IsMale, new { id = "actor-gender" })
+    @Html.ValidationMessageFor(model => model.IsMale, null, new { @class = "help-inline" })
+</td>
+<td>
+    @Html.TextBoxFor(model => model.Age, new { id = "actor-age" })
+    @Html.ValidationMessageFor(model => model.Age, null, new { @class = "help-inline" })
+</td>
+<td>
+    <a href="#" onclick="
+           var actordata={ actorid: $('#actor-id').val() , name: $('#actor-name').val(), isMale: $('#actor-gender').prop('checked'), age: $('#actor-age').val() };
+           console.log(actordata);
+           $.ajax({
+           type: 'POST' ,
+           url: 'Actor/Edit' ,
+           data: actordata,
+           success: function (data) {
+               $('#' + actordata.actorid).html(data);
+           }
+           });
+           return false;">Save</a>
+    @Ajax.ActionLink("Back", "Details", new { id = Model.ActorId }, new AjaxOptions
+                {
+                    InsertionMode = InsertionMode.Replace,
+                    UpdateTargetId = Model.ActorId.ToString()
+                })
+</td>
